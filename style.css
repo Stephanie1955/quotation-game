@@ -1,0 +1,132 @@
+.gameArea{
+  text-align: center;
+  font-size: medium;
+}
+.box{
+  display: inline-block;
+  width:  clamp(1rem, 2vw, 4rem);            
+  margin-right: 10px;
+  margin-bottom: .5em;
+  background-color: whitesmoke;
+  font-size: clamp(1rem, 2vw, 4rem);          
+  font-weight: bolder;
+}
+
+ h1 {
+   text-align: center;
+   font-family:  "Edwardian Script ITC", 'Times New Roman',  serif;
+   /*
+  clamp( MINIMUM, IDEAL, MAXIMUM )
+  The browser uses the ideal value (10vw) but ensures the font size
+  will never be smaller than 3rem or larger than 5rem.
+  */
+  font-size: clamp(3rem, 10vw, 5rem);  /*was *60px;*/
+  color: darkblue;
+  
+  
+                                  
+   /*margin-bottom: 0;
+   margin-top: 0;
+   */
+   
+
+ }
+
+ h2 {
+   text-align: center;
+   line-height: 1.5;
+   font-family: "Georgia", arial, serif;
+   font-size: clamp(1.5rem, 1vw, 1.5rem);  /* was 24px;*/
+  }
+
+ h3 {
+   text-align: center;
+   font-family: arial, 'Times New Roman', serif;
+   font-size: 30px;  /*clamp(1.5rem, 2vw, 2rem); */
+   font-weight: normal;
+   font-style:italic;
+   /*margin-top: 0;
+   margin-bottom: 0;
+   */
+ }
+
+  #nextIterationBtn {
+    padding: 10px 10px; /*space inside button */
+    border-radius: 12px;
+    background-color: green;
+    color: white;
+    font-size: large;
+    margin-top: .5rem;  
+    margin-bottom: .5em;
+   
+
+  }
+ div {
+      text-align: center;
+    }
+
+    .keyboard {
+    font-family: Arial;
+    display: grid;
+    grid-template-columns: repeat(20, minmax(auto, 1.25em)); 
+    /*20 columns, auto:to fill up as much space as possible w/ tiny viewport*/
+    /* have minmax incase browser size so small the font can't scale down small enough */
+    grid-auto-rows: 3em;
+    gap: .25em;
+    justify-content: center; /*put keyboard itself in the center */
+    margin-top: .5em; /* I added so always a margin between keyboard and above */ 
+  
+  }
+  
+  .key {
+     font-size: inherit; /*need this b/c buttons have a default sizing unless made inherent*/
+     grid-column: span 2;  /*each key button will be composed of 2 columns*/
+     border: none;
+     padding: 0;
+     display: flex;
+     justify-content: center; /*horizonal center*/
+     align-items: center; /* vertical center*/
+     background-color: hsl(
+        var(--hue, 200),
+        var(--saturation, 1%),
+        calc(var(--lightness-offset, 0%) + var(--lightness, 51%)) /*calc used for hover*/
+     );
+     color: white; /* color of text*/
+     text-transform: uppercase;
+     border-radius: .25em; /* to make rounded corners on each key*/
+     cursor: pointer;
+     user-select: none;/*so can't highlight anything on keyboard*/
+  } 
+   
+    .key:hover, .key:focus { /*focus works for tabbing thru keyboard*/
+      --lightness-offset: 10%;
+    }
+
+    .key.wrong {
+      --lightness: 23%; /*all keys are grey; if wrong just makes it darker*/
+    }
+    
+    .key.correct {
+      --hue: 115;
+      --saturation: 29%;
+      --lightness: 43%;
+    }
+
+  .my-box{
+    width: 300px;
+    padding: 20px;
+    border: 5px solid darkblue;
+    background-color: whitesmoke;
+    margin: 50px auto;
+    font-weight: bold;
+    font-style:  italic;
+    font-size: 20px;
+    font-family: georgia, arial, sans-serif;
+    color: black;   /*text color*/
+    line-height: 1.5;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+  }
+
+  
+
+

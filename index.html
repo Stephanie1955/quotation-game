@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+  <title>QuoteVersion2025_11_16 CSS box added</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+
+</head>
+
+<body>
+
+  <div class="gameArea">
+
+    <header>
+      <h1 id="CompleteThisQuotation"></h1>
+    </header>
+    
+    <div class = "my-box">
+      It is a pleasure to be able to quote lines to fit any occasion. ~ Abraham Lincoln
+    </div>
+
+    <div>
+      <h2 id="BeginGamePrompt" style="color: green ;font-size: 24px" ;>CLICK - Get A Quote - To Begin.</h2>
+    </div>
+
+    <div>
+      <h2 id="fullQuoteWithBlanks"></h2>
+    </div>
+    <div>
+      <h2 id="fullQuoteWithTargetWord"></h2>
+    </div>
+    <div>
+      <h1 id="congratsMsg"></h1>
+    </div>
+    <div>
+      <h3 id="authorsBio"></h3>
+    </div>
+
+    <div class="puzzle"> </div>
+
+    <button id="nextIterationBtn">Get A Quote</button>
+
+
+    <div data-keyboard class="keyboard"> 
+      <!--use css to create grid for keyboard of keys. Keys will have properties
+       key as class so can style it; data-key attribute to use in javascript-->
+      <!-- each "key" will take up 2 columns. Each "space" will take up 1 column
+        the keyboard is a grid -->
+
+      <button class="key" data-key="q">Q</button><!--start of 1st row of 20 columns-->
+      <button class="key" data-key="w">W</button>
+      <button class="key" data-key="e">E</button>
+      <button class="key" data-key="r">R</button>
+      <button class="key" data-key="t">T</button>
+      <button class="key" data-key="y">Y</button>
+      <button class="key" data-key="u">U</button>
+      <button class="key" data-key="i">I</button>
+      <button class="key" data-key="o">O</button>
+      <button class="key" data-key="p">P</button> <!--end of 1st row of 20 columns for row of 10 keys-->
+
+      <div class="space"></div> <!--for keyboard 1 column off spacing. 2nd row again has 20 columns-->
+      <button class="key" data-key="a">A</button>
+      <button class="key" data-key="s">S</button>
+      <button class="key" data-key="d">D</button>
+      <button class="key" data-key="f">F</button>
+      <button class="key" data-key="g">G</button>
+      <button class="key" data-key="h">H</button>
+      <button class="key" data-key="j">J</button>
+      <button class="key" data-key="k">K</button>
+      <button class="key" data-key="l">L</button>
+      <div class="space"></div> <!--for keyboard off spacing-->
+
+      <div class="space"></div>
+      <div class="space"></div>
+      <button class="key" data-key="z">Z</button>
+      <button class="key" data-key="x">X</button>
+      <button class="key" data-key="c">C</button>
+      <button class="key" data-key="v">V</button>
+      <button class="key" data-key="b">B</button>
+      <button class="key" data-key="n">N</button>
+      <button class="key" data-key="m">M</button>
+      <button class="key" data-key="'">'</button>
+      <!--<div class = "space"></div> 2 of these aren't needed as off-spacing is a mute concern now that
+    the keyboard is fashioned-->
+    </div>
+
+    <div>
+      <h2 id="vowelsEtc" style="color: green; font-style: italic;"></h2>
+      <h2 id="ThanksForPlaying" style="color: green; font-style: italic;"></h2>
+      
+    </div>
+
+    
+
+
+</body>
+
+</html>
