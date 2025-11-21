@@ -6,8 +6,6 @@ document.getElementById("CompleteThisQuotation").innerHTML = "Complete Today's Q
 // this allows user to make changes to the keyboard
 keyboard = document.querySelector("[data-keyboard]");
 
-document.getElementById("vowelsEtc").innerHTML = "Don't forget that Y is a part-time vowel.<br>The most used consonants are: D, L, N, R, S, & T";
-
 //create const game object with properties cur,solution, & puzz
 const game = { cur: "", solution: "", puzz: [] };
 
@@ -42,14 +40,14 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The world is a stage and the %play$ is badly cast.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Everything in moderation, including %moderation$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Everything in moderation, %including$ moderation.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The only good thing to do with advice is pass it on;<br>it is never of any use to %oneself$.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Anybody can sympathize with the sufferings of a friend, but it<br>requires a very fine nature to sympathize with a friend's %success$.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We are each our own devil, and we make this world our %hell$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###A bore is someone who deprives you of solitude without providing you with %company$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###A bore is someone who deprives you of<br>solitude without providing you with %company$.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I like men who have a future and women who have a %past$.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We live in an age when %unnecessary$ things are our only necessities.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I am so clever that sometimes I don't %understand$ a single word of what I am saying.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I am so clever that sometimes I<br>don't %understand$ a single word of what I am saying.",
 "Oscar Wilde (1854–1900) Irish writer, poet, and playwright###Ridicule is the tribute %paid$ to the genius by the mediocrities."
 
 
@@ -66,8 +64,7 @@ async function runLoopWithPause() {
     console.log("loop number: " + q);
     await waitForButtonClick();
 
-     document.getElementById("vowelsEtc").innerHTML = "";
-
+    //clear previous quote data
     document.getElementById("BeginGamePrompt").innerHTML = "";
     document.getElementById("fullQuoteWithTargetWord").innerHTML = "";
     document.getElementById("congratsMsg").innerHTML = "";
