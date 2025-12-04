@@ -20,14 +20,11 @@
   The browser uses the ideal value (10vw) but ensures the font size
   will never be smaller than 3rem or larger than 5rem.
   */
-  font-size: clamp(3rem, 10vw, 5rem);  /*was *60px;*/
+  font-size: clamp(3rem, 2vw, 5rem);  
   color: darkblue;
   
   
-                                  
-   /*margin-bottom: 0;
-   margin-top: 0;
-   */
+ 
    
 
  }
@@ -42,7 +39,7 @@
  h3 {
    text-align: center;
    font-family: arial, 'Times New Roman', serif;
-   font-size: 30px;  /*clamp(1.5rem, 2vw, 2rem); */
+   font-size: clamp(1.5rem, 2vw, 2rem);
    font-weight: normal;
    font-style:italic;
    /*margin-top: 0;
@@ -51,8 +48,8 @@
  }
 
   #nextIterationBtn {
-    padding: 10px 10px; /*space inside button */
-    border-radius: 12px;
+    padding: clamp(0.5rem, 2vw, 1rem); /*space inside button */
+    border-radius: clamp(0.5rem, 2vw, 1rem); /*rounded corners */
     background-color: green;
     color: white;
     font-size: large;
@@ -113,18 +110,19 @@
     }
 
   .my-box{
-    width: 300px;
-    padding: 20px;
-    border: 5px solid darkblue;
+    width: clamp(5rem, 30vw, 30rem); /*responsive width*/ 
+    padding: clamp(.5rem, 1vw, 1rem); /*responsive padding*/
+    border: clamp(0.2rem, 1vw, .3rem) solid darkblue; /*responsive border*/
     background-color: whitesmoke;
-    margin: 50px auto;
+    margin: 0 auto; /*center box*/
     font-weight: bold;
     font-style:  italic;
-    font-size: 20px;
+    font-size: clamp(1.5rem, 1vw, 2rem); /*responsive font size*/
     font-family: georgia, arial, sans-serif;
     color: black;   /*text color*/
-    line-height: 1.5;
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+    line-height: 1.25; /*space between lines*/
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2); /*adds shadow to box*/
+    text-align: center;
   }
 
   
