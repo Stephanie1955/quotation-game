@@ -1,6 +1,6 @@
 //Display Game Title
 //Game uses Clicks. Want to modify to use clicks and keyboard
-document.getElementById("CompleteThisQuotation").innerHTML = "Complete Today's Quotations";
+document.getElementById("CompleteThisQuotation").innerHTML = "Complete This Quote";
 
 //virtual keyboard (data-keyboard) from HTML assigned to variable, keyboard. 
 // this allows user to make changes to the keyboard
@@ -17,7 +17,7 @@ let resolveNextIteration; //variable to store the resolve function of the Promis
 // Function to create a Promise that resolves on button click
 function waitForButtonClick() { //this function returns a Promise. The resolve function of this...
   // ...Promise is stored in the variable: resolveNextIterartion (declared above)
-  console.log("In waitForButtonClick Function");
+  //console.log("In waitForButtonClick Function");
   return new Promise(resolve => {
     resolveNextIteration = resolve; // Store the resolve function
   });
@@ -25,7 +25,7 @@ function waitForButtonClick() { //this function returns a Promise. The resolve f
 
 // Event listener for the button click. When nextIterationBtn is clicked, it...
 nextIterationBtn.addEventListener('click', () => {
-  console.log("In nextIterationBtn clicked");
+  //console.log("In nextIterationBtn clicked");
 
   //remove intro box element styled by CSS
   const elementToRemove = document.querySelector('.my-box');
@@ -61,14 +61,14 @@ async function runLoopWithPause() {
  
 
   for (let q = 0; q < arrayOfQuotes.length; q++) { //iterate thru every quote
-    console.log("loop number: " + q);
+    //console.log("loop number: " + q);
     await waitForButtonClick();
 
     //clear previous quote data
     document.getElementById("BeginGamePrompt").innerHTML = "";
     document.getElementById("fullQuoteWithTargetWord").innerHTML = "";
     document.getElementById("congratsMsg").innerHTML = "";
-    console.log("loop completed");
+    //console.log("loop completed");
 
     quoteLine = arrayOfQuotes[q];
 
@@ -93,7 +93,7 @@ async function runLoopWithPause() {
     //get string pre and post of the target word & concat w/blanks       
     let endOfSentence = 0;
     let preTargetWordLine = quoteLine.substring(endOfBio + 3, startMarkOfTargetWord - 1);//between the ### and the %
-    console.log(preTargetWordLine + "is the preTargetWord");
+    //console.log(preTargetWordLine + "is the preTargetWord");
 
     //Will be the case caused by the target word being the 1st word of the quotation
     const firstChar = preTargetWordLine.charAt(0);
@@ -107,11 +107,11 @@ async function runLoopWithPause() {
     //get string post target word
     endOfSentence = quoteLine.length;
     let postTargetLine = quoteLine.substring(endOfTargetWord + 1, endOfSentence); //after the $ to quote's end
-    console.log(postTargetLine);
+    //console.log(postTargetLine);
 
     //full quote with the blanks
     let fullQuoteWithBlanks = preTargetWordLineWithBlanks + postTargetLine;
-    console.log("fullQuoteWithBlanks: " + fullQuoteWithBlanks);
+    //console.log("fullQuoteWithBlanks: " + fullQuoteWithBlanks);
 
     //make compatible with html for output
     document.getElementById("fullQuoteWithBlanks").innerHTML = fullQuoteWithBlanks;
@@ -120,7 +120,7 @@ async function runLoopWithPause() {
 
     //full quote with targetWord
     window.fullQuoteWithTargetWord = preTargetWordLine + " " + targetWord + " " + postTargetLine;
-    console.log(fullQuoteWithTargetWord);
+    //console.log(fullQuoteWithTargetWord);
 
     //clear puzzle array & set cur(current word)
     game.puzz = [];
@@ -154,7 +154,7 @@ async function runLoopWithPause() {
 
 
     function handleMouseClick(e) {
-      console.log("In handleMouseClick: " + e.target);
+      //console.log("In handleMouseClick: " + e.target);
       if (e.target.matches("[data-key]")) { //if clicked key matches any of the data-keys in html listing
         checkKey(e.target.dataset.key);
         console.log("e.target.dataset.key is: " + e.target.dataset.key);
@@ -164,7 +164,7 @@ async function runLoopWithPause() {
 
     function handleKeydown(event) {
       const pressedKey = event.key;
-      console.log("pressedKey value is: " + pressedKey);
+      //console.log("pressedKey value is: " + pressedKey);
       let charCode = pressedKey.charCodeAt(0);//ASCII code of first character entered
       let inputChar = "";
 
@@ -183,29 +183,29 @@ async function runLoopWithPause() {
 
     function checkKey(keyEntered) {
       const letterEntered = keyEntered;
-      console.log("key clicked was: " + letterEntered);
+      //console.log("key clicked was: " + letterEntered);
       const key = keyboard.querySelector(`[data-key="${letterEntered}"i]`);
 
       if (game.cur.includes(letterEntered)) {
         key.classList.add("correct");
-        console.log("correct letter clicked: " + letterEntered);
+        //console.log("correct letter clicked: " + letterEntered);
       }
       else {
         key.classList.add("wrong");
-        console.log("wrong letter clicked: " + letterEntered);
+        //console.log("wrong letter clicked: " + letterEntered);
       }
 
       //update puzzle boxes using correct letter
       for (i = 0; i <= targetWordLength; i++) {
         if (game.solution[i] === letterEntered) {// if game.solution[i] === letterEntered ...
-          console.log("game.solution letter is: " + game.solution[i]);
+          //console.log("game.solution letter is: " + game.solution[i]);
           game.puzz[i].textContent = letterEntered;  //...character is displayed in browser &
           arrayAnswer[i] = letterEntered; //...arrayAnswer index[i] is assigned the character
           if (window.arrayAnswer.join("") === targetWordLowerCase) {
             //Remove the event listener as condition is met)
             document.removeEventListener("click", handleMouseClick);
             document.removeEventListener('keydown', handleKeydown);
-            console.log("THEY MATCH!!!!" + q); //if strings match, then all chars are assigned
+            //console.log("THEY MATCH!!!!" + q); //if strings match, then all chars are assigned
             if ((q + 1) === arrayOfQuotes.length) {
               const btn = document.querySelector("#nextIterationBtn");
               btn.style.display = 'none';
@@ -221,8 +221,8 @@ async function runLoopWithPause() {
 
     //Congrats Msg 
     function displayCongrats(successQuote) {
-      console.log("in displayCongrats function for loop: " + (q));
-      console.log(successQuote);
+      //console.log("in displayCongrats function for loop: " + (q));
+      //console.log(successQuote);
       document.getElementById("fullQuoteWithBlanks").innerHTML = "";
       document.getElementById("congratsMsg").innerHTML = "Congratulations!";
       document.getElementById("fullQuoteWithTargetWord").innerHTML = fullQuoteWithTargetWord;
@@ -231,7 +231,7 @@ async function runLoopWithPause() {
     waitForButtonClick();
   } //end of for loop q iterating thru every quote
 
-  console.log("FOR LOOP END");
+  //console.log("FOR LOOP END");
 
 }//end of async function runLoopWithPause()
 
