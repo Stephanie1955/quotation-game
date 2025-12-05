@@ -39,16 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The world is a stage and the %play$ is badly cast.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Everything in moderation, %including$ moderation.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The only good thing to do with advice is pass it on;<br>it is never of any use to %oneself$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Anybody can sympathize with the sufferings of a friend, but it<br>requires a very fine nature to sympathize with a friend's %success$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We are each our own devil, and we make this world our %hell$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###A bore is someone who deprives you of<br>solitude without providing you with %company$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I like men who have a future and women who have a %past$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We live in an age when %unnecessary$ things are our only necessities.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I am so clever that sometimes I<br>don't %understand$ a single word of what I am saying.",
-"Oscar Wilde (1854–1900) Irish writer, poet, and playwright###Ridicule is the tribute %paid$ to the genius by the mediocrities."
+"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###One of the advantages of being disorderly<br>is that one is constantly making exciting %discoveries$.",
+"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###Not knowing for certain what the %good$ life is,<br>we settle for the enviable life.",
+"Albert Einstein (1879-1955) German-born American theoretical physicist###It's not that I'm so %smart$.<br>It's that I stay with problems longer.",
+"Alfred E. Neuman () Mascot of MAD Magazine###Parents work hard so they can give their children a better life than they had<br>- and then complain about how %easy$ they've got it.",
+"Anita Brookner (1928-2016) English author###There is no pride without some underlying %shame$."
 
 
 ];
