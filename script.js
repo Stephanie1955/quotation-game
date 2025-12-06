@@ -39,12 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###One of the advantages of being disorderly<br>is that one is constantly making exciting %discoveries$.",
-"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###Not knowing for certain what the %good$ life is,<br>we settle for the enviable life.",
-"Albert Einstein (1879-1955) German-born American theoretical physicist###It's not that I'm so %smart$.<br>It's that I stay with problems longer.",
-"Alfred E. Neuman () Mascot of MAD Magazine###Parents work hard so they can give their children a better life than they had<br>- and then complain about how %easy$ they've got it.",
-"Anita Brookner (1928-2016) English author###There is no pride without some underlying %shame$."
-
+"Attribution Unknown###%Everybody$ wants fairness, but nobody knows quite what it is.",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###If you fail to plan, you are %planning$ to fail.",
+"Brian Goldstone (Born 1980) American journalist###Wealth isn't trickling down; it's %pooled$ at the top.",
+"Charles Bukowski (1920-1994) Prussian-born American poet###If you're %losing$ your soul and you know it,<br>then you've still got a soul left to lose.",
+"Dalai Lama (Born 1935) Tibetan spiritual leader###If it can be solved, there's no need to worry,<br> and if it can't be solved, worry is of no %use$." 
 
 ];
 
