@@ -24,12 +24,11 @@ body {
   The browser uses the ideal value (10vw) but ensures the font size
   will never be smaller than 3rem or larger than 5rem.
   */
-  font-size: clamp(3rem, 2vw, 5rem);  
+  font-size: clamp(2rem, 2vw, 5rem);  
   color: darkblue;
   
+
   
- 
-   
 
  }
 
