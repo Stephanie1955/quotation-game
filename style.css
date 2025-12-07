@@ -8,11 +8,11 @@ body {
 }
 .box{
   display: inline-block;
-  width:  clamp(1rem, 2vw, 4rem);            
+  width:  clamp(1.5rem, 2vw, 4rem);            
   margin-right: 10px;
   margin-bottom: .5em;
   background-color: whitesmoke;
-  font-size: clamp(1rem, 2vw, 4rem);          
+  font-size: clamp(1.5rem, 2vw, 4rem);          
   font-weight: bolder;
 }
 

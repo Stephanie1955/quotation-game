@@ -39,13 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Attribution Unknown###%Everybody$ wants fairness, but nobody knows quite what it is.",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###If you fail to plan, you are %planning$ to fail.",
-"Brian Goldstone (Born 1980) American journalist###Wealth isn't trickling down; it's %pooled$ at the top.",
-"Charles Bukowski (1920-1994) Prussian-born American poet###If you're %losing$ your soul and you know it,<br>then you've still got a soul left to lose.",
-"Dalai Lama (Born 1935) Tibetan spiritual leader###If it can be solved, there's no need to worry,<br> and if it can't be solved, worry is of no %use$." 
-
-];
+"e. e. cummings (1894-1962) American poet###To %destroy$ is always the first step in any creation.",
+"Eric Hoffer (1902-1983) American philosopher###People who bite the hand that feeds them<br>usually %lick$ the boot that kicks them.",
+"Ernest John Pickstone Benn (1875-1954) British political publicist###Politics is the art of looking for trouble,<br>finding it everywhere,<br>diagnosing it %wrongly$ and applying unsuitable remedies.",
+"Francois de La Rochefoucauld (1613-1680) French writer###Hypocrisy is the homage vice pays to %virtue$.",
+"Friedrich Nietzsche (1844-1900) German philosopher###He who has a why to live can bear almost any %how$." 
+  ];
 
 
 runLoopWithPause();
