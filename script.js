@@ -39,11 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"e. e. cummings (1894-1962) American poet###To %destroy$ is always the first step in any creation.",
-"Eric Hoffer (1902-1983) American philosopher###People who bite the hand that feeds them<br>usually %lick$ the boot that kicks them.",
-"Ernest John Pickstone Benn (1875-1954) British political publicist###Politics is the art of looking for trouble,<br>finding it everywhere,<br>diagnosing it %wrongly$ and applying unsuitable remedies.",
-"Francois de La Rochefoucauld (1613-1680) French writer###Hypocrisy is the homage vice pays to %virtue$.",
-"Friedrich Nietzsche (1844-1900) German philosopher###He who has a why to live can bear almost any %how$." 
+"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###Bores can be divided into two classes;<br>those who have their own particular subject,<br>and those who do not need a %subject$.",
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###If you want your children to turn out well,<br>spend twice as much time with them, and %half$ as much money.",
+"Adlai E. Stevenson (1900-1965) American politician###He who slings %mud$ generally loses ground.",
+"Aesop (c. 620-560 BCE) Greek fabulist###The injuries we %do$ and those we suffer are rarely weighed in the same scales.",
+"Alexander Pope (1688-1744) English poet###Praise undeserved is satire in %disguise$.",
+
   ];
 
 
