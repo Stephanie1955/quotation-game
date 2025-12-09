@@ -39,11 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###Bores can be divided into two classes;<br>those who have their own particular subject,<br>and those who do not need a %subject$.",
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###If you want your children to turn out well,<br>spend twice as much time with them, and %half$ as much money.",
-"Adlai E. Stevenson (1900-1965) American politician###He who slings %mud$ generally loses ground.",
-"Aesop (c. 620-560 BCE) Greek fabulist###The injuries we %do$ and those we suffer are rarely weighed in the same scales.",
-"Alexander Pope (1688-1744) English poet###Praise undeserved is satire in %disguise$.",
+"Alfred E. Neuman () Mascot of MAD Magazine###Whoever said fighting never solves anything obviously never %won$ a fight.",
+"Alfred N. Whitehead (1861-1947) English mathematician and philosopher###We think in generalities, but we live in %detail$.",
+"Anita Brookner (1928-2016) English author###In real life, it is the hare who %wins$. Every time. Look around you.",
+"Anton Chekov (1860-1904) Russian physician and author###You will not become a saint through other people's %sins$.",
+"Barry Switzer (Born 1937) American football coach###Some people are born on %third$ base<br>and go through life thinking they hit a triple."
+
 
   ];
 
