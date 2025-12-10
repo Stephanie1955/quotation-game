@@ -202,7 +202,7 @@ async function runLoopWithPause() {
             if ((q + 1) === arrayOfQuotes.length) {
               const btn = document.querySelector("#nextIterationBtn");
               btn.style.display = 'none';
-              document.getElementById("ThanksForPlaying").innerHTML = "That's It for Today. Thanks For Playing.";
+              document.getElementById("ThanksForPlaying").innerHTML = "Thanks For Playing. Come back tomorrow for 5 new quotes!";
             } // all quotes have been played 
 
             displayCongrats(fullQuoteWithTargetWord);
