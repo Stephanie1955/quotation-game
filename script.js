@@ -39,14 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-//"Alfred E. Neuman () Mascot of MAD Magazine###Whoever said fighting never solves anything obviously never %won$ a fight.",
-//"Alfred N. Whitehead (1861-1947) English mathematician and philosopher###We think in generalities, but we live in %detail$.",
-//"Anita Brookner (1928-2016) English author###In real life, it is the hare who %wins$. Every time. Look around you.",
-"Anton Chekov (1860-1904) Russian physician and author###You will not become a saint through other people's %sins$.",
-"Barry Switzer (Born 1937) American football coach###Some people are born on %third$ base<br>and go through life thinking they hit a triple."
-
-
-  ];
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Half the truth is often a great %lie$.",
+"Bessel van der Kolk (Born 1948) Dutch psychiatrist###Blaming is a universal human trait<br>that helps people feel good while feeling %bad$.",
+"Blaise Pascal (1623-1662) French philosopher###Do you wish people to think well of you?<br>Don't speak %well$ of yourself.",
+"C. S. Lewis (1898-1963) Irish novelist and poet###Humility is not thinking %less$ of yourself,<br>it's thinking of yourself less.",
+"Cato the Elder (234-149 BCE) Roman statesman###An angry man %opens$ his mouth and shuts his eyes."
+];
 
 
 runLoopWithPause();
