@@ -6,7 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
   <title>Complete This Quote Game</title>
   <link rel="stylesheet" href="style.css">
-  <script defer src="script.js?v=<%= Date.now() %>"></script>
+  <script>
+    const script = document.createElement('script');
+    script.src = `script.js?v=${Date.now()}`;
+    script.defer = true;
+    document.head.appendChild(script);
+  </script>
 
 </head>
 
