@@ -39,11 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Half the truth is often a great %lie$.",
-"Bessel van der Kolk (Born 1948) Dutch psychiatrist###Blaming is a universal human trait<br>that helps people feel good while feeling %bad$.",
-"Blaise Pascal (1623-1662) French philosopher###Do you wish people to think well of you?<br>Don't speak %well$ of yourself.",
-"C. S. Lewis (1898-1963) Irish novelist and poet###Humility is not thinking %less$ of yourself,<br>it's thinking of yourself less.",
-"Cato the Elder (234-149 BCE) Roman statesman###An angry man %opens$ his mouth and shuts his eyes."
+"Communist East German joke###There are people who tell jokes.<br>There are people who collect jokes and tell jokes.<br>And there are people who collect %people$ who tell jokes.",
+"Dalai Lama (Born 1935) Tibetan spiritual leader###Remember that %not$ getting what you want is sometimes a wonderful stroke of luck.",
+"Dolly Parton (Born 1946) American singer###It takes a lot of time and %money$ to look this cheap!",
+"E. F. Schumacher (1911-1977) English economist###Many people love in themselves what they %hate$ in others.",
+"Eleanor Roosevelt (1884-1962) American First Lady and political and human rights activist###Nobody can make you feel inferior %without$ your consent."
+
 ];
 
 
