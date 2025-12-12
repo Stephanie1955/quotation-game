@@ -39,11 +39,13 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Communist East German joke###There are people who tell jokes.<br>There are people who collect jokes and tell jokes.<br>And there are people who collect %people$ who tell jokes.",
-"Dalai Lama (Born 1935) Tibetan spiritual leader###Remember that %not$ getting what you want is sometimes a wonderful stroke of luck.",
-"Dolly Parton (Born 1946) American singer###It takes a lot of time and %money$ to look this cheap!",
-"E. F. Schumacher (1911-1977) English economist###Many people love in themselves what they %hate$ in others.",
-"Eleanor Roosevelt (1884-1962) American First Lady and political and human rights activist###Nobody can make you feel inferior %without$ your consent."
+"Eric Hoffer (1902-1983) American philosopher###When we believe ourselves in possession of the only truth,<br>we are likely to be indifferent to common everyday %truths$.",
+"Eugene McCarthy (1916-2005) American senator and academic###When you find yourself always compromising<br>with your principles, you probably %don't$ have any.",
+"Francois de La Rochefoucauld (1613-1680) French writer###There is no %disguise$ which can hide love for long<br>where it exists, or simulate it where it does not.",
+"Francois de La Rochefoucauld (1613-1680) French writer###It is easier to know men in %general$ than men in particular.",
+"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###The cleverest of all, in my opinion, is the man<br>who calls himself a %fool$ at least once a month.",
+
+
 
 ];
 
