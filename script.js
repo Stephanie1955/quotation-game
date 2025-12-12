@@ -40,7 +40,7 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 "Eric Hoffer (1902-1983) American philosopher###When we believe ourselves in possession of the only truth,<br>we are likely to be indifferent to common everyday %truths$.",
-"Eugene McCarthy (1916-2005) American senator and academic###When you find yourself always compromising<br>with your principles, you probably %don't$ have any.",
+"Peter Drucker (1909-2005) Austrian writer###When you find yourself always compromising<br>with your principles, you probably %don't$ have any.",
 "Francois de La Rochefoucauld (1613-1680) French writer###There is no %disguise$ which can hide love for long<br>where it exists, or simulate it where it does not.",
 "Francois de La Rochefoucauld (1613-1680) French writer###It is easier to know men in %general$ than men in particular.",
 "Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###The cleverest of all, in my opinion, is the man<br>who calls himself a %fool$ at least once a month.",
