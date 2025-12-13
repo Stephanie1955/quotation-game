@@ -39,13 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Eric Hoffer (1902-1983) American philosopher###When we believe ourselves in possession of the only truth,<br>we are likely to be indifferent to common everyday %truths$.",
-"Peter Drucker (1909-2005) Austrian writer###When you find yourself always compromising<br>with your principles, you probably %don't$ have any.",
-"Francois de La Rochefoucauld (1613-1680) French writer###There is no %disguise$ which can hide love for long<br>where it exists, or simulate it where it does not.",
-"Francois de La Rochefoucauld (1613-1680) French writer###It is easier to know men in %general$ than men in particular.",
-"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###The cleverest of all, in my opinion, is the man<br>who calls himself a %fool$ at least once a month.",
 
-
+"George Bernard Shaw (1856-1950) Irish playwright###Beware of the man who does not %return$ your blow:<br>he neither forgives you nor allows you to forgive yourself.",
+"George Orwell (1903-1950) English novelist and journalist###All the war-propaganda, all the screaming and lies and hatred,<br>comes invariably from people who are %not$ fighting.",
+"Giuseppe Tomasi di Lampedusa (1896-1957) Italian writer###If we want things to stay as they are, things will have to %change$.",
+"Henry Ford (1863-1947) American founder of Ford Motor Company###Don't find %fault$, find a remedy.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###It is %not$ enough to be busy. So are the ants."
 
 ];
 
