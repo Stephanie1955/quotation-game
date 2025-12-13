@@ -41,7 +41,7 @@ nextIterationBtn.addEventListener('click', () => {
 const arrayOfQuotes = [
 
 "George Bernard Shaw (1856-1950) Irish playwright###Beware of the man who does not %return$ your blow:<br>he neither forgives you nor allows you to forgive yourself.",
-"George Orwell (1903-1950) English novelist and journalist###All the war-propaganda, all the screaming and lies and hatred,<br>comes invariably from people who are %not$ fighting.",
+"George Orwell (1903-1950) English novelist and journalist###Free speech is my right to say what you %don't$ want to hear.",
 "Giuseppe Tomasi di Lampedusa (1896-1957) Italian writer###If we want things to stay as they are, things will have to %change$.",
 "Henry Ford (1863-1947) American founder of Ford Motor Company###Don't find %fault$, find a remedy.",
 "Henry David Thoreau (1817-1862) American philosopher and naturalist###It is %not$ enough to be busy. So are the ants."
