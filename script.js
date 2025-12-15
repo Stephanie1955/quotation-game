@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###We are always paid for our %suspicion$ by finding what we suspect.",
-"Homer Simpson () Animated sitcom character###To alcohol, the cause of and %solution$ to all of life's problems.",
-"Isaac Goldberg (1887-1938) American journalist###Diplomacy is to do and say<br>The nastiest thing in the %nicest$ way.",
-"James Thurber (1894-1961) American author and cartoonist###There are two kinds of light -<br>the glow that illuminates, and the %glare$ that obscures.",
-"Jean-Paul Sartre (1905-1980) French philosopher and playwright###When the rich wage war, it's the %poor$ who die."
+"John Dryden (1631-1700) English poet###Confidence is the feeling we have before %knowing$ all the facts.",
+"John Stuart Mill (1806-1873) English philosopher###Tis better to be Socrates %dissatisfied$ than a fool satisfied.",
+"Widely attributed to John Wooden (1910-2010) American basketball coach###Success is never final, %failure$ is never fatal.",
+"Jonathan Swift (1667-1745) Irish writer###The best %doctors$ in the world are<br>Doctor Diet, Doctor Quiet, and Doctor Merry-man.",
+"Julie V. Iovine (born 1955) American journalist###%Dogs$ want to be with us wherever we are. If they didn't, they'd still be wolves."
 
 ];
 
