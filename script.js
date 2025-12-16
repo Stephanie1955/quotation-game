@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Dryden (1631-1700) English poet###Confidence is the feeling we have before %knowing$ all the facts.",
-"John Stuart Mill (1806-1873) English philosopher###Tis better to be Socrates %dissatisfied$ than a fool satisfied.",
-"Widely attributed to John Wooden (1910-2010) American basketball coach###Success is never final, %failure$ is never fatal.",
-"Jonathan Swift (1667-1745) Irish writer###The best %doctors$ in the world are<br>Doctor Diet, Doctor Quiet, and Doctor Merry-man.",
-"Julie V. Iovine (born 1955) American journalist###%Dogs$ want to be with us wherever we are. If they didn't, they'd still be wolves."
+"Popular Motivational Quote###If you're searching for that one person who<br>will change your life, take a look in the %mirror$.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###It is not the man who has too little,<br>but the man who craves more, that is %poor$.",
+"Marcus Tullius Cicero (106 BCE- 43 BCE) Roman philosopher###Diseases of the soul are more dangerous than those of the %body$.",
+"Mark Twain (1835-1910) American author###A lie can travel halfway around<br>the world while the %truth$ is putting on its shoes.",
+"Maya Angelou (1928-2014) American poet###I've learned that people will forget what you said,<br>people will forget what you did,<br>but people will never forget how you made them %feel$."
 
 ];
 
