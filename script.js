@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Popular Motivational Quote###If you're searching for that one person who<br>will change your life, take a look in the %mirror$.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###It is not the man who has too little,<br>but the man who craves more, that is %poor$.",
-"Marcus Tullius Cicero (106 BCE- 43 BCE) Roman philosopher###Diseases of the soul are more dangerous than those of the %body$.",
-"Mark Twain (1835-1910) American author###A lie can travel halfway around<br>the world while the %truth$ is putting on its shoes.",
-"Maya Angelou (1928-2014) American poet###I've learned that people will forget what you said,<br>people will forget what you did,<br>but people will never forget how you made them %feel$."
+"Michel de Montaigne (1533-1592) French essayist and philosopher###He who fears he shall suffer already %suffers$ what he fears.",
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###People often give us a piece of their mind<br>with the intention to take away our %peace$ of mind.",
+"Napoleon Bonaparte (1769-1821) French military and political leader###Give me enough ribbons to place on the<br>tunics of my soldiers and I can %conquer$ the world.",
+"Nikos Kazantzakis (1883-1957) Greek author and poet###The real meaning of enlightenment is<br>to gaze with undimmed eyes on all %darkness$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The only good thing to do with advice is pass it on;<br>it is never of any use to %oneself$."
 
 ];
 
