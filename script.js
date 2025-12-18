@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Michel de Montaigne (1533-1592) French essayist and philosopher###He who fears he shall suffer already %suffers$ what he fears.",
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###People often give us a piece of their mind<br>with the intention to take away our %peace$ of mind.",
-"Napoleon Bonaparte (1769-1821) French military and political leader###Give me enough ribbons to place on the<br>tunics of my soldiers and I can %conquer$ the world.",
-"Nikos Kazantzakis (1883-1957) Greek author and poet###The real meaning of enlightenment is<br>to gaze with undimmed eyes on all %darkness$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The only good thing to do with advice is pass it on;<br>it is never of any use to %oneself$."
+"Pablo Picasso (1881-1973) Spanish artist###Art is a %lie$ that makes us see the truth.",
+"Titus Maccius Plautus (254-184 BCE) Roman Playwright###No guest is so welcome in a friend's house<br>that he will not become a nuisance after three %days$.",
+"Swedish Proverb###Friendship %doubles$ our joy and divides our grief.",
+"Pyotr Ilich Tchaikovsky (1840-1893) Russian composer###Inspiration. This is a guest who<br>does %not$ always appear at the first summons.",
+"Ralph Waldo Emerson (1803-1882) American poet###Make the most of %yourself$, for that is all there is of you."
 
 ];
 
