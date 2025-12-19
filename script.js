@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Pablo Picasso (1881-1973) Spanish artist###Art is a %lie$ that makes us see the truth.",
-"Titus Maccius Plautus (254-184 BCE) Roman Playwright###No guest is so welcome in a friend's house<br>that he will not become a nuisance after three %days$.",
-"Swedish Proverb###Friendship %doubles$ our joy and divides our grief.",
-"Pyotr Ilich Tchaikovsky (1840-1893) Russian composer###Inspiration. This is a guest who<br>does %not$ always appear at the first summons.",
-"Ralph Waldo Emerson (1803-1882) American poet###Make the most of %yourself$, for that is all there is of you."
+"Robert Browning (1812-1889) English poet###Ah, but a man's reach should %exceed$ his grasp,<br>Or what's a heaven for?",
+"Robert Frost (1874-1963) American poet###The best way out is always %through$.",
+"Robert Louis Stevenson (1850-1894) Scottish writer###You can read Kant by yourself, if you wanted to;<br>but you must %share$ a joke with someone else.",
+"Robert Trivers (Born 1943) American evolutionary biologist###We deceive ourselves in order to better deceive %others$.",
+"Saint Francis of Assisi (1182-1226) Italian saint###For it is in giving that we %receive$."
 
 ];
 
