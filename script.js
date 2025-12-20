@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Browning (1812-1889) English poet###Ah, but a man's reach should %exceed$ his grasp,<br>Or what's a heaven for?",
-"Robert Frost (1874-1963) American poet###The best way out is always %through$.",
-"Robert Louis Stevenson (1850-1894) Scottish writer###You can read Kant by yourself, if you wanted to;<br>but you must %share$ a joke with someone else.",
-"Robert Trivers (Born 1943) American evolutionary biologist###We deceive ourselves in order to better deceive %others$.",
-"Saint Francis of Assisi (1182-1226) Italian saint###For it is in giving that we %receive$."
+"Sherry Turkle (born 1948) American sociologist###We're designing technologies that will give us the<br>illusion of companionship without the demands of %friendship$.",
+"Stephen R. Covey (1932-2012) American author and businessman###If the ladder is not leaning against the right wall<br>every step we take just gets us to the %wrong$ place faster.",
+"Popular Motivational Quote###There are one thousand reasons to be upset, find one reason to be %happy$.",
+"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###The only man who never makes<br>a mistake is the man who %never$ does anything.",
+"Thomas Paine (1737-1809) British-born central figure of the American Revolution###That which we %obtain$ too easily, we esteem too lightly."
+
 
 ];
 
