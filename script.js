@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Sherry Turkle (born 1948) American sociologist###We're designing technologies that will give us the<br>illusion of companionship without the demands of %friendship$.",
-"Stephen R. Covey (1932-2012) American author and businessman###If the ladder is not leaning against the right wall<br>every step we take just gets us to the %wrong$ place faster.",
-"Popular Motivational Quote###There are one thousand reasons to be upset, find one reason to be %happy$.",
-"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###The only man who never makes<br>a mistake is the man who %never$ does anything.",
-"Thomas Paine (1737-1809) British-born central figure of the American Revolution###That which we %obtain$ too easily, we esteem too lightly."
+"Vince Lombardi (1913-1970) American football coach###Winners never quit and %quitters$ never win.",
+"Walter Lippmann (1889-1974) American journalist###When all men think alike, no one %thinks$ very much.",
+"William Congreve (1670-1729) English poet###Grief walks upon the heels of pleasure;<br>Married in haste, we repent at %leisure$.",
+"William Penn (1644-1718) British founder of Pennsylvania###Time is what we want %most$ but what we use worst.",
+"William Shakespeare (1564-1616) British poet and playwright###Love all; trust but a few; do wrong to %none$.<br><br>{All's Well That Ends Well}"
 
 
 ];
