@@ -40,12 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Vince Lombardi (1913-1970) American football coach###Winners never quit and %quitters$ never win.",
-"Walter Lippmann (1889-1974) American journalist###When all men think alike, no one %thinks$ very much.",
-"William Congreve (1670-1729) English poet###Grief walks upon the heels of pleasure;<br>Married in haste, we repent at %leisure$.",
-"William Penn (1644-1718) British founder of Pennsylvania###Time is what we want %most$ but what we use worst.",
-"William Shakespeare (1564-1616) British poet and playwright###Love all; trust but a few; do wrong to %none$.<br><br>{All's Well That Ends Well}"
-
+"William James (1842-1910) American philosopher### Our view of the world is truly shaped by what we %decide$ to hear.",
+"William Somerset Maugham (1874-1965) British playwright and author###She had a pretty gift for quotation,<br>which is a serviceable %substitute$ for wit.<br><br>{The Creative Impulse}",
+"Winston Churchill (1874-1965) British prime minister###A fanatic is one who can't change<br>his mind and won't %change$ the subject.",
+"Yogi Berra (1925-2015) American Baseball Catcher###Always go to other people's funerals,<br>otherwise they won't come to %yours$.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###There is a story behind every person. There's a reason why they're<br>the way they are. Think about that before you %judge$ anyone."
 
 ];
 
