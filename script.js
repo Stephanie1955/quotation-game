@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"William James (1842-1910) American philosopher### Our view of the world is truly shaped by what we %decide$ to hear.",
-"William Somerset Maugham (1874-1965) British playwright and author###She had a pretty gift for quotation,<br>which is a serviceable %substitute$ for wit.<br><br>{The Creative Impulse}",
-"Winston Churchill (1874-1965) British prime minister###A fanatic is one who can't change<br>his mind and won't %change$ the subject.",
-"Yogi Berra (1925-2015) American Baseball Catcher###Always go to other people's funerals,<br>otherwise they won't come to %yours$.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###There is a story behind every person. There's a reason why they're<br>the way they are. Think about that before you %judge$ anyone."
+"Possibly Abby Buchanan Longstreet (1834-1899) American writer and socialite###I would challenge you to a %battle$ of wits,<br> but I see you are unarmed.",
+"Abraham Lincoln (1809-1865) American President###It has been my experience that folks who have no %vices$ have very few virtues.",
+"Adlai E. Stevenson (1900-1965) American politician###Newspaper editors are men who separate the wheat from the chaff, and then %print$ the chaff.",
+"Aesop (c. 620-560 BCE) Greek fabulist###People often grudge %others$ what they cannot enjoy themselves.",
+"Alexander Pope (1688-1744) English poet###To be angry is to revenge the faults of others on %ourselves$."
+
 
 ];
 
