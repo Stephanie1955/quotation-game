@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Possibly Abby Buchanan Longstreet (1834-1899) American writer and socialite###I would challenge you to a %battle$ of wits,<br> but I see you are unarmed.",
-"Abraham Lincoln (1809-1865) American President###It has been my experience that folks who have no %vices$ have very few virtues.",
-"Adlai E. Stevenson (1900-1965) American politician###Newspaper editors are men who separate the wheat from the chaff, and then %print$ the chaff.",
-"Aesop (c. 620-560 BCE) Greek fabulist###People often grudge %others$ what they cannot enjoy themselves.",
-"Alexander Pope (1688-1744) English poet###To be angry is to revenge the faults of others on %ourselves$."
+"Alfred E. Neuman () Mascot of MAD Magazine###Youth is like money. It's only after it's gone<br>that you finally realize how you should have %spent$ it.",
+"Alfred N. Whitehead (1861-1947) English mathematician and philosopher###If a dog jumps into your lap, it is because he is fond of you;<br>but if a %cat$ does the same thing, it is because your lap is warmer.",
+"Often attributed to Carl Jung (1875-1961) Swiss psychiatrist###One advertises oneself in all sorts of unconscious<br>ways; %others$ are alert to the signals.",
+"Aristotle (384-322 BCE) Greek philosopher###Dignity does not consist in possessing honors but in %deserving$ them.",
+"Baruch Spinoza (1632-1677) Dutch philosopher###When a man is a prey to his emotions, he is not his own %master$."
 
 
 ];
