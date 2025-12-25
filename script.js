@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###Youth is like money. It's only after it's gone<br>that you finally realize how you should have %spent$ it.",
-"Alfred N. Whitehead (1861-1947) English mathematician and philosopher###If a dog jumps into your lap, it is because he is fond of you;<br>but if a %cat$ does the same thing, it is because your lap is warmer.",
-"Often attributed to Carl Jung (1875-1961) Swiss psychiatrist###One advertises oneself in all sorts of unconscious<br>ways; %others$ are alert to the signals.",
-"Aristotle (384-322 BCE) Greek philosopher###Dignity does not consist in possessing honors but in %deserving$ them.",
-"Baruch Spinoza (1632-1677) Dutch philosopher###When a man is a prey to his emotions, he is not his own %master$."
+"Alexander Pope (1688–1744) English poet###Blessed is he who expects nothing, for he shall %never$ be disappointed.<br><br>{letter to John Gay in 1727}",
+"Bessel van der Kolk (Born 1948) Dutch psychiatrist###Traumatized people simultaneously remember too little and too %much$.",
+"Blaise Pascal (1623-1662) French philosopher###The only shame is to have %none$.",
+"C. S. Lewis (1898-1963) Irish novelist and poet###This is one of the miracles of love. It gives a power of %seeing$ through<br>its own enchantments and yet not being disenchanted.",
+"Charles Bukowski (1920-1994) Prussian-born American poet###People empty me. I have to get away to %refill$."
+
 
 
 ];
