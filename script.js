@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alexander Pope (1688–1744) English poet###Blessed is he who expects nothing, for he shall %never$ be disappointed.<br><br>{letter to John Gay in 1727}",
-"Bessel van der Kolk (Born 1948) Dutch psychiatrist###Traumatized people simultaneously remember too little and too %much$.",
-"Blaise Pascal (1623-1662) French philosopher###The only shame is to have %none$.",
-"C. S. Lewis (1898-1963) Irish novelist and poet###This is one of the miracles of love. It gives a power of %seeing$ through<br>its own enchantments and yet not being disenchanted.",
-"Charles Bukowski (1920-1994) Prussian-born American poet###People empty me. I have to get away to %refill$."
+"Confucius (551-497 BCE) Chinese philosopher###Choose a job you love, and you will never have to %work$ a day in your life.",
+"Daniel Boone (1734-1820) American explorer###I have never been lost, but I will<br>admit to being %confused$ for several weeks.",
+"Dolly Parton (Born 1946) American singer###If you don't like the %road$ you're walking, start paving another one.",
+"E. O. Wilson (1929-2021) American sociobiologist###The real problem of humanity is as follows:<br>we have %paleolithic$ emotions, medieval institutions,<br>and god-like technology.",
+"Elie Wiesel (1928-2016) Romanian-born American writer, Holocaust survivor, and Nobel Laureate###The opposite of love is not hate, it's %indifference$."
+
 
 
 
