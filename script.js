@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Confucius (551-497 BCE) Chinese philosopher###Choose a job you love, and you will never have to %work$ a day in your life.",
-"Daniel Boone (1734-1820) American explorer###I have never been lost, but I will<br>admit to being %confused$ for several weeks.",
-"Dolly Parton (Born 1946) American singer###If you don't like the %road$ you're walking, start paving another one.",
-"E. O. Wilson (1929-2021) American sociobiologist###The real problem of humanity is as follows:<br>we have %paleolithic$ emotions, medieval institutions,<br>and god-like technology.",
-"Elie Wiesel (1928-2016) Romanian-born American writer, Holocaust survivor, and Nobel Laureate###The opposite of love is not hate, it's %indifference$."
+"Eric Hoffer (1902-1983) American philosopher###Our frustration is greater when we have much and<br>want %more$ than when we have nothing and want some.",
+"Euripides (484-406 BCE) Greek dramatist###Short is the %joy$ that guilty pleasure brings.",
+"Francois de La Rochefoucauld (1613-1680) French writer###It is often laziness and timidity that keep<br>us within our duty while virtue gets all the %credit$.",
+"Franklin Delano Roosevelt (1882-1945) President of the United States###We must especially beware of that small group of selfish men<br>who would clip the wings of the American eagle<br>in order to %feather$ their own nests.",
+"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###Man only likes to count his troubles; he does not calculate his %happiness$."
 
 
 
