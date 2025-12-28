@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Eric Hoffer (1902-1983) American philosopher###Our frustration is greater when we have much and<br>want %more$ than when we have nothing and want some.",
-"Euripides (484-406 BCE) Greek dramatist###Short is the %joy$ that guilty pleasure brings.",
-"Francois de La Rochefoucauld (1613-1680) French writer###It is often laziness and timidity that keep<br>us within our duty while virtue gets all the %credit$.",
-"Franklin Delano Roosevelt (1882-1945) President of the United States###We must especially beware of that small group of selfish men<br>who would clip the wings of the American eagle<br>in order to %feather$ their own nests.",
-"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###Man only likes to count his troubles; he does not calculate his %happiness$."
+"George Bernard Shaw (1856-1950) Irish playwright###We learn from experience that men %never$ learn anything from experience.",
+"George Orwell (1903-1950) English novelist and journalist###War against a foreign country only happens when the<br>moneyed classes think they are going to %profit$ from it.",
+"Giuseppe Tomasi di Lampedusa (1896-1957) Italian writer###Love. %Flames$ for a year, ashes for thirty.",
+"H.L. Mencken (1880-1956) American writer###An idealist is one who, on noticing that roses smell better<br>than a cabbage, concludes that it will also make %better$ soup.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Any fool can make a rule, and any %fool$ will mind it."
 
 
 
