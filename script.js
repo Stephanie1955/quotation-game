@@ -40,7 +40,7 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Bernard Shaw (1856-1950) Irish playwright###We learn from experience that men %never$ learn anything from experience.",
+"George Bernard Shaw (1856-1950) Irish playwright###We learn from %experience$ that men never learn anything from experience.",
 "George Orwell (1903-1950) English novelist and journalist###War against a foreign country only happens when the<br>moneyed classes think they are going to %profit$ from it.",
 "Giuseppe Tomasi di Lampedusa (1896-1957) Italian writer###Love. %Flames$ for a year, ashes for thirty.",
 "H.L. Mencken (1880-1956) American writer###An idealist is one who, on noticing that roses smell better<br>than a cabbage, concludes that it will also make %better$ soup.",
