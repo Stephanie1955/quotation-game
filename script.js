@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Bernard Shaw (1856-1950) Irish playwright###We learn from %experience$ that men never learn anything from experience.",
-"George Orwell (1903-1950) English novelist and journalist###War against a foreign country only happens when the<br>moneyed classes think they are going to %profit$ from it.",
-"Giuseppe Tomasi di Lampedusa (1896-1957) Italian writer###Love. %Flames$ for a year, ashes for thirty.",
-"H.L. Mencken (1880-1956) American writer###An idealist is one who, on noticing that roses smell better<br>than a cabbage, concludes that it will also make %better$ soup.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Any fool can make a rule, and any %fool$ will mind it."
+"Herman Pontzer () American evolutionary anthropologist###If our evolved appetites can push us into a pride of hungry<br>lions for breakfast, how can we keep ourselves out of the %fridge$?<br><br>{Burn: New Research Blows the Lid Off How We Really Burn Calories, Lose Weight, and Stay Healthy}",
+"Honoré de Balzac (1799-1850) French novelist###Laws are spider webs through which<br>the big flies %pass$ and the little ones get caught.",
+"Jack Benny (1894-1974) American entertainer###I don't deserve this award, but I have arthritis, and don't deserve that %either$.",
+"James Thurber (1894-1961) American author and cartoonist###One martini is all right. Two are too many, and three are %not$ enough.",
+"Joan Crawford (1906-1977) American film star###Love is a %fire$.<br>But whether it is going to warm your<br>hearth or burn down your house, you can never tell.",
 
 
 
