@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Herman Pontzer () American evolutionary anthropologist###If our evolved appetites can push us into a pride of hungry<br>lions for breakfast, how can we keep ourselves out of the %fridge$?<br><br>{Burn: New Research Blows the Lid Off How We Really Burn Calories, Lose Weight, and Stay Healthy}",
-"Honoré de Balzac (1799-1850) French novelist###Laws are spider webs through which<br>the big flies %pass$ and the little ones get caught.",
-"Jack Benny (1894-1974) American entertainer###I don't deserve this award, but I have arthritis, and don't deserve that %either$.",
-"James Thurber (1894-1961) American author and cartoonist###One martini is all right. Two are too many, and three are %not$ enough.",
-"Joan Crawford (1906-1977) American film star###Love is a %fire$.<br>But whether it is going to warm your<br>hearth or burn down your house, you can never tell.",
+"John Fitzgerald Kennedy (1917-1963) President of the United States###Too often we enjoy the comfort of opinion without the %discomfort$ of thought.",
+"John Stuart Mill (1806-1873) English philosopher###He who knows only his own side of the case, knows %little$ of that.",
+"John Wooden (1910-2010) American basketball coach###The man who is afraid to risk failure seldom has to face %success$.",
+"Joseph Campbell (1904-1987) American mythologist and writer###Myths are public dreams, dreams are %private$ myths.",
+"Juvenal (c. 1-2 CE) Roman poet and satirist###Give them bread and circuses and they will never %revolt$."
 
 
 
