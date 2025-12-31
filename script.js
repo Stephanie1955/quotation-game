@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Fitzgerald Kennedy (1917-1963) President of the United States###Too often we enjoy the comfort of opinion without the %discomfort$ of thought.",
-"John Stuart Mill (1806-1873) English philosopher###He who knows only his own side of the case, knows %little$ of that.",
-"John Wooden (1910-2010) American basketball coach###The man who is afraid to risk failure seldom has to face %success$.",
-"Joseph Campbell (1904-1987) American mythologist and writer###Myths are public dreams, dreams are %private$ myths.",
-"Juvenal (c. 1-2 CE) Roman poet and satirist###Give them bread and circuses and they will never %revolt$."
+"Leo Buscaglia (1924-1998) American author and motivational speaker###Worry never robs tomorrow of its sorrow, it only saps %today$ of its joy.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###There is no person so severely %punished$ as<br>those who subject themselves to the whip of their own remorse.",
+"Margaret Mead (1901-1978) American cultural anthropologist###Always remember that you are<br>absolutely unique. Just like %everyone$ else.",
+"Mark Twain (1835-1910) American author###If you pick up a starving dog and make him prosperous, he will<br>not bite you. This is the principal %difference$ between a dog and man.",
+"Maya Angelou (1928-2014) American poet###I've learned that you shouldn't go through life with a<br>catcher's mitt on both hands; you need to be able to throw something %back$.",
 
 
 
