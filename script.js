@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Leo Buscaglia (1924-1998) American author and motivational speaker###Worry never robs tomorrow of its sorrow, it only saps %today$ of its joy.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###There is no person so severely %punished$ as<br>those who subject themselves to the whip of their own remorse.",
-"Margaret Mead (1901-1978) American cultural anthropologist###Always remember that you are<br>absolutely unique. Just like %everyone$ else.",
-"Mark Twain (1835-1910) American author###If you pick up a starving dog and make him prosperous, he will<br>not bite you. This is the principal %difference$ between a dog and man.",
-"Maya Angelou (1928-2014) American poet###I've learned that you shouldn't go through life with a<br>catcher's mitt on both hands; you need to be able to throw something %back$.",
+"Mickey Rooney (1920-2014) American actor###You always pass %failure$ on the way to success.",
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###Spam is a waste of the receivers' time<br>and a %waste$ of the sender's optimism.",
+"Naval Ravikant (Born 1974) Indian born American entrepreneur###Desire is a contract that you make with yourself<br>to be unhappy until you %get$ what you want.",
+"Latin Proverb###The liar needs a %good$ memory.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Anybody can sympathize with the sufferings of a friend, but it<br>requires a very fine nature to sympathize with a friend's %success$.",
+
 
 
 
