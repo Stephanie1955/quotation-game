@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Mickey Rooney (1920-2014) American actor###You always pass %failure$ on the way to success.",
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###Spam is a waste of the receivers' time<br>and a %waste$ of the sender's optimism.",
-"Naval Ravikant (Born 1974) Indian born American entrepreneur###Desire is a contract that you make with yourself<br>to be unhappy until you %get$ what you want.",
-"Latin Proverb###The liar needs a %good$ memory.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Anybody can sympathize with the sufferings of a friend, but it<br>requires a very fine nature to sympathize with a friend's %success$.",
+"Paul Laurence Dunbar (1872-1906) American writer and poet###When he beats his bars and he would be free;<br>It is not a carol of joy or glee, …<br>But a plea, that upward to Heaven he flings—<br>I know why the caged bird %sings$!<br><br>{Sympathy}",
+"Titus Maccius Plautus (254-184 BCE) Roman Playwright###The poor man who enters into a partnership<br>with one who is %rich$ makes a risky venture.",
+"Swedish Proverb###Shared joy is a double joy;<br>shared sorrow is %half$ a sorrow.",
+"Pyrrhus of Epirus (c. 318-272 BCE) Greek king###Another such %victory$ over the Romans and we are undone.",
+"Ralph Waldo Emerson (1803-1882) American poet###What lies behind us and what lies before us are<br>tiny matters compared to what lies %within$ us."
 
 
 
