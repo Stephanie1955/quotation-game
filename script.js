@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Paul Laurence Dunbar (1872-1906) American writer and poet###When he beats his bars and he would be free;<br>It is not a carol of joy or glee, …<br>But a plea, that upward to Heaven he flings—<br>I know why the caged bird %sings$!<br><br>{Sympathy}",
-"Titus Maccius Plautus (254-184 BCE) Roman Playwright###The poor man who enters into a partnership<br>with one who is %rich$ makes a risky venture.",
-"Swedish Proverb###Shared joy is a double joy;<br>shared sorrow is %half$ a sorrow.",
-"Pyrrhus of Epirus (c. 318-272 BCE) Greek king###Another such %victory$ over the Romans and we are undone.",
-"Ralph Waldo Emerson (1803-1882) American poet###What lies behind us and what lies before us are<br>tiny matters compared to what lies %within$ us."
+"Robert Browning (1812-1889) English poet###Grow old along with me!<br>The best is yet to %be$.",
+"Robert Frost (1874-1963) American poet###The afternoon knows what the %morning$ never suspected.",
+"Robert Orben (1927-2023) American comedy writer###A graduation ceremony is an event where the<br>commencement speaker tells thousands of students<br>dressed in identical caps and gowns that<br> %individuality$ is the key to success.",
+"Ernie Banks (1931-2015) American baseball player###The only way to %prove$ that you're a<br>good sport is to lose.",
+"Samuel Butler (1835-1902) British poet###People are lucky and unlucky not according to what they get absolutely,<br>but according to the ratio between what they get<br>and what they have been led to %expect$."
+
 
 
 
