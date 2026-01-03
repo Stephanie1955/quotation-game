@@ -40,7 +40,7 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Browning (1812-1889) English poet###Grow old along with me!<br>The best is yet to %be$.",
+"Robert Browning (1812-1889) English poet###Grow %old$ along with me!<br>The best is yet to be.",
 "Robert Frost (1874-1963) American poet###The afternoon knows what the %morning$ never suspected.",
 "Robert Orben (1927-2023) American comedy writer###A graduation ceremony is an event where the<br>commencement speaker tells thousands of students<br>dressed in identical caps and gowns that<br> %individuality$ is the key to success.",
 "Ernie Banks (1931-2015) American baseball player###The only way to %prove$ that you're a<br>good sport is to lose.",
