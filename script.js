@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Browning (1812-1889) English poet###Grow %old$ along with me!<br>The best is yet to be.",
-"Robert Frost (1874-1963) American poet###The afternoon knows what the %morning$ never suspected.",
-"Robert Orben (1927-2023) American comedy writer###A graduation ceremony is an event where the<br>commencement speaker tells thousands of students<br>dressed in identical caps and gowns that<br> %individuality$ is the key to success.",
-"Ernie Banks (1931-2015) American baseball player###The only way to %prove$ that you're a<br>good sport is to lose.",
-"Samuel Butler (1835-1902) British poet###People are lucky and unlucky not according to what they get absolutely,<br>but according to the ratio between what they get<br>and what they have been led to %expect$."
+"Sholom Aleichem (1859-1916) Russian writer###Life is a dream for the wise, a game for the fool,<br>a comedy for the rich, a %tragedy$ for the poor.",
+"Steve Cole () American Professor OF Biobehavioral Sciences### Your experiences %today$ will influence the<br>molecular composition of your body for the next two to three months,<br>or, perhaps, for the rest of your life. Plan your day accordingly.",
+"T.S. Eliot (1888-1965) American-born British poet and social critic###Humor is also a way of %saying$ something serious.",
+"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###Knowing what's right doesn't<br>mean much %unless$ you do what's right.",
+"Thomas Paine (1737-1809) British-born central figure of the American Revolution###Moderation in temper is always a %virtue$;<br>but moderation in principle is always a vice."
 
 
 
