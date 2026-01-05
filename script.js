@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Sholom Aleichem (1859-1916) Russian writer###Life is a dream for the wise, a game for the fool,<br>a comedy for the rich, a %tragedy$ for the poor.",
-"Steve Cole () American Professor of Biobehavioral Sciences### Your experiences %today$ will influence the<br>molecular composition of your body for the next two to three months,<br>or, perhaps, for the rest of your life. Plan your day accordingly.",
-"T.S. Eliot (1888-1965) American-born British poet and social critic###Humor is also a way of %saying$ something serious.",
-"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###Knowing what's right doesn't<br>mean much %unless$ you do what's right.",
-"Thomas Paine (1737-1809) British-born central figure of the American Revolution###Moderation in temper is always a %virtue$;<br>but moderation in principle is always a vice."
+"Vince Lombardi (1913-1970) American football coach###If it doesn't matter who wins or loses,<br>then why do they %keep$ score?",
+"Warren Buffet (Born 1930) American investor and philanthropist###It takes 20 years to build a<br> %reputation$ and five minutes to ruin it.",
+"William Cowper (1731-1800) English poet###Knowledge is proud that it knows so much;<br> %wisdom$ is humble that it knows no more.",
+"William Shakespeare (1564-1616) British poet and playwright###Uneasy lies the head that wears a %crown$.<br><br>{Henry IV} ",
+"William Shakespeare (1564-1616) British poet and playwright###Our remedies oft in %ourselves$ do lie.<br><br>{All's Well That Ends Well}"
+
 
 
 ];
