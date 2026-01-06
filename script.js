@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Vince Lombardi (1913-1970) American football coach###If it doesn't matter who wins or loses,<br>then why do they %keep$ score?",
-"Warren Buffet (Born 1930) American investor and philanthropist###It takes 20 years to build a<br> %reputation$ and five minutes to ruin it.",
-"William Cowper (1731-1800) English poet###Knowledge is proud that it knows so much;<br> %wisdom$ is humble that it knows no more.",
-"William Shakespeare (1564-1616) British poet and playwright###Uneasy lies the head that wears a %crown$.<br><br>{Henry IV} ",
-"William Shakespeare (1564-1616) British poet and playwright###Our remedies oft in %ourselves$ do lie.<br><br>{All's Well That Ends Well}"
+"Walker Percy (1916-1990) American writer###You can get all A's and still %flunk$ life.",
+"William Somerset Maugham (1874-1965) British playwright and author###Love is only a dirty %trick$ played on<br>us to achieve continuation of the species.",
+"Winston Churchill (1874-1965) British prime minister###Don't %interrupt$ me when I'm interrupting.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Time is a currency you can only spend %once$.", 
+"Zig Ziglar (1926-2012) American motivational speaker###There will always be people in your life who treat you %wrong$.<br>Be sure to thank them for making you strong."
 
 
 
