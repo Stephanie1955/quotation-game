@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Walker Percy (1916-1990) American writer###You can get all A's and still %flunk$ life.",
-"William Somerset Maugham (1874-1965) British playwright and author###Love is only a dirty %trick$ played on<br>us to achieve continuation of the species.",
-"Winston Churchill (1874-1965) British prime minister###Don't %interrupt$ me when I'm interrupting.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Time is a currency you can only spend %once$.", 
-"Zig Ziglar (1926-2012) American motivational speaker###There will always be people in your life who treat you %wrong$.<br>Be sure to thank them for making you strong."
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###While forbidden fruit is said to taste sweeter, it usually spoils %faster$.",
+"Abraham Lincoln (1809-1865) American President###Do I not destroy my %enemies$ when I make them my friends?",
+"Anne Frank (1929-1945) German diarist and Holocaust victim###You can always %give$ something, even if it is only kindness.",
+"Aesop (c. 620-560 BCE) Greek fabulist###It is not only fine %feathers$ that make fine birds.",
+"Alexander Pope (1688-1744) English poet###A %little$ learning is a dangerous thing<br>Drink deep, or taste not the Pierian spring."
 
 
 
