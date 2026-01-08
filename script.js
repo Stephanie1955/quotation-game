@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###While forbidden fruit is said to taste sweeter, it usually spoils %faster$.",
-"Abraham Lincoln (1809-1865) American President###Do I not destroy my %enemies$ when I make them my friends?",
-"Anne Frank (1929-1945) German diarist and Holocaust victim###You can always %give$ something, even if it is only kindness.",
-"Aesop (c. 620-560 BCE) Greek fabulist###It is not only fine %feathers$ that make fine birds.",
-"Alexander Pope (1688-1744) English poet###A %little$ learning is a dangerous thing<br>Drink deep, or taste not the Pierian spring."
+"Alfred E. Neuman () Mascot of MAD Magazine###Starting a war in the name of peace is like<br>poking a hole in a balloon to get more %air$ into it.",
+"Alice Roosevelt Longworth (1884-1980) American writer and socialite###You can't make a soufflé %rise$ twice.",
+"Ann Landers (1918-2002) American advice columnist###No one can take advantage of you without your %permission$.",
+"Aristotle (384-322 BCE) Greek philosopher###Well %begun$ is half done.",
+"Bart Simpson () Animated sitcom character###Dad, thanks to TV, I can't %remember$<br>what happened eight minutes ago."
 
 
 
