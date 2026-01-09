@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###Starting a war in the name of peace is like<br>poking a hole in a balloon to get more %air$ into it.",
-"Alice Roosevelt Longworth (1884-1980) American writer and socialite###You can't make a soufflé %rise$ twice.",
-"Ann Landers (1918-2002) American advice columnist###No one can take advantage of you without your %permission$.",
-"Aristotle (384-322 BCE) Greek philosopher###Well %begun$ is half done.",
-"Bart Simpson () Animated sitcom character###Dad, thanks to TV, I can't %remember$<br>what happened eight minutes ago."
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Three may keep a secret if %two$ of them are dead.<br><br>{Poor Richard's Almanack}",
+"Bette Davis (1908-1989) American actress###%Old$ age ain't no place for sissies.",
+"Blaise Pascal (1623-1662) French philosopher###Little things console us %because$ little things afflict us.",
+"Cardinal Richelieu (1585-1642) French clergy and statesman###If you give me six lines written by the hand of the most %honest$ of men,<br>I will find something in them which will hang him.",
+"Charles Bukowski (1920-1994) Prussian-born American poet###I don't like jail; they got the %wrong$ kind of bars in there."
 
 
 
