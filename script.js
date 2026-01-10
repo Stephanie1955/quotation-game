@@ -40,12 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Three may keep a secret if %two$ of them are dead.<br><br>{Poor Richard's Almanack}",
-"Bette Davis (1908-1989) American actress###%Old$ age ain't no place for sissies.",
-"Blaise Pascal (1623-1662) French philosopher###Little things console us %because$ little things afflict us.",
-"Cardinal Richelieu (1585-1642) French clergy and statesman###If you give me six lines written by the hand of the most %honest$ of men,<br>I will find something in them which will hang him.",
-"Charles Bukowski (1920-1994) Prussian-born American poet###I don't like jail; they got the %wrong$ kind of bars in there."
-
+"Korean and Japanese proverb###Even a monkey can %fall$ from a tree.",
+"Daniel J. Boorstin (1914-2004) American historian###The greatest obstacle to discovery is not %ignorance$;<br>it is the illusion of knowledge.",
+"Donald O. Hebb (1904-1985) Canadian psychologist###Neurons that %fire$ together, wire together.<br><br>{The Organization of Behavior}",
+"Eric Hoffer (1902-1983) American philosopher###Rudeness is a %weak$ imitation of strength.",
+"Epictetus (circa 50-135 CE) Greek stoic philosopher ###You become what you give your %attention$ to.<br>If you don't choose what thoughts and images<br>you expose yourself to, someone else will."
 
 
 ];
