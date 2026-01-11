@@ -40,12 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Korean and Japanese proverb###Even a monkey can %fall$ from a tree.",
-"Daniel J. Boorstin (1914-2004) American historian###The greatest obstacle to discovery is not %ignorance$;<br>it is the illusion of knowledge.",
-"Donald O. Hebb (1904-1985) Canadian psychologist###Neurons that %fire$ together, wire together.<br><br>{The Organization of Behavior}",
-"Eric Hoffer (1902-1983) American philosopher###Rudeness is a %weak$ imitation of strength.",
-"Epictetus (circa 50-135 CE) Greek stoic philosopher ###You become what you give your %attention$ to.<br>If you don't choose what thoughts and images<br>you expose yourself to, someone else will."
-
+"Eric Hoffer (1902-1983) American philosopher###Propaganda does not deceive people;<br>it merely helps them to %deceive$ themselves.",
+"Euripides (484-406 BCE) Greek dramatist###Waste not %fresh$ tears over old griefs.",
+"Francois de La Rochefoucauld (1613-1680) French writer###People always complain about their memories, never about their %minds$.",
+"Franklin Leonard () American film executive###When you're accustomed to privilege, %equality$ feels like oppression.",
+"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###There is no subject so %old$ that something new cannot be said about it."
 
 ];
 
