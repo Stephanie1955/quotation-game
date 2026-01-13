@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Bernard Shaw (1856-1950) Irish playwright###The %liar's$ punishment is not in the least that he<br>is not believed, but that he cannot believe anyone else.",
-"George Orwell (1903-1950) English novelist and journalist###All propaganda is lies, even when one is telling the %truth$.",
-"Greg Schultz (Born 1981) American political advisor###We try so hard to represent everybody, we alienate %everybody$.",
-"H.L. Mencken (1880-1956) American writer###When someone says it's not about the money, it's about the %money$.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Men have become the %tools$ of their tools."
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###I took a walk in the woods and came out taller than the %trees$.",
+"Horace (65-8 BCE) Roman poet###A picture is a poem %without$ words.",
+"James Baldwin (1924-1987) American playwright, poet, social critic###Children have never been very good at %listening$ to<br>their elders, but they have never failed to imitate them.",
+"James Thurber (1894-1961) American author and cartoonist###Why do you have to be a nonconformist like %everybody$ else?",
+"Johann Gottfried von Herder (1744-1803) German philosopher###Those that embrace the entire %universe$ with love,<br>for the most part, love nothing but their narrow selves.",
 
 ];
 
