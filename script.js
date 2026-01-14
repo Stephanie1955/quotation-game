@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###I took a walk in the woods and came out taller than the %trees$.",
-"Horace (65-8 BCE) Roman poet###A picture is a poem %without$ words.",
-"James Baldwin (1924-1987) American playwright, poet, social critic###Children have never been very good at %listening$ to<br>their elders, but they have never failed to imitate them.",
-"James Thurber (1894-1961) American author and cartoonist###Why do you have to be a nonconformist like %everybody$ else?",
-"Johann Gottfried von Herder (1744-1803) German philosopher###Those that embrace the entire %universe$ with love,<br>for the most part, love nothing but their narrow selves.",
+"John Galsworthy (1867-1933) British novelist, playwright, and Nobel Laureate###Idealism increases in direct proportion to one's %distance$ from the problem.",
+"John Wilmont (1647-1680) English courtier and poet###Here lies our sovereign lord the King,<br>Whose promise none relies on;<br>He never said a foolish thing,<br>Nor ever did a %wise$ one.",
+"John Wooden (1910-2010) American basketball coach###Never be disagreeable just because you %disagree$.",
+"Joseph Campbell (1904-1987) American mythologist and writer###I don't believe people are looking for the meaning<br>of life as much as they are looking for the experience of being %alive$.",
+"Juvenal (c. 1-2 CE) Roman poet and satirist###Never does nature say one thing and wisdom %another$."
 
 ];
 
