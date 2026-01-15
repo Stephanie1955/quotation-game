@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Galsworthy (1867-1933) British novelist, playwright, and Nobel Laureate###Idealism increases in direct proportion to one's %distance$ from the problem.",
-"John Wilmont (1647-1680) English courtier and poet###Here lies our sovereign lord the King,<br>Whose promise none relies on;<br>He never said a foolish thing,<br>Nor ever did a %wise$ one.",
-"John Wooden (1910-2010) American basketball coach###Never be disagreeable just because you %disagree$.",
-"Joseph Campbell (1904-1987) American mythologist and writer###I don't believe people are looking for the meaning<br>of life as much as they are looking for the experience of being %alive$.",
-"Juvenal (c. 1-2 CE) Roman poet and satirist###Never does nature say one thing and wisdom %another$."
+"Leo Buscaglia (1924-1998) American author and motivational speaker###Never idealize others. They<br>will never live up to your %expectations$.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###We are more often frightened than hurt;<br>and we suffer more from %imagination$ than from reality.",
+"Margot Fonteyn (1919-1991) English ballerina###Take your work seriously, but %never$ yourself.",
+"Often attributed to Mark Twain (1835-1910) American author###The man who does not read has no<br> %advantage$ over the man who cannot read.",
+"Maya Angelou (1928-2014) American poet###Nothing will work unless %you$ do."
 
 ];
 
