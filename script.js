@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Leo Buscaglia (1924-1998) American author and motivational speaker###Never idealize others. They<br>will never live up to your %expectations$.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###We are more often frightened than hurt;<br>and we suffer more from %imagination$ than from reality.",
-"Margot Fonteyn (1919-1991) English ballerina###Take your work seriously, but %never$ yourself.",
-"Often attributed to Mark Twain (1835-1910) American author###The man who does not read has no<br> %advantage$ over the man who cannot read.",
-"Maya Angelou (1928-2014) American poet###Nothing will work unless %you$ do."
+"Miles Kington (1941-2008) British journalist and humorist###Everyone wants peace - and they will %fight$ the most terrible war to get it.",
+"Ghanaian Proverb###Wood already touched by %fire$ is not hard to set alight.",
+"Sherry Turkle () Professor of psychology###If we don't teach kids how to be %alone$, they will end up only lonely.",
+"Nikos Kazantzakis (1883-1957) Greek author and poet###In order to succeed, we must first believe that we %can$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We are each our own devil, and we make this world our %hell$."
 
 ];
 
