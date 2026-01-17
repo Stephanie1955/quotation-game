@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Miles Kington (1941-2008) British journalist and humorist###Everyone wants peace - and they will %fight$ the most terrible war to get it.",
-"Ghanaian Proverb###Wood already touched by %fire$ is not hard to set alight.",
-"Sherry Turkle () Professor of psychology###If we don't teach kids how to be %alone$, they will end up only lonely.",
-"Nikos Kazantzakis (1883-1957) Greek author and poet###In order to succeed, we must first believe that we %can$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We are each our own devil, and we make this world our %hell$."
+"Paul Klee (1879-1940) Swiss-born German artist###A line is a dot that went for a %walk$.",
+"Titus Maccius Plautus (254-184 BCE) Roman Playwright###I much prefer a compliment, even if insincere, to sincere %criticism$.",
+"Proverb###The end of an ox is beef<br>And the end of a lie is %grief$.",
+"R.D. Laing (1927-1989) Scottish psychiatrist###Insanity - a perfectly %rational$ <br>adjustment to an insane world.",
+"Ralph Waldo Emerson (1803-1882) American poet###Men succeed when they realize that their failures are the %preparation$ for their victories."
 
 ];
 
