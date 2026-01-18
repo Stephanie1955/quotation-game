@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Paul Klee (1879-1940) Swiss-born German artist###A line is a dot that went for a %walk$.",
-"Titus Maccius Plautus (254-184 BCE) Roman Playwright###I much prefer a compliment, even if insincere, to sincere %criticism$.",
-"Proverb###The end of an ox is beef<br>And the end of a lie is %grief$.",
-"R.D. Laing (1927-1989) Scottish psychiatrist###Insanity - a perfectly %rational$ <br>adjustment to an insane world.",
-"Ralph Waldo Emerson (1803-1882) American poet###Men succeed when they realize that their failures are the %preparation$ for their victories."
+"Robert Burns (1759-1796) Scottish poet###Gathering her brows like gathering storm<br>Nursing her wrath to keep it %warm$.<br><br>{Tam O'Shanter}",
+"Robert Frost (1874-1963) American poet###Happiness makes up in height for what it lacks in %length$.",
+"Robert Orben (1927-2023) American comedy writer###%Noise$ pollution is a relative thing. In a city,<br>it's a jet plane taking off. In a monastery, it's a pen that scratches.",
+"Rogers Hornsby (1896-1963) American baseball player###I don't want to play golf. When I hit a ball,<br>I want someone else to go %chase$ it.",
+"Samuel Butler (1835-1902) British poet###Life is the art of drawing sufficient<br> conclusions from %insufficient$ premises."
 
 ];
 
