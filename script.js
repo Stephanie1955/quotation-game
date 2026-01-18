@@ -42,7 +42,7 @@ const arrayOfQuotes = [
 
 "Robert Burns (1759-1796) Scottish poet###Gathering her brows like gathering storm<br>Nursing her wrath to keep it %warm$.<br><br>{Tam O'Shanter}",
 "Robert Frost (1874-1963) American poet###Happiness makes up in height for what it lacks in %length$.",
-"Robert Orben (1927-2023) American comedy writer###%Noise$ pollution is a relative thing. In a city,<br>it's a jet plane taking off. In a monastery, it's a pen that scratches.",
+"Robert Orben (1927-2023) American comedy writer###Noise %pollution$ is a relative thing. In a city,<br>it's a jet plane taking off. In a monastery, it's a pen that scratches.",
 "Rogers Hornsby (1896-1963) American baseball player###I don't want to play golf. When I hit a ball,<br>I want someone else to go %chase$ it.",
 "Samuel Butler (1835-1902) British poet###Life is the art of drawing sufficient<br> conclusions from %insufficient$ premises."
 
