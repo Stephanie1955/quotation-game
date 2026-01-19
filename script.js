@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Burns (1759-1796) Scottish poet###Gathering her brows like gathering storm<br>Nursing her wrath to keep it %warm$.<br><br>{Tam O'Shanter}",
-"Robert Frost (1874-1963) American poet###Happiness makes up in height for what it lacks in %length$.",
-"Robert Orben (1927-2023) American comedy writer###Noise %pollution$ is a relative thing. In a city,<br>it's a jet plane taking off. In a monastery, it's a pen that scratches.",
-"Rogers Hornsby (1896-1963) American baseball player###I don't want to play golf. When I hit a ball,<br>I want someone else to go %chase$ it.",
-"Samuel Butler (1835-1902) British poet###Life is the art of drawing sufficient<br> conclusions from %insufficient$ premises."
+"Sholom Aleichem (1859-1916) Russian writer###No matter how bad things get you<br>got to go on %living$, even if it kills you.",
+"Steven Wright (Born 1955) American comedian###Everywhere is within walking distance if you have the %time$.",
+"Tennessee Williams (1911-1983) American playwright###All cruel people describe %themselves$ as paragons of frankness.",
+"Theophrastus (370-286 BCE) Greek philosopher###Time is the most valuable thing a man can %spend$.",
+"Thomas Paine (1737-1809) British-born central figure of the American Revolution###A body of men holding themselves accountable to %nobody$ ought not to be trusted by anybody."
 
 ];
 
