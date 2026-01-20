@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Sholom Aleichem (1859-1916) Russian writer###No matter how bad things get you<br>got to go on %living$, even if it kills you.",
-"Steven Wright (Born 1955) American comedian###Everywhere is within walking distance if you have the %time$.",
-"Tennessee Williams (1911-1983) American playwright###All cruel people describe %themselves$ as paragons of frankness.",
-"Theophrastus (370-286 BCE) Greek philosopher###Time is the most valuable thing a man can %spend$.",
-"Thomas Paine (1737-1809) British-born central figure of the American Revolution###A body of men holding themselves accountable to %nobody$ ought not to be trusted by anybody."
+"Vince Lombardi (1913-1970) American football coach###Winning is not everything, but wanting to %win$ is.",
+"Will Durant (1885-1981) American historian###A great civilization is not conquered from<br>without until it has %destroyed$ itself from within.<br><br>{The Story of Civilization}",
+"William Cowper (1731-1800) English poet###The life of %ease$ is a difficult pursuit.",
+"William Shakespeare (1564-1616) British poet and playwright###Rich gifts wax %poor$ when givers prove unkind.<br><br>{Hamlet}",
+"William Shakespeare (1564-1616) British poet and playwright###Who knows himself a braggart,<br>Let him fear this, for it will come to pass<br>That every braggart will be found an %ass$.<br><br>{All's Well That Ends Well}"
+
 
 ];
 
