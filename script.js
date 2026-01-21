@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Vince Lombardi (1913-1970) American football coach###Winning is not everything, but wanting to %win$ is.",
-"Will Durant (1885-1981) American historian###A great civilization is not conquered from<br>without until it has %destroyed$ itself from within.<br><br>{The Story of Civilization}",
-"William Cowper (1731-1800) English poet###The life of %ease$ is a difficult pursuit.",
-"William Shakespeare (1564-1616) British poet and playwright###Rich gifts wax %poor$ when givers prove unkind.<br><br>{Hamlet}",
-"William Shakespeare (1564-1616) British poet and playwright###Who knows himself a braggart,<br>Let him fear this, for it will come to pass<br>That every braggart will be found an %ass$.<br><br>{All's Well That Ends Well}"
+"Possibly attributed to William Somerset Maugham (1874-1965) British playwright and author###Sometimes the longest journey is the distance between %two$ people.<br><br>{Trailer epigram to 2006 film, The Painted Veil}",
+"Will Rogers (1879-1935) American actor###I know worrying works, because none of the stuff I %worried$ about ever happened.",
+"Winston Churchill (1874-1965) British prime minister###An appeaser is one who feeds a crocodile, hoping it will %eat$ him last.",
+"Xunzi born Xun Kuang (c. 312-230 BCE) Chinese philosopher###Tell me and I forget, teach me and I remember, %involve$ me and I learn.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Whoever is trying to bring you %down$ is already below you."
 
 
 ];
