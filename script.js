@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Possibly attributed to William Somerset Maugham (1874-1965) British playwright and author###Sometimes the longest journey is the distance between %two$ people.<br><br>{Trailer epigram to 2006 film, The Painted Veil}",
-"Will Rogers (1879-1935) American actor###I know worrying works, because none of the stuff I %worried$ about ever happened.",
-"Winston Churchill (1874-1965) British prime minister###An appeaser is one who feeds a crocodile, hoping it will %eat$ him last.",
-"Xunzi born Xun Kuang (c. 312-230 BCE) Chinese philosopher###Tell me and I forget, teach me and I remember, %involve$ me and I learn.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Whoever is trying to bring you %down$ is already below you."
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###If you want children to keep their feet on the ground, put some responsibility on their %shoulders$.",
+"Widely attributed to Abraham Lincoln (1809-1865) American President###Tact: the ability to describe others as they %see$ themselves.",
+"Aeschylus (525-456 BCE) Greek poet###Of prosperity, mortals can never %have$ enough.",
+"Albert Camus (19-13-1960) French writer and philosopher###There is no sun without %shadow$, and it is essential to know the night.",
+"Alexander Pope (1688-1744) English poet###The ruling passion, be it what it will.<br>The ruling passion conquers %reason$ still."  
 
 
 ];
