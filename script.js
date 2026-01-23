@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###If you want children to keep their feet on the ground, put some responsibility on their %shoulders$.",
-"Widely attributed to Abraham Lincoln (1809-1865) American President###Tact: the ability to describe others as they %see$ themselves.",
-"Aeschylus (525-456 BCE) Greek poet###Of prosperity, mortals can never %have$ enough.",
-"Albert Camus (19-13-1960) French writer and philosopher###There is no sun without %shadow$, and it is essential to know the night.",
-"Alexander Pope (1688-1744) English poet###The ruling passion, be it what it will.<br>The ruling passion conquers %reason$ still."  
+"Alfred E. Neuman () Mascot of MAD Magazine###Why is it that when someone's fighting to get in the %last$ word it's never 'Sorry'?",
+"Alice Roosevelt Longworth (1884-1980) American writer and socialite###If you %haven't$ got anything nice to say about anybody,<br>come sit next to me.",
+"Ann Landers (1918-2002) American advice columnist###People who drink to drown their sorrows<br>should be told that sorrow knows how to %swim$.",
+"Elbert Hubbard (1856-1915) American writer###To %avoid$ criticism, do nothing, say nothing, and be nothing.",
+"Ben Shapiro (Born 1984) American commentator###Facts don't %care$ about your feelings." 
 
 
 ];
