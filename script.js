@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###Why is it that when someone's fighting to get in the %last$ word it's never 'Sorry'?",
-"Alice Roosevelt Longworth (1884-1980) American writer and socialite###If you %haven't$ got anything nice to say about anybody,<br>come sit next to me.",
-"Ann Landers (1918-2002) American advice columnist###People who drink to drown their sorrows<br>should be told that sorrow knows how to %swim$.",
-"Elbert Hubbard (1856-1915) American writer###To %avoid$ criticism, do nothing, say nothing, and be nothing.",
-"Ben Shapiro (Born 1984) American commentator###Facts don't %care$ about your feelings." 
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###%Lost$ time is never found again.",
+"Bette Midler (Born 1945) American actress###After thirty, a body has a %mind$ of its own.",
+"Booker T. Washington (1856-1915) American author###A lie doesn't become truth, wrong doesn't become right<br>and evil doesn't become good just because it's accepted by a %majority$.",
+"Maya Angelou (1928-2014) American poet###I've learned that people will forget what you said, people will forget<br>what you did, but people will never forget how you made them %feel$.",
+"Charles Bukowski (1920-1994) Prussian-born American poet###Real loneliness is not necessarily limited to when you are %alone$."
 
 
 ];
