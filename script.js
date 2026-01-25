@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###%Lost$ time is never found again.",
-"Bette Midler (Born 1945) American actress###After thirty, a body has a %mind$ of its own.",
-"Booker T. Washington (1856-1915) American author###A lie doesn't become truth, wrong doesn't become right<br>and evil doesn't become good just because it's accepted by a %majority$.",
-"Maya Angelou (1928-2014) American poet###I've learned that people will forget what you said, people will forget<br>what you did, but people will never forget how you made them %feel$.",
-"Charles Bukowski (1920-1994) Prussian-born American poet###Real loneliness is not necessarily limited to when you are %alone$."
+"Confucius (551-497 BCE) Chinese philosopher###A man is great not because he hasn't failed;<br>a man is great because %failure$ hasn't stopped him.",
+"Daniel Kahneman (1934-2024) Israeli-American economist###Money does not buy you happiness,<br>but lack of money certainly buys you %misery$.",
+"Dorothy Rothschild Parker (1893-1967) American humorist and writer###Four be the things I'd have been better without:<br>Love, curiosity, freckles and %doubt$.",
+"Epicurus (341-271 BCE) Greek philosopher###Not what we %have$ but what we enjoy, constitutes our abundance.",
+"Robert Burns (1759-1796) Scottish poet###But pleasures are like poppies spread<br>You seize the flower, its bloom is shed.<br>Or like the snow falls in the river<br>A moment white - then melts %forever$.<br><br>{Tam O’ Shanter}"
 
 
 ];
