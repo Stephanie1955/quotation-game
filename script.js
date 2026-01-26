@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Confucius (551-497 BCE) Chinese philosopher###A man is great not because he hasn't failed;<br>a man is great because %failure$ hasn't stopped him.",
-"Daniel Kahneman (1934-2024) Israeli-American economist###Money does not buy you happiness,<br>but lack of money certainly buys you %misery$.",
-"Dorothy Rothschild Parker (1893-1967) American humorist and writer###Four be the things I'd have been better without:<br>Love, curiosity, freckles and %doubt$.",
-"Epicurus (341-271 BCE) Greek philosopher###Not what we %have$ but what we enjoy, constitutes our abundance.",
-"Robert Burns (1759-1796) Scottish poet###But pleasures are like poppies spread<br>You seize the flower, its bloom is shed.<br>Or like the snow falls in the river<br>A moment white - then melts %forever$.<br><br>{Tam O’ Shanter}"
+"Eric Hoffer (1902-1983) American philosopher###It is by its promise of a sense of %power$ that evil often attracts the weak.",
+"Ernest John Pickstone Benn (1875-1954) British political publicist###Politics is the art of looking for trouble,<br>finding it everywhere,<br>diagnosing it wrongly and applying %unsuitable$ remedies.",
+"Euripides (484-406 BCE) Greek dramatist###Talk sense to a %fool$ and he calls you foolish.",
+"Francois de La Rochefoucauld (1613-1680) French writer###We seldom find any person of %good$ sense,<br>except those who share our opinions.",
+"Franklin P. Jones (1908-1980) American journalist###Experience is a wonderful thing that enables<br>you to recognize a mistake when you %make$ it again."
 
 
 ];
