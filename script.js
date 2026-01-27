@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Eric Hoffer (1902-1983) American philosopher###It is by its promise of a sense of %power$ that evil often attracts the weak.",
-"Ernest John Pickstone Benn (1875-1954) British political publicist###Politics is the art of looking for trouble,<br>finding it everywhere,<br>diagnosing it wrongly and applying %unsuitable$ remedies.",
-"Euripides (484-406 BCE) Greek dramatist###Talk sense to a %fool$ and he calls you foolish.",
-"Francois de La Rochefoucauld (1613-1680) French writer###We seldom find any person of %good$ sense,<br>except those who share our opinions.",
-"Franklin P. Jones (1908-1980) American journalist###Experience is a wonderful thing that enables<br>you to recognize a mistake when you %make$ it again."
+"George Burns (1896-1996) American comedian###It's good to be here. At 98, it's good to be %anywhere$.",
+"Douglas Adams (1952-2001) English author### A common mistake that people make when trying to design<br>something completely foolproof is to underestimate the ingenuity of complete %fools$.",
+"Groucho Marx (1890-1977) American comedian###Those are my principles, and if you don't like them … well, I have %others$.",
+"Hannah Arendt (1906-1975) German political theorist###The most radical revolutionary will become<br>a %conservative$ the day after the revolution.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###How vain it is to sit down to write when you have not %stood$ up to live."
 
 
 ];
