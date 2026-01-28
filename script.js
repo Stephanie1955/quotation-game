@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Burns (1896-1996) American comedian###It's good to be here. At 98, it's good to be %anywhere$.",
-"Douglas Adams (1952-2001) English author### A common mistake that people make when trying to design<br>something completely foolproof is to underestimate the ingenuity of complete %fools$.",
-"Groucho Marx (1890-1977) American comedian###Those are my principles, and if you don't like them … well, I have %others$.",
-"Hannah Arendt (1906-1975) German political theorist###The most radical revolutionary will become<br>a %conservative$ the day after the revolution.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###How vain it is to sit down to write when you have not %stood$ up to live."
+"Henry Ford (1863-1947) American founder of Ford Motor Company###Whether you think you can or you think you can't, you're %right$.",
+"Horace (Quintus Horatius Flaccus) (65-8 BCE) Roman poet###A word once %uttered$ can never be recalled.",
+"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Nothing is really work unless you'd rather be %doing$ something else.",
+"Jean Anthelme Brillat-Savarin (1755-1826) French lawyer and food enthusiast###Tell me what you eat, and I shall tell you what you %are$.<br><br>{The Physiology of Taste}",
+"Johann Gottfried von Herder (1744-1803) Prussian philosopher###Touch not the flute when drums are sounding around;<br>when fools have the word, the %wise$ will be silent."
+
 
 
 ];
