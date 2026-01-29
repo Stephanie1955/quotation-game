@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Henry Ford (1863-1947) American founder of Ford Motor Company###Whether you think you can or you think you can't, you're %right$.",
-"Horace (Quintus Horatius Flaccus) (65-8 BCE) Roman poet###A word once %uttered$ can never be recalled.",
-"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Nothing is really work unless you'd rather be %doing$ something else.",
-"Jean Anthelme Brillat-Savarin (1755-1826) French lawyer and food enthusiast###Tell me what you eat, and I shall tell you what you %are$.<br><br>{The Physiology of Taste}",
-"Johann Gottfried von Herder (1744-1803) Prussian philosopher###Touch not the flute when drums are sounding around;<br>when fools have the word, the %wise$ will be silent."
+"John Allen Saunders (1899-1986) American journalist and cartoonist### Life is what happens to us while we are %making$ other plans",
+"John Wooden (1910-2010) American basketball coach###Time spent getting even would be %better$ spent getting ahead.",
+"Jon Stewart (Born 1962) American comedian, political commentator###It takes people with no %shame$ to do shameful things.",
+"Joseph Epstein (Born 1937) American writer###Of the seven deadly sins, only %envy$ is no fun at all.",
+"Karl Marx (1818-1883) German philosopher###Surround yourself with people who make you happy. People who make<br>you laugh, who help you when you're in need. People who genuinely care.<br>They are the ones worth keeping in your life. Everyone else is just %passing$ through."
 
 
 
