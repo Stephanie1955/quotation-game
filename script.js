@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Allen Saunders (1899-1986) American journalist and cartoonist### Life is what happens to us while we are %making$ other plans",
-"John Wooden (1910-2010) American basketball coach###Time spent getting even would be %better$ spent getting ahead.",
-"Jon Stewart (Born 1962) American comedian, political commentator###It takes people with no %shame$ to do shameful things.",
-"Joseph Epstein (Born 1937) American writer###Of the seven deadly sins, only %envy$ is no fun at all.",
-"Karl Marx (1818-1883) German philosopher###Surround yourself with people who make you happy. People who make<br>you laugh, who help you when you're in need. People who genuinely care.<br>They are the ones worth keeping in your life. Everyone else is just %passing$ through."
+"Leo Tolstoy (1828-1910) Russian writer###Everyone thinks of changing the %world$,<br>but no one thinks of changing himself.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###While we are postponing, life %speeds$ by.",
+"Mario Cuomo (1932-2015) American politician ###You campaign in %poetry$. You govern in prose.",
+"Mark Twain (1835-1910) American author###The fear of death follows from the fear of %life$.",
+"Maya Angelou (1928-2014) American poet###There is nothing so pitiful as a young cynic because<br>he has gone from knowing nothing to believing %nothing$."
 
 
 
