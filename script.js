@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Leo Tolstoy (1828-1910) Russian writer###Everyone thinks of changing the %world$,<br>but no one thinks of changing himself.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###While we are postponing, life %speeds$ by.",
-"Mario Cuomo (1932-2015) American politician ###You campaign in %poetry$. You govern in prose.",
-"Mark Twain (1835-1910) American author###The fear of death follows from the fear of %life$.",
-"Maya Angelou (1928-2014) American poet###There is nothing so pitiful as a young cynic because<br>he has gone from knowing nothing to believing %nothing$."
+"Miles Kington (1941-2008) British journalist and humorist###Knowledge is knowing that a tomato is a fruit;<br>wisdom is not putting it in a %fruit$ salad.",
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###Some of our friends are our friends<br>only because we used to be %friends$.",
+"Niels Bohr (1885-1962) Danish physicist###An expert is a man who has made all the<br> %mistakes$ which can be made, in a narrow field.",
+"Oliver Wendell Holmes Jr. (1841-1935) American Supreme Court Justice###Old age is 15 years %older$ than I am.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###A bore is someone who deprives you of<br>solitude without providing you with %company$."
 
 
 
