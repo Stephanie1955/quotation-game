@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Miles Kington (1941-2008) British journalist and humorist###Knowledge is knowing that a tomato is a fruit;<br>wisdom is not putting it in a %fruit$ salad.",
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###Some of our friends are our friends<br>only because we used to be %friends$.",
-"Niels Bohr (1885-1962) Danish physicist###An expert is a man who has made all the<br> %mistakes$ which can be made, in a narrow field.",
-"Oliver Wendell Holmes Jr. (1841-1935) American Supreme Court Justice###Old age is 15 years %older$ than I am.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###A bore is someone who deprives you of<br>solitude without providing you with %company$."
+"Paul Theroux (Born 1941) American travel writer###It is almost axiomatic that as soon as a place<br>gets a reputation for being paradise it goes to %hell$.",
+"Swahili Proverb###Smooth %seas$ do not make skillful sailors.",
+"Yiddish Proverb###If you sit in a %hot$ bath,<br>you think the whole town is warm.",
+"R.D. Laing (1927-1989) Scottish psychiatrist###There is a great deal of pain in life and<br>perhaps the only pain that can be avoided is<br>the pain that comes from trying to %avoid$ pain.",
+"Ralph Waldo Emerson (1803-1882) American poet###People only see what they are %prepared$ to see."
 
 
 
