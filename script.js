@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Paul Theroux (Born 1941) American travel writer###It is almost axiomatic that as soon as a place<br>gets a reputation for being paradise it goes to %hell$.",
-"Swahili Proverb###Smooth %seas$ do not make skillful sailors.",
-"Yiddish Proverb###If you sit in a %hot$ bath,<br>you think the whole town is warm.",
-"R.D. Laing (1927-1989) Scottish psychiatrist###There is a great deal of pain in life and<br>perhaps the only pain that can be avoided is<br>the pain that comes from trying to %avoid$ pain.",
-"Ralph Waldo Emerson (1803-1882) American poet###People only see what they are %prepared$ to see."
+"Robert Burns (1759-1796) Scottish poet###There is no such uncertainty as a %sure$ thing.",
+"Robert H. Schuller (1926-2015) American televangelist###Tough times never last, but tough %people$ do.",
+"Robert Orben (1927-2023) American comedy writer###Older people shouldn't eat %health$ food,<br>they need all the preservatives they can get.",
+"Sacha Guitry (1885-1957) French film director and screenwriter###Our wisdom comes from our experience,<br>and our experience comes from our %foolishness$.",
+"Josh Billings (aka Henry Wheeler Shaw) (1818-1885) American humorist###Be like a postage %stamp$. Stick to one thing until you get there."
 
 
 
