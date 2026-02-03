@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Burns (1759-1796) Scottish poet###There is no such uncertainty as a %sure$ thing.",
-"Robert H. Schuller (1926-2015) American televangelist###Tough times never last, but tough %people$ do.",
-"Robert Orben (1927-2023) American comedy writer###Older people shouldn't eat %health$ food,<br>they need all the preservatives they can get.",
-"Sacha Guitry (1885-1957) French film director and screenwriter###Our wisdom comes from our experience,<br>and our experience comes from our %foolishness$.",
-"Josh Billings (aka Henry Wheeler Shaw) (1818-1885) American humorist###Be like a postage %stamp$. Stick to one thing until you get there."
+"Sholom Aleichem (1859-1916) Russian writer###The rich swell up with pride, the %poor$ from hunger.",
+"Steven Wright (Born 1955) American comedian###What's another %word$ for Thesaurus?",
+"Tennessee Williams (1911-1983) American playwright###Don't look forward to the day you stop suffering,<br>because when it comes, you'll know you're %dead$.",
+"Thomas Carlyle (1795-1881) Scottish Philosopher###Make yourself an honest man,<br>then you will be sure there is one %less$ rascal in the world.",
+"Thucydides (circa 460-398 BCE) Athenian general and historian###The strong do what they will and the %weak$ suffer what they must."
+
 
 
 
