@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Sholom Aleichem (1859-1916) Russian writer###The rich swell up with pride, the %poor$ from hunger.",
-"Steven Wright (Born 1955) American comedian###What's another %word$ for Thesaurus?",
-"Tennessee Williams (1911-1983) American playwright###Don't look forward to the day you stop suffering,<br>because when it comes, you'll know you're %dead$.",
-"Thomas Carlyle (1795-1881) Scottish Philosopher###Make yourself an honest man,<br>then you will be sure there is one %less$ rascal in the world.",
-"Thucydides (circa 460-398 BCE) Athenian general and historian###The strong do what they will and the %weak$ suffer what they must."
+"Vince Lombardi (1913-1970) American football coach###The only time success comes %before$ work is in the dictionary.",
+"Will Rogers (1879-1935) American actor###Never let yesterday use up too much of %today$.",
+"William Cowper (1731-1800) English poet###Variety is the very %spice$ of life, that gives it all its flavor.<br><br>{The Task}",
+"William Shakespeare (1564-1616) British poet and playwright###Give everyman thine %ear$; but few thy voice.<br><br>{Hamlet}",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Excuses are %useless$. Results are priceless."
 
 
 
