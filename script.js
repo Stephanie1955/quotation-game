@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Vince Lombardi (1913-1970) American football coach###The only time success comes %before$ work is in the dictionary.",
-"Will Rogers (1879-1935) American actor###Never let yesterday use up too much of %today$.",
-"William Cowper (1731-1800) English poet###Variety is the very %spice$ of life, that gives it all its flavor.<br><br>{The Task}",
-"William Shakespeare (1564-1616) British poet and playwright###Give everyman thine %ear$; but few thy voice.<br><br>{Hamlet}",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Excuses are %useless$. Results are priceless."
+"William Somerset Maugham (1874-1965) British playwright and author###It is one of the defects of my character that I<br> cannot altogether %dislike$ anyone who makes me laugh.<br><br>{The Moon and Sixpence}",
+"Zig Ziglar (1926-2012) American motivational speaker###Attitude is a little thing that makes a %big$ difference.",
+"Winston Churchill (1874-1965) British prime minister###If you're going through hell, %keep$ going.",
+"Popularized by Lewis Carl Davidson Hamilton (1985) British Formula One racing driver###A negative mind will never give you a %positive$ life.",
+"William Shakespeare (1564-1616) British poet and playwright###Cowards die %many$ times before their deaths.<br><br>{Julius Caesar}"
 
 
 
