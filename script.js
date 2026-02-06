@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"William Somerset Maugham (1874-1965) British playwright and author###It is one of the defects of my character that I<br> cannot altogether %dislike$ anyone who makes me laugh.<br><br>{The Moon and Sixpence}",
-"Zig Ziglar (1926-2012) American motivational speaker###Attitude is a little thing that makes a %big$ difference.",
-"Winston Churchill (1874-1965) British prime minister###If you're going through hell, %keep$ going.",
-"Popularized by Lewis Carl Davidson Hamilton (1985) British Formula One racing driver###A negative mind will never give you a %positive$ life.",
-"William Shakespeare (1564-1616) British poet and playwright###Cowards die %many$ times before their deaths.<br><br>{Julius Caesar}"
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###A bad habit never disappears miraculously; it's an %undo$-it-yourself project.",
+"Friedrich Nietzsche (1844-1900) German philosopher###He who has a why to live can bear almost any %how$.",
+"Aesop (c. 620-560 BCE) Greek fabulist###We hang the petty thieves and appoint the %great$ ones to public office.",
+"Albert Einstein (1879-1955) German-born American theoretical physicist###Logic will get you from A to B. %Imagination$ will take you everywhere.",
+"Alexander Pope (1688-1744) English poet###The learned is happy, nature to explore<br>The fool is happy that he knows no %more$."
 
 
 
