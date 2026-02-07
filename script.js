@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###A bad habit never disappears miraculously; it's an %undo$-it-yourself project.",
-"Friedrich Nietzsche (1844-1900) German philosopher###He who has a why to live can bear almost any %how$.",
-"Aesop (c. 620-560 BCE) Greek fabulist###We hang the petty thieves and appoint the %great$ ones to public office.",
-"Albert Einstein (1879-1955) German-born American theoretical physicist###Logic will get you from A to B. %Imagination$ will take you everywhere.",
-"Alexander Pope (1688-1744) English poet###The learned is happy, nature to explore<br>The fool is happy that he knows no %more$."
+"Alfred E. Neuman () Mascot of MAD Magazine###The most troublesome side effect of many prescription drugs is<br>that they make you feel %well$ enough to go back to work.",
+"Alphonse Daudet (1840 - 1897) French writer###Pain is always %new$ to the sufferer,<br>but loses its originality for those around him.",
+"Annie Dillard (Born 1945) American author###How we spend our days is of course how we spend our %lives$.",
+"Arthur Bloch (Born 1948) American author of Murphy's Law Books###Every solution breeds new %problems$.<br><br>{Murphy's Law}",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Money never made a man happy yet, nor will it.<br>The more a man has, the more he wants.<br>Instead of %filling$ a vacuum, it makes one."
 
 
 
