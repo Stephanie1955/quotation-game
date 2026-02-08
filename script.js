@@ -40,14 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###The most troublesome side effect of many prescription drugs is<br>that they make you feel %well$ enough to go back to work.",
-"Alphonse Daudet (1840 - 1897) French writer###Pain is always %new$ to the sufferer,<br>but loses its originality for those around him.",
-"Annie Dillard (Born 1945) American author###How we spend our days is of course how we spend our %lives$.",
-"Arthur Bloch (Born 1948) American author of Murphy's Law Books###Every solution breeds new %problems$.<br><br>{Murphy's Law}",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Money never made a man happy yet, nor will it.<br>The more a man has, the more he wants.<br>Instead of %filling$ a vacuum, it makes one."
-
-
-
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Wise men don't need advice; fools don't %take$ it.",
+"Bil Keane (1922-2011) American cartoonist###Yesterday's the past, tomorrow's the future,<br>but today is a gift.<br>That's why it's called the %present$.",
+"Brant Hansen () Radio host###If you met a jerk in the morning, you met a jerk.<br>If you meet jerks all day, %you$ are the jerk.",
+"Carl Jung (1875-1961) Swiss psychologist###Knowing your own darkness is the best<br>method for dealing with the %darkness$ of other people.",
+"Charles Darwin (1809-1882) English evolutionary biologist###Ignorance more frequently %begets$ confidence than does knowledge."
 
 ];
 
