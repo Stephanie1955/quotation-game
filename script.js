@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Wise men don't need advice; fools don't %take$ it.",
-"Bil Keane (1922-2011) American cartoonist###Yesterday's the past, tomorrow's the future,<br>but today is a gift.<br>That's why it's called the %present$.",
-"Brant Hansen () Radio host###If you met a jerk in the morning, you met a jerk.<br>If you meet jerks all day, %you$ are the jerk.",
-"Carl Jung (1875-1961) Swiss psychologist###Knowing your own darkness is the best<br>method for dealing with the %darkness$ of other people.",
-"Charles Darwin (1809-1882) English evolutionary biologist###Ignorance more frequently %begets$ confidence than does knowledge."
+"Corrie ten Boom (1892-1983) Dutch writer###Worry does not empty tomorrow of its sorrow,<br>it empties %today$ of its strength.",
+"Daniel Patrick Moynihan (1927-2003) American politician###Everyone is entitled to his own opinion, but not his own %facts$.",
+"Dorothy Rothschild Parker (1893-1967) American humorist and writer###I'd rather have a bottle in front of me,<br>than a frontal %lobotomy$.",
+"Edward Abbey (1927-1989) American writer and advocate of the environment###If my decomposing carcass helps nourish the roots of a juniper tree<br>or the wings of a vulture - that is %immortality$ enough for me.",
+"Eric Hoffer (1902-1983) American philosopher###Every great cause begins as a movement, becomes<br>a business, and eventually degenerates into a %racket$."
 
 ];
 
