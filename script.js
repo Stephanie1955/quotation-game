@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Corrie ten Boom (1892-1983) Dutch writer###Worry does not empty tomorrow of its sorrow,<br>it empties %today$ of its strength.",
-"Daniel Patrick Moynihan (1927-2003) American politician###Everyone is entitled to his own opinion, but not his own %facts$.",
-"Dorothy Rothschild Parker (1893-1967) American humorist and writer###I'd rather have a bottle in front of me,<br>than a frontal %lobotomy$.",
-"Edward Abbey (1927-1989) American writer and advocate of the environment###If my decomposing carcass helps nourish the roots of a juniper tree<br>or the wings of a vulture - that is %immortality$ enough for me.",
-"Eric Hoffer (1902-1983) American philosopher###Every great cause begins as a movement, becomes<br>a business, and eventually degenerates into a %racket$."
+"Ernest Hemingway (1899-1961) American novelist###The world breaks everyone, and afterward,<br>many are %strong$ at the broken places.",
+"Euripides (484-406 BCE) Greek dramatist###Cleverness is %not$ wisdom.",
+"Francois de La Rochefoucauld (1613-1680) French writer###Few people have the wisdom to prefer the %criticism$<br>that would do them good, to the praise that deceives them.",
+"Friedrich Nietzsche (1844-1900) German philosopher###Love is blind; friendship %closes$ its eyes.",
+"Georg Wilhelm Friedrich Hegel (1770-1831) German philosopher###The only thing we learn from history is that we learn %nothing$ from history."
 
 ];
 
