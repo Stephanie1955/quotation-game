@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Ernest Hemingway (1899-1961) American novelist###The world breaks everyone, and afterward,<br>many are %strong$ at the broken places.",
-"Euripides (484-406 BCE) Greek dramatist###Cleverness is %not$ wisdom.",
-"Francois de La Rochefoucauld (1613-1680) French writer###Few people have the wisdom to prefer the %criticism$<br>that would do them good, to the praise that deceives them.",
-"Friedrich Nietzsche (1844-1900) German philosopher###Love is blind; friendship %closes$ its eyes.",
-"Georg Wilhelm Friedrich Hegel (1770-1831) German philosopher###The only thing we learn from history is that we learn %nothing$ from history."
+"George Burns (1896-1996) American comedian###The secret of a good sermon is to have a<br>good beginning and a good ending,<br>then having the two as %close$ together as possible.",
+"George Orwell (1903-1950) English novelist and journalist###He wears a mask, and his face grows to %fit$ it.<br><br>{Shooting an Elephant}",
+"David Austin French (Born 1969) American political commentator###Misdirected zeal in a %righteous$ cause can create profound injustice.",
+"Paraphrase from Haruki Murakami (Born 1949) Japanese writer###Nobody likes loneliness. But I'm not<br>interested in making %friends$ at any price.<br><br>{Norwegian Wood}",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Those whom we can love, we can hate; to others we are %indifferent$."
 
 ];
 
