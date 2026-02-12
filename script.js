@@ -40,11 +40,12 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Burns (1896-1996) American comedian###The secret of a good sermon is to have a<br>good beginning and a good ending,<br>then having the two as %close$ together as possible.",
-"George Orwell (1903-1950) English novelist and journalist###He wears a mask, and his face grows to %fit$ it.<br><br>{Shooting an Elephant}",
-"David Austin French (Born 1969) American political commentator###Misdirected zeal in a %righteous$ cause can create profound injustice.",
-"Paraphrase from Haruki Murakami (Born 1949) Japanese writer###Nobody likes loneliness. But I'm not<br>interested in making %friends$ at any price.<br><br>{Norwegian Wood}",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Those whom we can love, we can hate; to others we are %indifferent$."
+"Anatole France (1844-1924) French poet###Man is a rational animal. He can think up a %reason$ for anything he wants to believe.",
+"Horace (65-8 BCE) Roman poet###%Seize$ the day, and put the least possible trust in tomorrow.",
+"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Those who bring sunshine into the lives<br>of others cannot keep it from %themselves$.",
+"Jean Babtiste Poquelin aka Moliere (1622-1673) French playwright###The duty of comedy is to correct men by %amusing$ them.",
+"Eric Hoffer (1902-1983) American philosopher###People who bite the hand that feeds them<br>usually %lick$ the boot that kicks them.",
+
 
 ];
 
