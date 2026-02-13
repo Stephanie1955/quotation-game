@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Anatole France (1844-1924) French poet###Man is a rational animal. He can think up a %reason$ for anything he wants to believe.",
-"Horace (65-8 BCE) Roman poet###%Seize$ the day, and put the least possible trust in tomorrow.",
-"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Those who bring sunshine into the lives<br>of others cannot keep it from %themselves$.",
-"Jean Babtiste Poquelin aka Moliere (1622-1673) French playwright###The duty of comedy is to correct men by %amusing$ them.",
-"Eric Hoffer (1902-1983) American philosopher###People who bite the hand that feeds them<br>usually %lick$ the boot that kicks them.",
+"John Maynard Keynes (1883-1946) English economist###Capitalism is the extraordinary belief that the nastiest of men,<br>for the nastiest of reasons, will somehow work for the %benefit$ of us all.",
+"John Wooden (1910-2010) American basketball coach###It's what you learn after you know it %all$ that counts.",
+"Jonathan Swift (1667-1745) Irish writer###Every man desires to live long, but no man wishes to be %old$.",
+"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###It is far more impressive when others<br>discover your good qualities without %your$ help.",
+"Kim Edwards (Born 1958) American author###Oh, the trouble we will go to, to justify<br>in our %minds$ what we know in our hearts is wrong.<br><br>{The Memory Keeper's Daughter}",
 
 
 ];
