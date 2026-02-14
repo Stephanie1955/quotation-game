@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Maynard Keynes (1883-1946) English economist###Capitalism is the extraordinary belief that the nastiest of men,<br>for the nastiest of reasons, will somehow work for the %benefit$ of us all.",
-"John Wooden (1910-2010) American basketball coach###It's what you learn after you know it %all$ that counts.",
-"Jonathan Swift (1667-1745) Irish writer###Every man desires to live long, but no man wishes to be %old$.",
-"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###It is far more impressive when others<br>discover your good qualities without %your$ help.",
-"Kim Edwards (Born 1958) American author###Oh, the trouble we will go to, to justify<br>in our %minds$ what we know in our hearts is wrong.<br><br>{The Memory Keeper's Daughter}",
+"John Dalberg-Acton, 1st Baron (1834-1902) English Historian###Power tends to corrupt and %absolute$ power corrupts absolutely.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###Everywhere is nowhere. When a person spends all his time in foreign travel,<br>he ends by having many acquaintances, but %no$ friends.",
+"Widely attributed to Mark Twain (1835-1910) American author###If you don't read a newspaper, you are uninformed.<br>If you do read a newspaper, you are %misinformed$.",
+"Mark Young () American Retired Coast Guard Officer###Our world's oceans are like the Wild %West$:<br>Weak rules, few sheriffs, lots of outlaws.",
+"Maya Angelou (1928-2014) American poet###Life is not measured by the number of breaths<br>we take, but by the moments that take our %breath$ away."
 
 
 ];
