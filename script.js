@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Dalberg-Acton, 1st Baron (1834-1902) English Historian###Power tends to corrupt and %absolute$ power corrupts absolutely.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###Everywhere is nowhere. When a person spends all his time in foreign travel,<br>he ends by having many acquaintances, but %no$ friends.",
-"Widely attributed to Mark Twain (1835-1910) American author###If you don't read a newspaper, you are uninformed.<br>If you do read a newspaper, you are %misinformed$.",
-"Mark Young () American Retired Coast Guard Officer###Our world's oceans are like the Wild %West$:<br>Weak rules, few sheriffs, lots of outlaws.",
-"Maya Angelou (1928-2014) American poet###Life is not measured by the number of breaths<br>we take, but by the moments that take our %breath$ away."
+"Tom Magliozzi (1937-2014) American co-host of Car Talk radio show###Happiness %equals$ reality minus expectations.",
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###Needs are imposed by nature. %Wants$ are sold by society.",
+"Niccolò di Bernardo dei Machiavelli (1469-1527) Italian philosopher###The wise man does at %once$ what the fool does finally.",
+"Oliver Wendell Holmes Sr. (1809-1894) American polymath###The mind of a bigot is like the pupil of the eye.<br>The more light you shine on it, the more it will %contract$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I like men who have a future and women who have a %past$."
 
 
 ];
