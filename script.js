@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Tom Magliozzi (1937-2014) American co-host of Car Talk radio show###Happiness %equals$ reality minus expectations.",
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###Needs are imposed by nature. %Wants$ are sold by society.",
-"Niccolò di Bernardo dei Machiavelli (1469-1527) Italian philosopher###The wise man does at %once$ what the fool does finally.",
-"Oliver Wendell Holmes Sr. (1809-1894) American polymath###The mind of a bigot is like the pupil of the eye.<br>The more light you shine on it, the more it will %contract$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###I like men who have a future and women who have a %past$."
+"Paul Theroux (Born 1941) American travel writer###Tourists don't know where they've %been$,<br>travelers don't know where they're going.",
+"Proverb###False friends are %worse$ than open enemies.",
+"Publilius Syrus (85-43 BCE) Syrian born Roman writer###From the errors of others,<br>a wise man %corrects$ his own.",
+"Muriel Strode (1875-1964) American poet###I will not follow where the path may lead, but<br>I will go where there is no path and leave a %trail$.<br><br>{Wind-Wafted Wild Flowers}",
+"Ralph Waldo Emerson (1803-1882) American poet###Life is a perpetual %instruction$ in cause and effects."
 
 
 ];
