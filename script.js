@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Paul Theroux (Born 1941) American travel writer###Tourists don't know where they've %been$,<br>travelers don't know where they're going.",
-"Proverb###False friends are %worse$ than open enemies.",
-"Publilius Syrus (85-43 BCE) Syrian born Roman writer###From the errors of others,<br>a wise man %corrects$ his own.",
-"Muriel Strode (1875-1964) American poet###I will not follow where the path may lead, but<br>I will go where there is no path and leave a %trail$.<br><br>{Wind-Wafted Wild Flowers}",
-"Ralph Waldo Emerson (1803-1882) American poet###Life is a perpetual %instruction$ in cause and effects."
+"Robert Burns (1759-1796) Scottish poet###Man's %inhumanity$ to man makes countless thousands mourn.",
+"Robert H. Schuller (1926-2015) American televangelist###I'd rather attempt to do something great<br>and fail than attempt to do nothing and %succeed$.",
+"Robert Orben (1927-2023) American comedy writer###A vacation is having %nothing$ to do and all day to do it in.",
+"James Goldsmith (1933-1997) French-British financier###When you marry your mistress, you create a %job$ vacancy.",
+"Samuel Johnson (1709-1784) English poet###The true measure of a man is how he %treats$ <br>someone who can do him absolutely no good."
 
 
 ];
