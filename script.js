@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Burns (1759-1796) Scottish poet###Man's %inhumanity$ to man makes countless thousands mourn.",
-"Robert H. Schuller (1926-2015) American televangelist###I'd rather attempt to do something great<br>and fail than attempt to do nothing and %succeed$.",
-"Robert Orben (1927-2023) American comedy writer###A vacation is having %nothing$ to do and all day to do it in.",
-"James Goldsmith (1933-1997) French-British financier###When you marry your mistress, you create a %job$ vacancy.",
-"Samuel Johnson (1709-1784) English poet###The true measure of a man is how he %treats$ <br>someone who can do him absolutely no good."
+"Simone Weil (1909-1943) French philosopher###Imagination and fiction make up<br>more than three quarters of our %real$ life.",
+"Mark Twain (1835-1910) American author### A clear conscience is the sure sign of a %bad$ memory.",
+"Tennessee Williams (1911-1983) American playwright###Luck is believing you're %lucky$.",
+"Thomas Carlyle (1795-1881) Scottish Philosopher###The greatest of faults, I should say, is to be conscious of %none$.",
+"Titus Maccius Plautus (254-184 BCE) Roman playwright###Nothing is there more friendly to a man than a %friend$ in need."
 
 
 ];
