@@ -44,7 +44,7 @@ const arrayOfQuotes = [
 "Mark Twain (1835-1910) American author### A clear conscience is the sure sign of a %bad$ memory.",
 "Tennessee Williams (1911-1983) American playwright###Luck is believing you're %lucky$.",
 "Thomas Carlyle (1795-1881) Scottish Philosopher###The greatest of faults, I should say, is to be conscious of %none$.",
-"Titus Maccius Plautus (254-184 BCE) Roman playwright###Nothing is there more friendly to a man than a %friend$ in need."
+"Titus Maccius Plautus (254-184 BCE) Roman playwright###Nothing is there more %friendly$ to a man than a friend in need."
 
 
 ];
