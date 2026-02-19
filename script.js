@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Simone Weil (1909-1943) French philosopher###Imagination and fiction make up<br>more than three quarters of our %real$ life.",
-"Mark Twain (1835-1910) American author### A clear conscience is the sure sign of a %bad$ memory.",
-"Tennessee Williams (1911-1983) American playwright###Luck is believing you're %lucky$.",
-"Thomas Carlyle (1795-1881) Scottish Philosopher###The greatest of faults, I should say, is to be conscious of %none$.",
-"Titus Maccius Plautus (254-184 BCE) Roman playwright###Nothing is there more %friendly$ to a man than a friend in need."
+"Voltaire (1694-1778) French philosopher###The secret to being a bore is to %tell$ everything.",
+"William Blake (1757-1827) English poet###It is easier to forgive an enemy than to %forgive$ a friend.",
+"William Faulkner (1897-1962) American novelist and poet###The past is never dead. It's not even %past$.<br><br>{Requiem for a Nun}",
+"William Shakespeare (1564-1616) British poet and playwright###I must be %cruel$, only to be kind.<br><br>{Hamlet}",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Be careful who you trust, the devil was once an %angel$."
 
 
 ];
