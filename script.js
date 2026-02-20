@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Voltaire (1694-1778) French philosopher###The secret to being a bore is to %tell$ everything.",
-"William Blake (1757-1827) English poet###It is easier to forgive an enemy than to %forgive$ a friend.",
-"William Faulkner (1897-1962) American novelist and poet###The past is never dead. It's not even %past$.<br><br>{Requiem for a Nun}",
-"William Shakespeare (1564-1616) British poet and playwright###I must be %cruel$, only to be kind.<br><br>{Hamlet}",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Be careful who you trust, the devil was once an %angel$."
+"William Somerset Maugham (1874-1965) British playwright and author###There are three rules for writing a novel.<br>Unfortunately, no one %knows$ what they are.",
+"Winston Churchill (1874-1965) British prime minister###Courage is what it takes to stand up and speak;<br>courage is also what it takes to sit down and %listen$.",
+"Woody Allen (Born 1935) American playwright and comedian###My one regret in life is that I am not %someone$ else.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###A truly rich man is one whose children<br>run into his arms when his hands are %empty$.",
+"Zig Ziglar (1926-2012) American motivational speaker###If you learn from defeat, you haven't really %lost$."
 
 
 ];
