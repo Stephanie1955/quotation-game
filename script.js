@@ -42,7 +42,7 @@ const arrayOfQuotes = [
 
 "William Somerset Maugham (1874-1965) British playwright and author###There are three rules for writing a novel.<br>Unfortunately, no one %knows$ what they are.",
 "Winston Churchill (1874-1965) British prime minister###Courage is what it takes to stand up and speak;<br>courage is also what it takes to sit down and %listen$.",
-"Woody Allen (Born 1935) American playwright and comedian###My one regret in life is that I am not %someone$ else.",
+"Woody Allen (Born 1935) American playwright and comedian###My one regret in life is that I am not someone %else$.",
 "Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###A truly rich man is one whose children<br>run into his arms when his hands are %empty$.",
 "Zig Ziglar (1926-2012) American motivational speaker###If you learn from defeat, you haven't really %lost$."
 
