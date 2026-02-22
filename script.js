@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###If we could sell our experiences for what they %cost$ us, we'd all be millionaires.",
-"Abraham Lincoln (1809-1865) American President###The best thing about the %future$ is that it comes one day at a time.",
-"Aesop (c. 620-560 BCE) Greek fabulist###Please %all$ and you will please none.",
-"Albert Einstein (1879-1955) German-born American theoretical physicist###In the middle of difficulty %lies$ opportunity.",
-"Alexander Pope (1688-1744) English poet###They dream in courtship, but in wedlock %wake$."
+"Alfred E. Neuman () Mascot of MAD Magazine###Genius is rarely recognized in its lifetime,<br>but fortunately, neither is gross %incompetence$.",
+"Anais Nin (1903-1977) American author###We don't see things as they are, we see them as %we$ are.",
+"Anthony Trollope (1815-1882) English author###No man thinks there is much ado about nothing<br>when the ado is about %himself$.",
+"Arthur Henry Reginald Buller (1874-1944) British-Canadian mycologist###There was a young lady named Bright;<br>Whose speed was far faster than light;<br> She set out one day<br>In a relative way,<br>And returned home the previous %night$.",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###To succeed, %jump$ as quickly at opportunities as you do at conclusions."
 
 
 ];
