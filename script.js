@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###Genius is rarely recognized in its lifetime,<br>but fortunately, neither is gross %incompetence$.",
-"Anais Nin (1903-1977) American author###We don't see things as they are, we see them as %we$ are.",
-"Anthony Trollope (1815-1882) English author###No man thinks there is much ado about nothing<br>when the ado is about %himself$.",
-"Arthur Henry Reginald Buller (1874-1944) British-Canadian mycologist###There was a young lady named Bright;<br>Whose speed was far faster than light;<br> She set out one day<br>In a relative way,<br>And returned home the previous %night$.",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###To succeed, %jump$ as quickly at opportunities as you do at conclusions."
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###I didn't fail the test. I just found 100 ways to do it %wrong$.",
+"Blaise Pascal (1623-1662) French philosopher###If everyone %knew$ what others said about him,<br>there would not be four friends in the world.",
+"Buddha (c. 563-483 BCE) Founder of Buddhism###To understand everything is to %forgive$ everything.",
+"Jane Goodall (1934-2025) English primatologist###Humans are very clever apes. But seldom are they %wise$.",
+"Charles Dickens (1812-1870) English writer and social critic###The civility which %money$ will purchase is rarely extended to those who have none."
 
 
 ];
