@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###I didn't fail the test. I just found 100 ways to do it %wrong$.",
-"Blaise Pascal (1623-1662) French philosopher###If everyone %knew$ what others said about him,<br>there would not be four friends in the world.",
-"Buddha (c. 563-483 BCE) Founder of Buddhism###To understand everything is to %forgive$ everything.",
-"Jane Goodall (1934-2025) English primatologist###Humans are very clever apes. But seldom are they %wise$.",
-"Charles Dickens (1812-1870) English writer and social critic###The civility which %money$ will purchase is rarely extended to those who have none."
+"Cosimo de' Medici (1389-1464) First of the Medici political dynasty###There is in gardens a plant which one ought to leave dry,<br>although most people %water$ it.<br>It is the weed called envy.",
+"Davy Crockett (1786-1836) American explorer, folk hero, and politician###I would rather be politically %dead$<br>than hypocritically immortalized.",
+"Dorothy Rothschild Parker (1893-1967) American humorist and writer###You can't teach an old %dogma$ new tricks.",
+"Edward Abbey (1927-1989) American writer and advocate of the environment###You can't study the darkness by flooding it with %light$.",
+"Eric Hoffer (1902-1983) American philosopher###The most dangerous people in a society are not the %poor$<br>and desperate but the well-off and bored."
 
 
 ];
