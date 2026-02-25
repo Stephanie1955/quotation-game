@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Cosimo de' Medici (1389-1464) First of the Medici political dynasty###There is in gardens a plant which one ought to leave dry,<br>although most people %water$ it.<br>It is the weed called envy.",
-"Davy Crockett (1786-1836) American explorer, folk hero, and politician###I would rather be politically %dead$<br>than hypocritically immortalized.",
-"Dorothy Rothschild Parker (1893-1967) American humorist and writer###You can't teach an old %dogma$ new tricks.",
-"Edward Abbey (1927-1989) American writer and advocate of the environment###You can't study the darkness by flooding it with %light$.",
-"Eric Hoffer (1902-1983) American philosopher###The most dangerous people in a society are not the %poor$<br>and desperate but the well-off and bored."
+"Ernest Hemingway (1899-1961) American novelist###Write drunk. Edit %sober$.",
+"F. Scott Fitzgerald (1896-1940) American writer###First you take a drink, then the drink takes a drink,<br>then the drink takes %you$.",
+"Francois de La Rochefoucauld (1613-1680) French writer###Passion makes idiots of the cleverest men,<br>and makes the biggest %idiots$ clever.",
+"Friedrich Nietzsche (1844-1900) German philosopher###Those who cannot understand how to put their thoughts<br>on %ice$ should not enter into the heat of debate.",
+"George Bernard Shaw (1856-1950) Irish playwright###When a thing is funny, search it for a %hidden$ truth."
 
 
 ];
