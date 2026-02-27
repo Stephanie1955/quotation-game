@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"George Eliot (Mary Ann Evans) (1819-1880) British author###Blessed is the man, who having nothing to say,<br>abstains from giving %wordy$ evidence of the fact.",
-"George Orwell (1903-1950) English novelist and journalist###Reality exists in the human %mind$, and nowhere else.<br><br>{1984}",
-"H.G. Wells (1866-1946) English science fiction writer###No passion in the world is equal to the passion to alter someone %else's$ draft.",
-"Helen Keller (1880-1968) American disability rights activists###I thank God for my %handicaps$, for, through them,<br>I have found myself, my work, and my God.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Money is not required to %buy$ one necessity of the soul."
+"Henry Ford (1863-1947) American founder of Ford Motor Company###My %best$ friend is the one that brings out the best in me.",
+"Horace (65-8 BCE) Roman poet###Wisdom is not %wisdom$ when it is derived from books alone.",
+"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Temper is a %weapon$ that we hold by the blade.",
+"Jean Babtiste Poquelin aka Moliere (1622-1673) French playwright### It infuriates me to be wrong when I know I'm %right$.",
+"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###The coward only threatens when he is %safe$."
 
 
 ];
