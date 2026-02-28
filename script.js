@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Henry Ford (1863-1947) American founder of Ford Motor Company###My %best$ friend is the one that brings out the best in me.",
-"Horace (65-8 BCE) Roman poet###Wisdom is not %wisdom$ when it is derived from books alone.",
-"James M. Barrie (1860-1937) British playwright, author of Peter Pan###Temper is a %weapon$ that we hold by the blade.",
-"Jean Babtiste Poquelin aka Moliere (1622-1673) French playwright### It infuriates me to be wrong when I know I'm %right$.",
-"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###The coward only threatens when he is %safe$."
+"John Milton (1608-1674) English poet and scholar###The mind is its own %place$, and in itself<br> can make a heaven of hell, a hell of heaven.<br><br>{Paradise Lost}",
+"John Wooden (1910-2010) American basketball coach###The main ingredient of stardom is the %rest$ of the team.",
+"Jonathan Swift (1667-1745) Irish writer###Nothing is so great an example of %bad$ manners as flattery.<br>If you flatter all the company, you please none;<br>If you flatter only one or two, you offend the rest.",
+"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###Honesty has come to mean the privilege<br>of insulting you to your %face$ without expecting redress.",
+"Kurt Vonnegut (1922-2007) American writer###A sane person to an insane society must appear %insane$."
 
 
 ];
