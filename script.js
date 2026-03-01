@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"John Milton (1608-1674) English poet and scholar###The mind is its own %place$, and in itself<br> can make a heaven of hell, a hell of heaven.<br><br>{Paradise Lost}",
-"John Wooden (1910-2010) American basketball coach###The main ingredient of stardom is the %rest$ of the team.",
-"Jonathan Swift (1667-1745) Irish writer###Nothing is so great an example of %bad$ manners as flattery.<br>If you flatter all the company, you please none;<br>If you flatter only one or two, you offend the rest.",
-"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###Honesty has come to mean the privilege<br>of insulting you to your %face$ without expecting redress.",
-"Kurt Vonnegut (1922-2007) American writer###A sane person to an insane society must appear %insane$."
+"Louis Brandeis (1856-1941) American supreme court justice###We can have %democracy$ in this country or we can have great<br>wealth concentrated in the hands of the few, but we cannot have both.",
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###A man is as miserable as he %thinks$ he is.",
+"Abraham Maslow (1908-1970) American psychologist###If the only tool you have is a hammer,<br>every %problem$ looks like a nail.",
+"Marthe Troly-Curtin (1884-?) Author###Time you enjoy wasting is not %wasted$ time.<br><br>{Phrynette Married}",
+"Maya Angelou (1928-2014) American poet###If you don't like something, change it.<br>If you can't change it, %change$ your attitude."
 
 
 ];
