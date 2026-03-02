@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Louis Brandeis (1856-1941) American supreme court justice###We can have %democracy$ in this country or we can have great<br>wealth concentrated in the hands of the few, but we cannot have both.",
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###A man is as miserable as he %thinks$ he is.",
-"Abraham Maslow (1908-1970) American psychologist###If the only tool you have is a hammer,<br>every %problem$ looks like a nail.",
-"Marthe Troly-Curtin (1884-?) Author###Time you enjoy wasting is not %wasted$ time.<br><br>{Phrynette Married}",
-"Maya Angelou (1928-2014) American poet###If you don't like something, change it.<br>If you can't change it, %change$ your attitude."
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###It is easy to be a %good$ person when times are good.",
+"Morgan Scott Peck (1936-2005) American psychiatrist and best-selling author###Emotional sickness is avoiding reality at any cost;<br>emotional %health$ is facing reality at any cost.",
+"Niccolò di Bernardo dei Machiavelli (1469-1527) Italian philosopher###A son can bear with equanimity the loss of his father,<br> but the loss of his %inheritance$ may drive him to despair.",
+"Oliver Wendell Holmes Jr. (1841-1935) American Supreme Court Justice###I like to pay taxes. With them I %buy$ civilization.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We live in an age when %unnecessary$ things are our only necessities.<br><br>{The Picture of Dorian Gray}",
 
 
 ];
