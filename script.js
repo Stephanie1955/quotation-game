@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###It is easy to be a %good$ person when times are good.",
-"Morgan Scott Peck (1936-2005) American psychiatrist and best-selling author###Emotional sickness is avoiding reality at any cost;<br>emotional %health$ is facing reality at any cost.",
-"Niccolò di Bernardo dei Machiavelli (1469-1527) Italian philosopher###A son can bear with equanimity the loss of his father,<br> but the loss of his %inheritance$ may drive him to despair.",
-"Oliver Wendell Holmes Jr. (1841-1935) American Supreme Court Justice###I like to pay taxes. With them I %buy$ civilization.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###We live in an age when %unnecessary$ things are our only necessities.<br><br>{The Picture of Dorian Gray}",
+"Paul Theroux (Born 1941) American travel writer###Gain a modest reputation for being<br> %unreliable$ and you will never be asked to do a thing.",
+"Proverb###Don't %speak$ unless you can improve on the silence.",
+"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###To do two things at once is to do %neither$.",
+"Ralph Waldo Emerson (1803-1882) American poet###For every minute you remain angry,<br>you give up sixty seconds of %peace$ of mind.",
+"Richard Feynman (1918-1988) American physicist###The first principle is that you must not fool<br>yourself - and you are the %easiest$ person to fool."
 
 
 ];
