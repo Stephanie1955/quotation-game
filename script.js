@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Paul Theroux (Born 1941) American travel writer###Gain a modest reputation for being<br> %unreliable$ and you will never be asked to do a thing.",
-"Proverb###Don't %speak$ unless you can improve on the silence.",
-"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###To do two things at once is to do %neither$.",
-"Ralph Waldo Emerson (1803-1882) American poet###For every minute you remain angry,<br>you give up sixty seconds of %peace$ of mind.",
-"Richard Feynman (1918-1988) American physicist###The first principle is that you must not fool<br>yourself - and you are the %easiest$ person to fool."
+"Robert Burns (1759-1796) Scottish poet###The fear o' hell's the hangman's whip<br>To laud the wretch in order<br>But where ye feel your honor grip<br>Let that aye be your %border$.",
+"Robert Herrick (1591-1674) English poet###Who covets more is %evermore$ a slave.",
+"Robert Orben (1927-2023) American comedy writer###Every morning I get up and look through the Forbes list<br>of the richest people in America. If I'm not there, I go to %work$.",
+"Sacha Guitry (1885-1957) French film director and screenwriter###You can pretend to be %serious$;<br>but you can't pretend to be witty.",
+"Samuel Johnson (1709-1784) English poet###The use of traveling is to regulate imagination by %reality$,<br>and instead of thinking how things may be, to see them as they are.",
 
 
 ];
