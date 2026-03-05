@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Robert Burns (1759-1796) Scottish poet###The fear o' hell's the hangman's whip<br>To laud the wretch in order<br>But where ye feel your honor grip<br>Let that aye be your %border$.",
-"Robert Herrick (1591-1674) English poet###Who covets more is %evermore$ a slave.",
-"Robert Orben (1927-2023) American comedy writer###Every morning I get up and look through the Forbes list<br>of the richest people in America. If I'm not there, I go to %work$.",
-"Sacha Guitry (1885-1957) French film director and screenwriter###You can pretend to be %serious$;<br>but you can't pretend to be witty.",
-"Samuel Johnson (1709-1784) English poet###The use of traveling is to regulate imagination by %reality$,<br>and instead of thinking how things may be, to see them as they are.",
+"Steven Morrissey (Born 1959) English singer and songwriter###Heavy words are so %lightly$ thrown.",
+"Steven Wright (Born 1955) American comedian###Be nice to your children.<br>After all, they are going to choose your %nursing$ home.",
+"Tennessee Williams (1911-1983) American playwright###You can be young without money but you can't be old %without$ it.",
+"Thomas Carlyle (1795-1881) Scottish Philosopher###I do not believe in the collective wisdom of %individual$ ignorance.",
+"Tom Waits (Born 1949) American musician###Most people don't %care$ if you're telling them the truth<br>or if you're telling them a lie, as long as they're entertained by it."
 
 
 ];
