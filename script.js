@@ -42,7 +42,7 @@ const arrayOfQuotes = [
 
 "Voltaire (1694-1778) French philosopher###It is dangerous to be %right$ in matters<br>on which the established authorities are wrong.",
 "William Blake (1757-1827) English poet###A truth that's told with bad intent<br>Beats all the lies you can %invent$.",
-"William James (1842-1910) American philosopher###The greatest weapon against %stress$ <br>is our ability to choose one thought over another.",
+"William James (1842-1910) American philosopher###The greatest %weapon$ against stress<br>is our ability to choose one thought over another.",
 "William Shakespeare (1564-1616) British poet and playwright###Mine honor is my life; both grow in one<br>Take honor from me and my life is %done$.<br><br>{Richard II}",
 "Zig Ziglar (1926-2012) American motivational speaker###Money won't make you happy,<br>but everybody wants to find out for %themselves$.",
 
