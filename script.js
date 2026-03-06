@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Steven Morrissey (Born 1959) English singer and songwriter###Heavy words are so %lightly$ thrown.",
-"Steven Wright (Born 1955) American comedian###Be nice to your children.<br>After all, they are going to choose your %nursing$ home.",
-"Tennessee Williams (1911-1983) American playwright###You can be young without money but you can't be old %without$ it.",
-"Thomas Carlyle (1795-1881) Scottish Philosopher###I do not believe in the collective wisdom of %individual$ ignorance.",
-"Tom Waits (Born 1949) American musician###Most people don't %care$ if you're telling them the truth<br>or if you're telling them a lie, as long as they're entertained by it."
+"Voltaire (1694-1778) French philosopher###It is dangerous to be %right$ in matters<br>on which the established authorities are wrong.",
+"William Blake (1757-1827) English poet###A truth that's told with bad intent<br>Beats all the lies you can %invent$.",
+"William James (1842-1910) American philosopher###The greatest weapon against %stress$ <br>is our ability to choose one thought over another.",
+"William Shakespeare (1564-1616) British poet and playwright###Mine honor is my life; both grow in one<br>Take honor from me and my life is %done$.<br><br>{Richard II}",
+"Zig Ziglar (1926-2012) American motivational speaker###Money won't make you happy,<br>but everybody wants to find out for %themselves$.",
 
 
 ];
