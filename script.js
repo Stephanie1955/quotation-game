@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Voltaire (1694-1778) French philosopher###It is dangerous to be %right$ in matters<br>on which the established authorities are wrong.",
-"William Blake (1757-1827) English poet###A truth that's told with bad intent<br>Beats all the lies you can %invent$.",
-"William James (1842-1910) American philosopher###The greatest %weapon$ against stress<br>is our ability to choose one thought over another.",
-"William Shakespeare (1564-1616) British poet and playwright###Mine honor is my life; both grow in one<br>Take honor from me and my life is %done$.<br><br>{Richard II}",
-"Zig Ziglar (1926-2012) American motivational speaker###Money won't make you happy,<br>but everybody wants to find out for %themselves$.",
+"William Wordsworth (1770-1850) English poet###Pictures deface walls more often than they %decorate$ them.",
+"Winston Churchill (1874-1965) British prime minister###He has all the virtues I dislike and none of the %vices$ I admire.",
+"Woody Allen (Born 1935) American playwright and comedian###I don't want to achieve immortality through my work.<br>I want to achieve it through not %dying$.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Time decides who you meet in life,<br> your heart decides who you want in life,<br>and your behavior decides who %stays$ in your life.",
+"William Shakespeare (1564-1616) British poet and playwright###Whatever praises itself,<br>but in the deed, devours the %praise$ in the deed.<br><br>{Troilus and Cressida}",
 
 
 ];
