@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"William Wordsworth (1770-1850) English poet###Pictures deface walls more often than they %decorate$ them.",
-"Winston Churchill (1874-1965) British prime minister###He has all the virtues I dislike and none of the %vices$ I admire.",
-"Woody Allen (Born 1935) American playwright and comedian###I don't want to achieve immortality through my work.<br>I want to achieve it through not %dying$.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Time decides who you meet in life,<br> your heart decides who you want in life,<br>and your behavior decides who %stays$ in your life.",
-"William Shakespeare (1564-1616) British poet and playwright###Whatever praises itself,<br>but in the deed, devours the %praise$ in the deed.<br><br>{Troilus and Cressida}",
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###The less you talk, the more you're %listened$ to.",
+"Anna Freud (1895-1982) Austrian psychoanalyst###In our dreams we can have our eggs cooked exactly<br>how we want them, but we %can't$ eat them.",
+"Aesop (c. 620-560 BCE) Greek fabulist###Self-conceit may %lead$ to self-destruction.",
+"Albert Einstein (1879-1955) German-born American theoretical physicist###If you can't explain it simply, you don't %understand$ it well enough.",
+"Alexander Pope (1688-1744) English poet###Satan is wiser now than before<br>And tempts by making rich instead of %poor$.",
 
 
 ];
