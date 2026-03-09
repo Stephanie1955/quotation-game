@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###The less you talk, the more you're %listened$ to.",
-"Anna Freud (1895-1982) Austrian psychoanalyst###In our dreams we can have our eggs cooked exactly<br>how we want them, but we %can't$ eat them.",
-"Aesop (c. 620-560 BCE) Greek fabulist###Self-conceit may %lead$ to self-destruction.",
-"Albert Einstein (1879-1955) German-born American theoretical physicist###If you can't explain it simply, you don't %understand$ it well enough.",
-"Alexander Pope (1688-1744) English poet###Satan is wiser now than before<br>And tempts by making rich instead of %poor$.",
+"Alfred E. Neuman () Mascot of MAD Magazine###Understatement is a zillion times more effective than %exaggeration$.",
+"Anais Nin (1903-1977) French American writer###Life shrinks or expands in %proportion$ to one's courage.",
+"Anthony Trollope (1815-1882) English author###And though it is much to be a nobleman,<br>it is %more$ to be a gentleman.",
+"Often attributed to Colin Powell (1937-2021) American soldier and statesman###All the so-called secrets of success will not work unless you %do$.",
+"Attribution unknown. Often misattributed to Benjamin Franklin###In wine there is wisdom, in beer there is freedom,<br>in %water$ there is bacteria."
 
 
 ];
