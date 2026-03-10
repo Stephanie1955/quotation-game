@@ -40,11 +40,11 @@ nextIterationBtn.addEventListener('click', () => {
 
 const arrayOfQuotes = [
 
-"Alfred E. Neuman () Mascot of MAD Magazine###Understatement is a zillion times more effective than %exaggeration$.",
-"Anais Nin (1903-1977) French American writer###Life shrinks or expands in %proportion$ to one's courage.",
-"Anthony Trollope (1815-1882) English author###And though it is much to be a nobleman,<br>it is %more$ to be a gentleman.",
-"Often attributed to Colin Powell (1937-2021) American soldier and statesman###All the so-called secrets of success will not work unless you %do$.",
-"Attribution unknown. Often misattributed to Benjamin Franklin###In wine there is wisdom, in beer there is freedom,<br>in %water$ there is bacteria."
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###We must hang together gentlemen;<br>else we shall most assuredly %hang$ separately.",
+"Blaise Pascal (1623-1662) French philosopher###Too much and too little wine.<br>Give him none, he %cannot$ find truth;<br>give him too much, the same.<br><br>{Pensees}",
+"Buddha (c. 563-483 BCE) Founder of Buddhism### The mind is everything. What you %think$ you become. ",
+"Carolyn Hax (Born 1966) American advice columnist###If you're unwilling to question whether you're wrong,<br>then there's little chance you'll be %right$.",
+"Popularly attributed to Charles de Gaulle (1890-1970) French Prime Minister and General###The graveyards are full of %indispensable$ men."
 
 
 ];
