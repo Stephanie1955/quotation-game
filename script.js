@@ -39,12 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
+"Cosimo de' Medici (1389-1464) First of the Medici political dynasty###We read that we ought to forgive our enemies;<br>but we do not read that we ought to forgive our %friends$.",
+"Demitri Martin (Born 1973) American comedian###A know-it-all is a person who knows<br>everything %except$ for how annoying he is.",
+"Dorothy Rothschild Parker (1893-1967) American humorist and writer###Men seldom make passes<br>at girls who wear %glasses$.",
+"Edward Gibbon (1737-1794) English historian###I never make the mistake of arguing with people<br>for whose opinions I have no %respect$.",
+"Eric Hoffer (1902-1983) American philosopher###We lie loudest when we lie to %ourselves$.",
 
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###We must hang together gentlemen;<br>else we shall most assuredly %hang$ separately.",
-"Blaise Pascal (1623-1662) French philosopher###Too much and too little wine.<br>Give him none, he %cannot$ find truth;<br>give him too much, the same.<br><br>{Pensees}",
-"Buddha (c. 563-483 BCE) Founder of Buddhism### The mind is everything. What you %think$ you become. ",
-"Carolyn Hax (Born 1966) American advice columnist###If you're unwilling to question whether you're wrong,<br>then there's little chance you'll be %right$.",
-"Popularly attributed to Charles de Gaulle (1890-1970) French Prime Minister and General###The graveyards are full of %indispensable$ men."
 
 
 ];
