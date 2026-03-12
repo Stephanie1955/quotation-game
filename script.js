@@ -39,11 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Cosimo de' Medici (1389-1464) First of the Medici political dynasty###We read that we ought to forgive our enemies;<br>but we do not read that we ought to forgive our %friends$.",
-"Demitri Martin (Born 1973) American comedian###A know-it-all is a person who knows<br>everything %except$ for how annoying he is.",
-"Dorothy Rothschild Parker (1893-1967) American humorist and writer###Men seldom make passes<br>at girls who wear %glasses$.",
-"Edward Gibbon (1737-1794) English historian###I never make the mistake of arguing with people<br>for whose opinions I have no %respect$.",
-"Eric Hoffer (1902-1983) American philosopher###We lie loudest when we lie to %ourselves$.",
+"Ernest Hemingway (1899-1961) American novelist###The best way to find out if you can trust somebody is to %trust$ them.",
+"Finnish Proverb### Happiness is the place %between$ too much and too little.",
+"Francois de La Rochefoucauld (1613-1680) French writer###The heart is forever %making$ the head its fool.",
+"Friedrich Nietzsche (1844-1900) German philosopher###Whoever fights monsters should see to it that<br>in the process he does not %become$ a monster.<br><br>{Beyond Good and Evil}",
+"George Bernard Shaw (1856-1950) Irish playwright###Life isn't about finding yourself; life is about creating %yourself$."
+
 
 
 
