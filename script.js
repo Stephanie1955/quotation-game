@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Ernest Hemingway (1899-1961) American novelist###The best way to find out if you can trust somebody is to %trust$ them.",
-"Finnish Proverb### Happiness is the place %between$ too much and too little.",
-"Francois de La Rochefoucauld (1613-1680) French writer###The heart is forever %making$ the head its fool.",
-"Friedrich Nietzsche (1844-1900) German philosopher###Whoever fights monsters should see to it that<br>in the process he does not %become$ a monster.<br><br>{Beyond Good and Evil}",
-"George Bernard Shaw (1856-1950) Irish playwright###Life isn't about finding yourself; life is about creating %yourself$."
+"George Eliot (Mary Ann Evans) (1819-1880) British author###We hand folks over to God's mercy, and show %none$ ourselves.",
+"George Orwell (1903-1950) English novelist and journalist###We know that no one ever seizes power with<br>the intention of %relinquishing$ it.<br><br>{1984}",
+"H.G. Wells (1866-1946) English science fiction writer###What on earth would a man do with himself if something did not %stand$ in his way?",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Every generation laughs at the old fashions,<br>but follows religiously the %new$.",
+"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###An unused %life$ is an early death.",
 
 
 
