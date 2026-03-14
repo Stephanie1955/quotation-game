@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"George Eliot (Mary Ann Evans) (1819-1880) British author###We hand folks over to God's mercy, and show %none$ ourselves.",
-"George Orwell (1903-1950) English novelist and journalist###We know that no one ever seizes power with<br>the intention of %relinquishing$ it.<br><br>{1984}",
-"H.G. Wells (1866-1946) English science fiction writer###What on earth would a man do with himself if something did not %stand$ in his way?",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Every generation laughs at the old fashions,<br>but follows religiously the %new$.",
-"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###An unused %life$ is an early death.",
+"Henry John Temple (1784-1865) British Prime Minister###Die, my dear doctor? That's the %last$ thing I shall do!",
+"Submariner motto###There are only two kinds of ships, submarines and %targets$.",
+"James Joyce (1882-1941) Irish novelist###Christopher Columbus, as everyone knows, is honored<br>by posterity because he was the %last$ to discover America.",
+"Jean Cocteau (1889-1963) French Poet, Artist, Filmmaker###The reward of art is not fame or success but intoxication.<br>That is why so many bad artists are %unable$ to give it up.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###The squirrel that you kill in jest dies in %earnest$."
 
 
 
