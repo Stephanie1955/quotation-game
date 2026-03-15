@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Henry John Temple (1784-1865) British Prime Minister###Die, my dear doctor? That's the %last$ thing I shall do!",
-"Submariner motto###There are only two kinds of ships, submarines and %targets$.",
-"James Joyce (1882-1941) Irish novelist###Christopher Columbus, as everyone knows, is honored<br>by posterity because he was the %last$ to discover America.",
-"Jean Cocteau (1889-1963) French Poet, Artist, Filmmaker###The reward of art is not fame or success but intoxication.<br>That is why so many bad artists are %unable$ to give it up.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###The squirrel that you kill in jest dies in %earnest$."
+"John Neal (1731-1800) American writer and activist###A certain amount of %opposition$ is a great help to a man.<br>Kites rise against, not with, the wind.",
+"John Wooden (1910-2010) American basketball coach###Talent is God-given. Be humble. Fame is man-given.<br>Be grateful. Conceit is %self$-given. Be careful.",
+"Jonathan Swift (1667-1745) Irish writer###Nothing is so hard for those who abound<br>in riches as to conceive how others can be in %want$.",
+"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###When %everyone$ is spoiling<br>for a fight, the result is an unpleasant public.",
+"Mary Wortley Montagu (1689-1762) English writer###Civility costs %nothing$, and buys everything."
 
 
 
