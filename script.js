@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"John Neal (1731-1800) American writer and activist###A certain amount of %opposition$ is a great help to a man.<br>Kites rise against, not with, the wind.",
-"John Wooden (1910-2010) American basketball coach###Talent is God-given. Be humble. Fame is man-given.<br>Be grateful. Conceit is %self$-given. Be careful.",
-"Jonathan Swift (1667-1745) Irish writer###Nothing is so hard for those who abound<br>in riches as to conceive how others can be in %want$.",
-"Judith Martin aka Miss Manners (Born 1938) American authority on etiquette###When %everyone$ is spoiling<br>for a fight, the result is an unpleasant public.",
-"Mary Wortley Montagu (1689-1762) English writer###Civility costs %nothing$, and buys everything."
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###Difficulties strengthen the %mind$, as labor does the body.",
+"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###Our life is what our thoughts %make$ it.<br><br>{Meditations}",
+"Attributed to several sources###It is better to remain silent and be thought <br>a %fool$, than to speak out and remove all doubt.",
+"Martin Luther King, Jr. (1929-1968) American civil rights leader###Our scientific power has outrun our spiritual<br>power. We have %guided$ missiles and misguided men.",
+"Maya Angelou (1928-2014) American poet###When someone shows you who they are, believe them the %first$ time."
 
 
 
