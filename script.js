@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###Difficulties strengthen the %mind$, as labor does the body.",
-"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###Our life is what our thoughts %make$ it.<br><br>{Meditations}",
-"Attributed to several sources###It is better to remain silent and be thought <br>a %fool$, than to speak out and remove all doubt.",
-"Martin Luther King, Jr. (1929-1968) American civil rights leader###Our scientific power has outrun our spiritual<br>power. We have %guided$ missiles and misguided men.",
-"Maya Angelou (1928-2014) American poet###When someone shows you who they are, believe them the %first$ time."
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###Thanks to photography, some memories %overstay$ their welcome.",
+"Mother Teresa (1910-1997) Albanian missionary###One of the greatest diseases is to be nobody to %anybody$.",
+"Oliver Goldsmith (1730-1774) Irish Poet###You can preach a better sermon with your life than with your %lips$.",
+"Oscar R. Benavides (1876-1945) Peruvian president###For my friends, %anything$; for my enemies, the law.",
+"P. J. O'Rourke (1947-2022) American political satirist###When buying and selling are controlled by legislation,<br>the first things to be bought and sold are %legislators$."
 
 
 
