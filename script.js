@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###Thanks to photography, some memories %overstay$ their welcome.",
-"Mother Teresa (1910-1997) Albanian missionary###One of the greatest diseases is to be nobody to %anybody$.",
-"Oliver Goldsmith (1730-1774) Irish Poet###You can preach a better sermon with your life than with your %lips$.",
-"Oscar R. Benavides (1876-1945) Peruvian president###For my friends, %anything$; for my enemies, the law.",
-"P. J. O'Rourke (1947-2022) American political satirist###When buying and selling are controlled by legislation,<br>the first things to be bought and sold are %legislators$."
+"Robert Burns (1759-1796) Scottish poet###O Life! Thou art a galling load<br>Along a rough, a weary %road$<br>To wretches such as I.<br><br>{ Despondency: An Ode}",
+"Robert Herrick (1591-1674) English poet###In things a moderation keep;<br>Kings ought to shear, not skin, their %sheep$.",
+"Robert Orben (1927-2023) American comedy writer###Time %flies$. It's up to you to be the navigator.",
+"Saint Augustine (354-430) Roman North African philosopher###The world is a book, and those who do not travel read only a %page$.",
+"Samuel Johnson (1709-1784) English poet###The %chains$ of habit are too weak<br>to be felt until they are too strong to be broken."
 
 
 
