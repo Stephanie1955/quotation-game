@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Robert Burns (1759-1796) Scottish poet###O Life! Thou art a galling load<br>Along a rough, a weary %road$<br>To wretches such as I.<br><br>{ Despondency: An Ode}",
-"Robert Herrick (1591-1674) English poet###In things a moderation keep;<br>Kings ought to shear, not skin, their %sheep$.",
-"Robert Orben (1927-2023) American comedy writer###Time %flies$. It's up to you to be the navigator.",
-"Saint Augustine (354-430) Roman North African philosopher###The world is a book, and those who do not travel read only a %page$.",
-"Samuel Johnson (1709-1784) English poet###The %chains$ of habit are too weak<br>to be felt until they are too strong to be broken."
+"Stefan Zweig (1881-1942) Austrian writer###No guilt is %forgotten$ so long as the conscience still knows of it.<br><br>{Beware of Pity}",
+"Welsh proverb written in 1866###Eat an apple on going to %bed$ and you'll keep the doctor from earning his bread.",
+"Thomas Paine (1737-1809) British-born American Revolutionary###Belief in a cruel %God$ makes a cruel man.", 
+"Friedrich Nietzsche (1844-1900) German philosopher###There will always be rocks in the road ahead of us. They will be stumbling blocks<br>or %stepping$ stones; it all depends on how you use them.",
+"Francois de La Rochefoucauld (1613-1680) French writer###The surest way to be %deceived$ is to consider oneself cleverer than others."
 
 
 
