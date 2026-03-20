@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Stefan Zweig (1881-1942) Austrian writer###No guilt is %forgotten$ so long as the conscience still knows of it.<br><br>{Beware of Pity}",
-"Welsh proverb written in 1866###Eat an apple on going to %bed$ and you'll keep the doctor from earning his bread.",
-"Thomas Paine (1737-1809) British-born American Revolutionary###Belief in a cruel %God$ makes a cruel man.", 
-"Friedrich Nietzsche (1844-1900) German philosopher###There will always be rocks in the road ahead of us. They will be stumbling blocks<br>or %stepping$ stones; it all depends on how you use them.",
-"Francois de La Rochefoucauld (1613-1680) French writer###The surest way to be %deceived$ is to consider oneself cleverer than others."
+"Socrates (469 BCE-399 BCE) Greek philosopher###Beware the barrenness of a busy %life$.",
+"Steven Wright (Born 1955) American comedian###Experience is something you don't get until just after you %need$ it.",
+"Terry Pratchett (1948-2015) British writer and satirist###Inside every old person is a young person wondering what %happened$.", 
+"Thomas Gray (1716-1771) English poet ###Where ignorance is bliss, tis folly to be %wise$.",
+"Zen Proverb###The way you do %anything$ is the way you do everything."
 
 
 
