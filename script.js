@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Socrates (469 BCE-399 BCE) Greek philosopher###Beware the barrenness of a busy %life$.",
-"Steven Wright (Born 1955) American comedian###Experience is something you don't get until just after you %need$ it.",
-"Terry Pratchett (1948-2015) British writer and satirist###Inside every old person is a young person wondering what %happened$.", 
-"Thomas Gray (1716-1771) English poet ###Where ignorance is bliss, tis folly to be %wise$.",
-"Zen Proverb###The way you do %anything$ is the way you do everything."
+"Voltaire (1694-1778) French philosopher###Common sense is not so %common$.",
+"William Blake (1757-1827) English poet###When a sinister person means to be your %enemy$,<br>they always start by trying to become your friend.",
+"William James (1842-1910) American philosopher###The art of being wise is the art of %knowing$ what to overlook.",
+"William Shakespeare (1564-1616) British poet and playwright###Society is no comfort to one not %sociable$.<br><br>{Cymbeline}",
+"Zig Ziglar (1926-2012) American motivational speaker###A lot of people quit looking for %work$ as soon as they find a job."
 
 
 
