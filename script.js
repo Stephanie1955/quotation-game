@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Voltaire (1694-1778) French philosopher###Common sense is not so %common$.",
-"William Blake (1757-1827) English poet###When a sinister person means to be your %enemy$,<br>they always start by trying to become your friend.",
-"William James (1842-1910) American philosopher###The art of being wise is the art of %knowing$ what to overlook.",
-"William Shakespeare (1564-1616) British poet and playwright###Society is no comfort to one not %sociable$.<br><br>{Cymbeline}",
-"Zig Ziglar (1926-2012) American motivational speaker###A lot of people quit looking for %work$ as soon as they find a job."
+"Wilson Mizner (1876-1933) American playwright###Be nice to people on your way up because<br>you'll %meet$ them on your way down.",
+"Winston Churchill (1874-1965) British prime minister###History will be %kind$ to me, for I intend to write it.",
+"Woody Allen (Born 1935) American playwright and comedian###Some guy hit my fender, and I told him,<br>'Be fruitful and multiply,' but not in those %words$.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###There are two things you should never waste your time on:<br>things that don't matter and people who think you don't %matter$.",
+"William Shakespeare (1564-1616) British poet and playwright###Things sweet to taste prove in digestion %sour$.<br><br>{Richard II}"
 
 
 
