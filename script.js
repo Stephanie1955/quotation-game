@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Wilson Mizner (1876-1933) American playwright###Be nice to people on your way up because<br>you'll %meet$ them on your way down.",
-"Winston Churchill (1874-1965) British prime minister###History will be %kind$ to me, for I intend to write it.",
-"Woody Allen (Born 1935) American playwright and comedian###Some guy hit my fender, and I told him,<br>'Be fruitful and multiply,' but not in those %words$.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###There are two things you should never waste your time on:<br>things that don't matter and people who think you don't %matter$.",
-"William Shakespeare (1564-1616) British poet and playwright###Things sweet to taste prove in digestion %sour$.<br><br>{Richard II}"
+"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###True, a little learning is a dangerous thing, but it still beats total %ignorance$.",
+"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###No amount of 'evidence' or research<br>will convince the unamused that a joke is %funny$.",
+"Aesop (c. 620-560 BCE) Greek fabulist###Outside show is a poor substitute for %inner$ worth.",
+"Albert Szent-Gyorgyi (1893-1986) Hungarian Nobel prize winner in physiology and medicine###Life is nothing but an electron %looking$ for a place to rest.",
+"Alfred E. Neuman () Mascot of MAD Magazine###Parents are the ones who %never$ listen to a word you say<br>until you mutter something under your breath."
 
 
 
