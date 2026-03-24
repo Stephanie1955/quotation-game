@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Abigail Van Buren (1918-2013) aka Dear Abby; American advice columnist###True, a little learning is a dangerous thing, but it still beats total %ignorance$.",
-"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###No amount of 'evidence' or research<br>will convince the unamused that a joke is %funny$.",
-"Aesop (c. 620-560 BCE) Greek fabulist###Outside show is a poor substitute for %inner$ worth.",
-"Albert Szent-Gyorgyi (1893-1986) Hungarian Nobel prize winner in physiology and medicine###Life is nothing but an electron %looking$ for a place to rest.",
-"Alfred E. Neuman () Mascot of MAD Magazine###Parents are the ones who %never$ listen to a word you say<br>until you mutter something under your breath."
+"Alfred E. Neuman () Mascot of MAD Magazine###A %judge$ is nothing more than a lawyer who's been benched.",
+"Brene Brown (Born 1965) American professor and social worker###The stories we tell ourselves are powerful things.<br>Sometimes we tell the same story over and over,<br>ensuring the ink will never %dry$.",
+"Anthony Trollope (1815-1882) English Victorian novelist###Poverty, to be picturesque, should be %rural$.<br>Suburban misery is as hideous as it is pitiable.",
+"Attribution Unknown###Jokes don't lie. They're either funny or they're not %true$.",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Life's tragedy is that we get old too soon and wise too %late$."
 
 
 
