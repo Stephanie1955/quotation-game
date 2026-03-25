@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Alfred E. Neuman () Mascot of MAD Magazine###A %judge$ is nothing more than a lawyer who's been benched.",
-"Brene Brown (Born 1965) American professor and social worker###The stories we tell ourselves are powerful things.<br>Sometimes we tell the same story over and over,<br>ensuring the ink will never %dry$.",
-"Anthony Trollope (1815-1882) English Victorian novelist###Poverty, to be picturesque, should be %rural$.<br>Suburban misery is as hideous as it is pitiable.",
-"Attribution Unknown###Jokes don't lie. They're either funny or they're not %true$.",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Life's tragedy is that we get old too soon and wise too %late$."
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###It takes many good deeds to build a good<br> %reputation$, and only one bad one to lose it.",
+"Blaise Pascal (1623-1662) French philosopher###Kind words do %not$ cost much.<br>Yet they accomplish much.",
+"C. S. Lewis (1898-1963) Irish novelist and poet###It is so much easier to pray for a bore than to go and %see$ one.",
+"Possibly attributed to Carolyn Hax (Born 1966) American advice columnist###Marriages don't work like oysters; the grit of unresolved anger<br>will cause serious internal damage, not serve up %pearls$.",
+"Charles de Gaulle (1890-1970) French Prime Minister and General###%Old$ age is a shipwreck."
 
 
 
