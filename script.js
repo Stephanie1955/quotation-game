@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###It takes many good deeds to build a good<br> %reputation$, and only one bad one to lose it.",
-"Blaise Pascal (1623-1662) French philosopher###Kind words do %not$ cost much.<br>Yet they accomplish much.",
-"C. S. Lewis (1898-1963) Irish novelist and poet###It is so much easier to pray for a bore than to go and %see$ one.",
-"Possibly attributed to Carolyn Hax (Born 1966) American advice columnist###Marriages don't work like oysters; the grit of unresolved anger<br>will cause serious internal damage, not serve up %pearls$.",
-"Charles de Gaulle (1890-1970) French Prime Minister and General###%Old$ age is a shipwreck."
+"Dalai Lama (Born 1935) Tibetan spiritual leader###Love and compassion are %necessities$, not luxuries.<br>Without them humanity cannot survive.",
+"Dennis and Wendy Mannering () American co-pastors###Attitudes are contagious. Are yours worth %catching$?",
+"E. B. White (1899-1985) American writer###Prejudice is a great time saver.<br>You can form %opinions$ without having to get the facts.",
+"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Growth for the sake of growth is the philosophy of the cancer %cell$.",
+"Eric Hoffer (1902-1983) American philosopher###We all have private ails. The troublemakers are they<br>who need %public$ cures for their private ails."
 
 
 
