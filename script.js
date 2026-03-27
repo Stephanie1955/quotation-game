@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Dalai Lama (Born 1935) Tibetan spiritual leader###Love and compassion are %necessities$, not luxuries.<br>Without them humanity cannot survive.",
-"Dennis and Wendy Mannering () American co-pastors###Attitudes are contagious. Are yours worth %catching$?",
-"E. B. White (1899-1985) American writer###Prejudice is a great time saver.<br>You can form %opinions$ without having to get the facts.",
-"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Growth for the sake of growth is the philosophy of the cancer %cell$.",
-"Eric Hoffer (1902-1983) American philosopher###We all have private ails. The troublemakers are they<br>who need %public$ cures for their private ails."
+"Ernest Hemingway (1899-1961) American novelist###There is nothing noble in being superior to your fellow men.<br>True nobility lies in being superior to your former %self$.",
+"Albert Einstein (1879-1955) German-born American theoretical physicist### The more I learn, the more I realize how much I %don't$ know.",
+"Francois de La Rochefoucauld (1613-1680) French writer###It is easier to be wise for %others$ than for ourselves.",
+"Friedrich Nietzsche (1844-1900) German philosopher###And those who were seen dancing were thought<br>to be insane by those who could not %hear$ the music.",
+"George Bernard Shaw (1856-1950) Irish playwright###Both optimists and pessimists contribute to society.<br>The optimist invents the airplane, the pessimist the %parachute$."
 
 
 
