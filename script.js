@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Ernest Hemingway (1899-1961) American novelist###There is nothing noble in being superior to your fellow men.<br>True nobility lies in being superior to your former %self$.",
-"Albert Einstein (1879-1955) German-born American theoretical physicist### The more I learn, the more I realize how much I %don't$ know.",
-"Francois de La Rochefoucauld (1613-1680) French writer###It is easier to be wise for %others$ than for ourselves.",
-"Friedrich Nietzsche (1844-1900) German philosopher###And those who were seen dancing were thought<br>to be insane by those who could not %hear$ the music.",
-"George Bernard Shaw (1856-1950) Irish playwright###Both optimists and pessimists contribute to society.<br>The optimist invents the airplane, the pessimist the %parachute$."
+"Often attributed to George Eliot (Mary Ann Evans) (1819-1880) British author###It is never too %late$ to be what you might have been.",
+"Gilbert K. Chesterton (1874-1936) English poet###Man seems to be capable of great virtues but not of small virtues;<br>capable of defying his torturer but not of %keeping$ his temper.",
+"H.G. Wells (1866-1946) English science fiction writer###The crisis of today is the joke of %tomorrow$.",
+"Lucius Annaeus Seneca (c. 4 BCE-65 CE) Roman stoic philosopher###It is not that we have a short time to live, but that we %waste$ a lot of it,",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Truths and roses have %thorns$ about them."
 
 
 
