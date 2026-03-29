@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Often attributed to George Eliot (Mary Ann Evans) (1819-1880) British author###It is never too %late$ to be what you might have been.",
-"Gilbert K. Chesterton (1874-1936) English poet###Man seems to be capable of great virtues but not of small virtues;<br>capable of defying his torturer but not of %keeping$ his temper.",
-"H.G. Wells (1866-1946) English science fiction writer###The crisis of today is the joke of %tomorrow$.",
-"Lucius Annaeus Seneca (c. 4 BCE-65 CE) Roman stoic philosopher###It is not that we have a short time to live, but that we %waste$ a lot of it,",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Truths and roses have %thorns$ about them."
+"Henry Wadsworth Longfellow (1807-1882) American poet###Be still, sad heart! and cease repining;<br>Behind the clouds is the sun still shining;<br>Thy fate is the common fate of all,<br>Into each life some %rain$ must fall.",
+"Widely attributed to Immanuel Kant (1724-1804) German philosopher###Science is organized knowledge. Wisdom is %organized$ life.",
+"James Mattis (Born 1950) American military Officer###No %war$ is over until the enemy says it's over.",
+"Jean Giraudoux (1882-1944) French playwright###The secret of success is sincerity. Once you can %fake$ that you've got it made.",
+"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###To spend on one side, nature is forced to %economize$ on the other side."
 
 
 
