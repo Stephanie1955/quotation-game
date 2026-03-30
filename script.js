@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Henry Wadsworth Longfellow (1807-1882) American poet###Be still, sad heart! and cease repining;<br>Behind the clouds is the sun still shining;<br>Thy fate is the common fate of all,<br>Into each life some %rain$ must fall.",
-"Widely attributed to Immanuel Kant (1724-1804) German philosopher###Science is organized knowledge. %Wisdom$ is organized life.",
-"James Mattis (Born 1950) American military Officer###No %war$ is over until the enemy says it's over.",
-"Jean Giraudoux (1882-1944) French playwright###The secret of success is sincerity. Once you can %fake$ that you've got it made.",
-"Johann Wolfgang von Goethe (1749-1832) German playwright and statesman###To spend on one side, nature is forced to %economize$ on the other side."
+"John Rawls (1921-2002) American moral philosopher###The fairest rules are those to which everyone would<br> %agree$ if they did not know how much power they would have.",
+"John Wooden (1910-2010) American basketball coach###Things turn out %best$ for the people who make the best of the way things turn out.",
+"Jonathan Swift (1667-1745) Irish writer###Vision is the art of seeing what is %invisible$ to others.",
+"Attribution unknown###Tell me your honest opinion, is seldom an %honest$ request.",
+"Lao-Tzu (Died 531 BCE) Chinese philosopher###To attain knowledge, add things every day.<br>To attain wisdom, %remove$ things every day."
 
 
 
