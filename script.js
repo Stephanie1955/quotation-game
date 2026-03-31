@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"John Rawls (1921-2002) American moral philosopher###The fairest rules are those to which everyone would<br> %agree$ if they did not know how much power they would have.",
-"John Wooden (1910-2010) American basketball coach###Things turn out %best$ for the people who make the best of the way things turn out.",
-"Jonathan Swift (1667-1745) Irish writer###Vision is the art of seeing what is %invisible$ to others.",
-"Attribution unknown###Tell me your honest opinion, is seldom an %honest$ request.",
-"Lao-Tzu (Died 531 BCE) Chinese philosopher###To attain knowledge, add things every day.<br>To attain wisdom, %remove$ things every day."
+"Lucius Annaeus Seneca (c. 4 BCE-65 CE) Roman stoic philosopher###If one does not know to which port one is sailing, no %wind$ is favorable.",
+"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The things you %think$ about determine the quality of<br>your mind. Your soul takes on the color of your thoughts.<br><br>{Meditations}",
+"Mark Twain (1835-1910) American author###All generalizations are false, including %this$ one.",
+"Martin Luther King, Jr. (1929-1968) American civil rights leader###We may have all come on different<br> %ships$, but we're in the same boat now.",
+"Mencius (Mengzi) (372-289 BCE) Chinese philosopher###Never has a man who has bent himself been able to make others %straight$."
 
 
 
