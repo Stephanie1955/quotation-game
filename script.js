@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Lucius Annaeus Seneca (c. 4 BCE-65 CE) Roman stoic philosopher###If one does not know to which port one is sailing, no %wind$ is favorable.",
-"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The things you %think$ about determine the quality of<br>your mind. Your soul takes on the color of your thoughts.<br><br>{Meditations}",
-"Mark Twain (1835-1910) American author###All generalizations are false, including %this$ one.",
-"Martin Luther King, Jr. (1929-1968) American civil rights leader###We may have all come on different<br> %ships$, but we're in the same boat now.",
-"Mencius (Mengzi) (372-289 BCE) Chinese philosopher###Never has a man who has bent himself been able to make others %straight$."
+"John Burroughs (1837-1921) American naturalist###The smallest deed is better than the %greatest$ intention.",
+"Mother Teresa (1910-1997) Albanian missionary###There is more %hunger$ for love<br>and appreciation in this world than there is for bread.",
+"Nikos Kazantzakis (1883-1957) Greek author and poet###A person needs a little madness,<br>or else they never dare %cut$ the rope and be free.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Whenever people %agree$ with me, I always feel I must be wrong.",
+"P. J. O'Rourke (1947-2022) American political satirist###Everybody wants to save the earth;<br> %nobody$ wants to help Mom do the dishes.",
 
 
 
