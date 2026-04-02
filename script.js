@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"John Burroughs (1837-1921) American naturalist###The smallest deed is better than the %greatest$ intention.",
-"Mother Teresa (1910-1997) Albanian missionary###There is more %hunger$ for love<br>and appreciation in this world than there is for bread.",
-"Nikos Kazantzakis (1883-1957) Greek author and poet###A person needs a little madness,<br>or else they never dare %cut$ the rope and be free.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Whenever people %agree$ with me, I always feel I must be wrong.",
-"P. J. O'Rourke (1947-2022) American political satirist###Everybody wants to save the earth;<br> %nobody$ wants to help Mom do the dishes.",
+"Plato (circa 428-348 BCE) Greek philosopher###Wise men speak because they have something<br>to say, fools because they have to %say$ something.",
+"Scottish Proverb###What may be done at %any$ time will be done at no time.",
+"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###The miser is as much in %want$ of what he has as of what he has not.",
+"Ralph Waldo Emerson (1803-1882) American poet###It is not %length$ of life, but depth of life.",
+"Rick Warren (Born 1954) American pastor###True humility is not thinking less<br>of yourself; it is thinking of yourself %less$.<br><br>{The Purpose-Driven Life}"
 
 
 
