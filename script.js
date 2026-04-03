@@ -39,7 +39,7 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"George Packer (Born 1960) American journalist###The internet, where the wars are fought and nothing is %achieved$ except division.<br><br>{The Atlantic - The College-Educated Working Class}",
+"George Packer (Born 1960) American journalist###The internet, where the wars are fought and nothing is achieved except %division$.<br><br>{The Atlantic - The College-Educated Working Class}",
 "Robert Louis Stevenson (1850-1894) Scottish writer###A friend is a gift you %give$ yourself.",
 "Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The best way to appreciate your job is to imagine yourself without %one$.",
 "Exact origin is debated###Resentment is like taking poison and waiting for others to %die$.",
