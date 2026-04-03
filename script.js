@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Plato (circa 428-348 BCE) Greek philosopher###Wise men speak because they have something<br>to say, fools because they have to %say$ something.",
-"Scottish Proverb###What may be done at %any$ time will be done at no time.",
-"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###The miser is as much in %want$ of what he has as of what he has not.",
-"Ralph Waldo Emerson (1803-1882) American poet###It is not %length$ of life, but depth of life.",
-"Rick Warren (Born 1954) American pastor###True humility is not thinking less<br>of yourself; it is thinking of yourself %less$.<br><br>{The Purpose-Driven Life}"
+"George Packer (Born 1960) American journalist###The internet, where the wars are fought and nothing is %achieved$ except division.<br><br>{The Atlantic - The College-Educated Working Class}",
+"Robert Louis Stevenson (1850-1894) Scottish writer###A friend is a gift you %give$ yourself.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The best way to appreciate your job is to imagine yourself without %one$.",
+"Exact origin is debated###Resentment is like taking poison and waiting for others to %die$.",
+"Samuel Johnson (1709-1784) English poet###Wine makes a man more pleased with himself;<br>I do not say it makes him more %pleasing$ to others."
 
 
 
