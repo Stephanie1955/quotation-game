@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"George Packer (Born 1960) American journalist###The internet, where the wars are fought and nothing is achieved except %division$.<br><br>{The Atlantic - The College-Educated Working Class}",
-"Robert Louis Stevenson (1850-1894) Scottish writer###A friend is a gift you %give$ yourself.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The best way to appreciate your job is to imagine yourself without %one$.",
-"Exact origin is debated###Resentment is like taking poison and waiting for others to %die$.",
-"Samuel Johnson (1709-1784) English poet###Wine makes a man more pleased with himself;<br>I do not say it makes him more %pleasing$ to others."
+"Popularly Attributed to Mark Twain (1835-1910) American author###Denial ain't just a %river$ in Egypt.",
+"Strickland Gillilan (1869-1954) American poet###You may have tangible wealth untold;<br>Caskets of jewels and coffers of gold.<br> %Richer$ than I you can never be -<br>I had a mother who read to me.<br><br>{The Reading Mother}",
+"Terry Pratchett (1948-2015) British writer and satirist###In ancient times cats were worshipped<br>as gods; they have not %forgotten$ this.",
+"Thomas Jefferson (1743-1826) President of the United States###An injured %friend$ is the bitterest of foes.",
+"Truman Capote (1924-1984) American novelist###Failure is the condiment that gives %success$ its flavor."
 
 
 
