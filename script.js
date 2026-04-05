@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Popularly Attributed to Mark Twain (1835-1910) American author###Denial ain't just a %river$ in Egypt.",
-"Strickland Gillilan (1869-1954) American poet###You may have tangible wealth untold;<br>Caskets of jewels and coffers of gold.<br> %Richer$ than I you can never be -<br>I had a mother who read to me.<br><br>{The Reading Mother}",
-"Terry Pratchett (1948-2015) British writer and satirist###In ancient times cats were worshipped<br>as gods; they have not %forgotten$ this.",
-"Thomas Jefferson (1743-1826) President of the United States###An injured %friend$ is the bitterest of foes.",
-"Truman Capote (1924-1984) American novelist###Failure is the condiment that gives %success$ its flavor."
+"Voltaire (1694-1778) French philosopher###The comfort of the rich depends<br>upon an abundant supply of the %poor$.",
+"William Blake (1757-1827) English poet###No bird soars too %high$ if he soars with his own wings.",
+"William James (1842-1910) American philosopher###A chain is no stronger than its %weakest$ link, and life is after all a chain.",
+"Charles Churchill (1732-1764) English poet###A joke is a very %serious$ thing.",
+"William Shakespeare (1564-1616) British poet and playwright###Golden lads and girls all must<br>As chimney-sweepers, come to %dust$.<br><br>{Cymbeline}"
 
 
 
