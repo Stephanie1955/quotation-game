@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Voltaire (1694-1778) French philosopher###The comfort of the rich depends<br>upon an abundant supply of the %poor$.",
-"William Blake (1757-1827) English poet###No bird soars too %high$ if he soars with his own wings.",
-"William James (1842-1910) American philosopher###A chain is no stronger than its %weakest$ link, and life is after all a chain.",
-"Charles Churchill (1732-1764) English poet###A joke is a very %serious$ thing.",
-"William Shakespeare (1564-1616) British poet and playwright###Golden lads and girls all must<br>As chimney-sweepers, come to %dust$.<br><br>{Cymbeline}"
+"Wilson Mizner (1876-1933) American playwright###Don't talk about yourself; it will be %done$ when you leave.",
+"Winston Churchill (1874-1965) British prime minister###Men occasionally stumble over the truth,<br>but most of them pick themselves up<br>and hurry off as if %nothing$ ever happened.",
+"Charles Churchill (1732-1764) English poet###The best things carried to excess are %wrong$.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Be strong enough to stand alone,<br>smart enough to know when you need %help$,<br>and brave enough to ask for it.",
+"Zig Ziglar (1926-2012) American motivational speaker###People often say that motivation doesn't last.<br>Well, neither does bathing -<br>that's why we recommend it %daily$."
 
 
 
