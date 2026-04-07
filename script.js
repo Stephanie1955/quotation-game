@@ -39,11 +39,12 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Wilson Mizner (1876-1933) American playwright###Don't talk about yourself; it will be %done$ when you leave.",
-"Winston Churchill (1874-1965) British prime minister###Men occasionally stumble over the truth,<br>but most of them pick themselves up<br>and hurry off as if %nothing$ ever happened.",
-"Charles Churchill (1732-1764) English poet###The best things carried to excess are %wrong$.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Be strong enough to stand alone,<br>smart enough to know when you need %help$,<br>and brave enough to ask for it.",
-"Zig Ziglar (1926-2012) American motivational speaker###People often say that motivation doesn't last.<br>Well, neither does bathing -<br>that's why we recommend it %daily$."
+"Timothy Keller (1950-2023) American theologian###A church is a hospital for %sinners$, not a museum for saints.",
+"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###The past influences %everything$ and dictates nothing.",
+"Aesop (c. 620-560 BCE) Greek fabulist###The %smaller$ the mind the greater the conceit.",
+"Aldo Leopold (1887-1948) American philosopher and environmentalist###Ethical behavior is doing the right thing when no one else is %watching$ <br> - even when doing the wrong thing is legal.",
+"Alfred E. Neuman () Mascot of MAD Magazine###People who swear they'll stick to their diets<br>usually end up %eating$ their words."
+
 
 
 
