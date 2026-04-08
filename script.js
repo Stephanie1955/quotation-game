@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Timothy Keller (1950-2023) American theologian###A church is a hospital for %sinners$, not a museum for saints.",
-"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###The past influences %everything$ and dictates nothing.",
-"Aesop (c. 620-560 BCE) Greek fabulist###The %smaller$ the mind the greater the conceit.",
-"Aldo Leopold (1887-1948) American philosopher and environmentalist###Ethical behavior is doing the right thing when no one else is %watching$ <br> - even when doing the wrong thing is legal.",
-"Alfred E. Neuman () Mascot of MAD Magazine###People who swear they'll stick to their diets<br>usually end up %eating$ their words."
+"Alfred E. Neuman () Mascot of MAD Magazine###Experience is what makes you pause briefly<br>before going ahead and making the %same$ mistake.",
+"Anatole France (1844-1924) French poet###The books that everybody admires are those that %nobody$ reads.",
+"Anton Chekov (1860-1904) Russian physician and author###Any idiot can face a crisis - it is day to day living that %wears$ you out.",
+"Attribution Unknown###When you get caught in a lie the %truth$ doesn't seem so bad anymore.",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Fatigue is the %best$ pillow."
 
 
 
