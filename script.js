@@ -39,11 +39,14 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Alfred E. Neuman () Mascot of MAD Magazine###Experience is what makes you pause briefly<br>before going ahead and making the %same$ mistake.",
-"Anatole France (1844-1924) French poet###The books that everybody admires are those that %nobody$ reads.",
-"Anton Chekov (1860-1904) Russian physician and author###Any idiot can face a crisis - it is day to day living that %wears$ you out.",
-"Attribution Unknown###When you get caught in a lie the %truth$ doesn't seem so bad anymore.",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Fatigue is the %best$ pillow."
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Content makes poor men rich; %discontent$ makes rich men poor.",
+"Blaise Pascal (1623-1662) French philosopher###The heart has its reasons of which %reason$ knows nothing.<br><br>{Pensees}",
+"Buddha (c. 563-483 BCE) Founder of Buddhism###Holding on to anger is like grasping a hot coal;<br>you are the one who gets %burned$.",
+"Carolyn Hax (Born 1966) American advice columnist###If someone's stuff isn't mean, selfish or intended to harm,<br>then my sitting in judgment of the person is %worse$<br>than whatever the person is doing.",
+"Charles de Gaulle (1890-1970) French Prime Minister and General###In order to become the master, the politician poses as the %servant$."
+
+
+
 
 
 
