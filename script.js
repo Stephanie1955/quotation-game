@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###Content makes poor men rich; %discontent$ makes rich men poor.",
-"Blaise Pascal (1623-1662) French philosopher###The heart has its reasons of which %reason$ knows nothing.<br><br>{Pensees}",
-"Buddha (c. 563-483 BCE) Founder of Buddhism###Holding on to anger is like grasping a hot coal;<br>you are the one who gets %burned$.",
-"Carolyn Hax (Born 1966) American advice columnist###If someone's stuff isn't mean, selfish or intended to harm,<br>then my sitting in judgment of the person is %worse$<br>than whatever the person is doing.",
-"Charles de Gaulle (1890-1970) French Prime Minister and General###In order to become the master, the politician poses as the %servant$."
+"Dalai Lama (Born 1935) Tibetan spiritual leader###If you want %others$ to be happy, practice compassion.<br>If you want to be happy, practice compassion.",
+"Attribution debated###Now, I don't like to think of myself as a snob — %snobs$ never do.",
+"e. e. cummings (1894-1962) American poet###Unbeing %dead$ isn't being alive.",
+"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Society is like a stew. If you don't stir it up every once in a while<br>then a layer of scum floats to the %top$.",
+"Eric Hoffer (1902-1983) American philosopher###Kindness can become its own %motive$.<br>We are made kind by being kind."
 
 
 
