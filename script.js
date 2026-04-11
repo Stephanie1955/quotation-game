@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Dalai Lama (Born 1935) Tibetan spiritual leader###If you want %others$ to be happy, practice compassion.<br>If you want to be happy, practice compassion.",
-"Attribution debated###Now, I don't like to think of myself as a snob — %snobs$ never do.",
-"e. e. cummings (1894-1962) American poet###Unbeing %dead$ isn't being alive.",
-"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Society is like a stew. If you don't stir it up every once in a while<br>then a layer of scum floats to the %top$.",
-"Eric Hoffer (1902-1983) American philosopher###Kindness can become its own %motive$.<br>We are made kind by being kind."
+"Ernest Hemingway (1899-1961) American novelist###I love %sleep$. My life has the tendency<br>to fall apart when I'm awake, you know?",
+"Francis Bacon (1561-1626) English philosopher###There is a difference between happiness and wisdom:<br>he that thinks himself the happiest man is really so;<br>but he that thinks himself the wisest is generally the greatest %fool$.",
+"Francois de La Rochefoucauld (1613-1680) French writer###What keeps us from abandoning ourselves entirely to one vice,<br> often, is the fact that we have %several$.",
+"Friedrich Nietzsche (1844-1900) German philosopher###It is not the absence of love but the<br>absence of %friendship$ that makes marriages unhappy.",
+"George Bernard Shaw (1856-1950) Irish playwright###If history repeats itself, and the %unexpected$ always happens,<br>how incapable must man be of learning from experience."
 
 
 
