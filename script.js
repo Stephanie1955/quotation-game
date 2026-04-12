@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Ernest Hemingway (1899-1961) American novelist###I love %sleep$. My life has the tendency<br>to fall apart when I'm awake, you know?",
-"Francis Bacon (1561-1626) English philosopher###There is a difference between happiness and wisdom:<br>he that thinks himself the happiest man is really so;<br>but he that thinks himself the wisest is generally the greatest %fool$.",
-"Francois de La Rochefoucauld (1613-1680) French writer###What keeps us from abandoning ourselves entirely to one vice,<br> often, is the fact that we have %several$.",
-"Friedrich Nietzsche (1844-1900) German philosopher###It is not the absence of love but the<br>absence of %friendship$ that makes marriages unhappy.",
-"George Bernard Shaw (1856-1950) Irish playwright###If history repeats itself, and the %unexpected$ always happens,<br>how incapable must man be of learning from experience."
+"George Eliot (Mary Ann Evans) (1819-1880) British author###Our dead are never dead to us, until we have %forgotten$ them.",
+"Gilbert K. Chesterton (1874-1936) English poet###To be clever enough to get all that money,<br>one must be %stupid$ enough to want it.",
+"H.G. Wells (1866-1946) English science fiction writer###If we %don't$ end war, war will end us.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###What you %get$ by achieving your goals is not as<br>important as what you become by achieving your goals.",
+"John Culkin (1928-1993) American media scholar and academic###We shape our tools and %thereafter$ our tools shape us."
 
 
 
