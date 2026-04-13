@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"George Eliot (Mary Ann Evans) (1819-1880) British author###Our dead are never dead to us, until we have %forgotten$ them.",
-"Gilbert K. Chesterton (1874-1936) English poet###To be clever enough to get all that money,<br>one must be %stupid$ enough to want it.",
-"H.G. Wells (1866-1946) English science fiction writer###If we %don't$ end war, war will end us.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###What you %get$ by achieving your goals is not as<br>important as what you become by achieving your goals.",
-"John Culkin (1928-1993) American media scholar and academic###We shape our tools and %thereafter$ our tools shape us."
+"Heraclitus of Ephesus (c. 535-475 BCE) Greek philosopher###There is nothing permanent except %change$.",
+"Immanuel Kant (1724-1804) German philosopher###Out of the crooked timber of humanity, no %straight$ thing was ever made.",
+"James Parker () Staff writer for The Atlantic magazine###Through social media, we seem to have<br>invented a completely %new$ way to be miserable.",
+"Jean-Jacques Rousseau (1712-1778) French philosopher###Money is the seed of money, and the first guinea<br>is sometimes more difficult to %acquire$ than the second million.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Not only must we be good, but we must also be %good$ for something."
 
 
 
