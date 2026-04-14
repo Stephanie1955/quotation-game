@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Heraclitus of Ephesus (c. 535-475 BCE) Greek philosopher###There is nothing permanent except %change$.",
-"Immanuel Kant (1724-1804) German philosopher###Out of the crooked timber of humanity, no %straight$ thing was ever made.",
-"James Parker () Staff writer for The Atlantic magazine###Through social media, we seem to have<br>invented a completely %new$ way to be miserable.",
-"Jean-Jacques Rousseau (1712-1778) French philosopher###Money is the seed of money, and the first guinea<br>is sometimes more difficult to %acquire$ than the second million.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Not only must we be good, but we must also be %good$ for something."
+"John Steinbeck (1902-1968) American novelist###It is a common experience that a problem difficult at night<br>is resolved in the morning after the committee of %sleep$ has worked on it.",
+"Mark Twain (1835-1910) American author###The secret of getting ahead is %getting$ started.",
+"William Somerset Maugham (1874-1965) British playwright and author###The fact that a great many people %believe$ something is no guarantee of its truth.<br><br>{The Razor’s Edge}",
+"Victor Frankl (1905-1997) Austrian psychiatrist and Holocaust survivor###When we are no longer able to change a %situation$,<br> we are challenged to change ourselves.<br><br>{Man's Search For Meaning}",
+"Lao-Tzu (Died 531 BCE) Chinese philosopher###A wise ruler keeps his subjects' bellies full, and their minds %empty$."
 
 
 
