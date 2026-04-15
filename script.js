@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"John Steinbeck (1902-1968) American novelist###It is a common experience that a problem difficult at night<br>is resolved in the morning after the committee of %sleep$ has worked on it.",
-"Mark Twain (1835-1910) American author###The secret of getting ahead is %getting$ started.",
-"William Somerset Maugham (1874-1965) British playwright and author###The fact that a great many people %believe$ something is no guarantee of its truth.<br><br>{The Razor’s Edge}",
-"Victor Frankl (1905-1997) Austrian psychiatrist and Holocaust survivor###When we are no longer able to change a %situation$,<br> we are challenged to change ourselves.<br><br>{Man's Search For Meaning}",
-"Lao-Tzu (Died 531 BCE) Chinese philosopher###A wise ruler keeps his subjects' bellies full, and their minds %empty$."
+"Mark Twain (1835-1910) American author###Anger - an acid that can do more harm to the vessel <br>in which it is %stored$ than to anything on which it is poured.",
+"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The quality of your %life$ is determined by the quality of your thoughts.<br><br>{Meditations}",
+"John Wooden (1910-2010) American basketball coach###Do not let what you cannot do %interfere$ with what you can do.",
+"Stefan Zweig (1881-1942) Austrian writer###One can run away from anything %except$ oneself.<br><br>{Beware of Pity}",
+"Meredith Willson (1902-1984) American composer and playwright###You pile up enough %tomorrows$, and you'll find<br>you are left with nothing but a lot of empty yesterdays.<br><br>{The Music Man}"
 
 
 
