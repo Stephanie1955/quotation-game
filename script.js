@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Mark Twain (1835-1910) American author###Anger - an acid that can do more harm to the vessel <br>in which it is %stored$ than to anything on which it is poured.",
-"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The quality of your %life$ is determined by the quality of your thoughts.<br><br>{Meditations}",
-"John Wooden (1910-2010) American basketball coach###Do not let what you cannot do %interfere$ with what you can do.",
-"Stefan Zweig (1881-1942) Austrian writer###One can run away from anything %except$ oneself.<br><br>{Beware of Pity}",
-"Meredith Willson (1902-1984) American composer and playwright###You pile up enough %tomorrows$, and you'll find<br>you are left with nothing but a lot of empty yesterdays.<br><br>{The Music Man}"
+"Friedrich Nietzsche (1844-1900) German philosopher###That which does not %kill$ me makes me stronger.<br><br>{Twilight of the Idols}",
+"Napoleon Bonaparte (1769-1821) French military and political leader###Never %interrupt$ your enemy when he is making a mistake.",
+"Nikos Kazantzakis (1883-1957) Greek author and poet###There is no harsher means of<br> %punishment$, than to answer malice with kindness.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The world is a stage and the %play$ is badly cast.",
+"Pablo Escobar (1949-1993) Columbian drug lord###I'm not a rich man; I'm a poor man with a lot of %money$."
 
 
 
