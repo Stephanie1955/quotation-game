@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Friedrich Nietzsche (1844-1900) German philosopher###That which does not %kill$ me makes me stronger.<br><br>{Twilight of the Idols}",
-"Napoleon Bonaparte (1769-1821) French military and political leader###Never %interrupt$ your enemy when he is making a mistake.",
-"Nikos Kazantzakis (1883-1957) Greek author and poet###There is no harsher means of<br> %punishment$, than to answer malice with kindness.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###The world is a stage and the %play$ is badly cast.",
-"Pablo Escobar (1949-1993) Columbian drug lord###I'm not a rich man; I'm a poor man with a lot of %money$."
+"Plato (circa 428-348 BCE) Greek philosopher###We can easily forgive a child who is afraid of the dark;<br>the real tragedy of life is when men are afraid of the %light$.",
+"Sierra Leonean Proverb###Quarrels end, but words once %spoken$ never die.",
+"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###The person who %receives$ the most favors<br>is the one who knows how to return them.",
+"Ralph Waldo Emerson (1803-1882) American poet###The first wealth is %health$.",
+"Robert A. Heinlein (1907-1988) American science fiction writer###Man is not a rational animal,<br>but a %rationalizing$ animal."
 
 
 
