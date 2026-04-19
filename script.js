@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Robert Burns (1759-1796) Scottish poet###An honest man here lies at rest . . . <br>If there is another world, he lives in bliss<br>If there is none, he made the best of %this$.<br><br>{Spoken at a friend’s funeral}",
-"Josh Billings (aka Henry Wheeler Shaw) (1818-1885) American humorist### Life consists not in holding good %cards$ but in playing those you hold well.",
-"Robert Rubin (Born 1938) American Secretary of Treasury###Some people are more certain of %everything$ than I am of anything.",
-"Saint Francis of Assisi (1182-1226) Italian saint###Start by doing what's necessary;<br>then do what's possible;<br>and suddenly you are doing the %impossible$.",
-"Samuel Johnson (1709-1784) English poet###To keep your secret is wisdom;<br>but to expect %others$ to keep it is folly."
+"Allen Ginsberg (1926-1997) American poet###I don't think there is any %truth$. There are only points of view.",
+"Sukant Ratnakar (Born 1968) Indian writer and management consultant###When enough is not %enough$, a hedonist is born.",
+"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###To educate a man in %mind$ and not<br>in morals is to educate a menace to society.",
+"Thomas Paine (1737-1809) British-born American Revolutionary###Character is much easier kept than %recovered$.",
+"Euzera Green Ross (1917-1989) Grandmother of Justice Ketanji Brown Jackson###To dwell on the unfairness of life is to be %devoured$ by it."
 
 
 
