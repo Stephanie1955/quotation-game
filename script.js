@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Allen Ginsberg (1926-1997) American poet###I don't think there is any %truth$. There are only points of view.",
-"Sukant Ratnakar (Born 1968) Indian writer and management consultant###When enough is not %enough$, a hedonist is born.",
-"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###To educate a man in %mind$ and not<br>in morals is to educate a menace to society.",
-"Thomas Paine (1737-1809) British-born American Revolutionary###Character is much easier kept than %recovered$.",
-"Euzera Green Ross (1917-1989) Grandmother of Justice Ketanji Brown Jackson###To dwell on the unfairness of life is to be %devoured$ by it."
+"Walt Disney (1901-1966) American Cartoonist###There is more %treasure$ in books<br>than all the pirate's loot on Treasure Island.",
+"Commonly attributed to William Butler Yeats (1865-1939) Irish poet and politician###Education is not the %filling$ of a pail, but the lighting of a fire.",
+"William James (1842-1910) American philosopher###When you have to make a choice and<br>don't make it, that is in itself a %choice$.",
+"William Shakespeare (1564-1616) British poet and playwright###Though %death$ be poor, it ends a mortal woe.<br><br>{Richard II}",
+"Zig Ziglar (1926-2012) American motivational speaker###If you aim at nothing, you'll %hit$ it every time."
 
 
 
