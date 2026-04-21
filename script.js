@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Walt Disney (1901-1966) American Cartoonist###There is more %treasure$ in books<br>than all the pirate's loot on Treasure Island.",
-"Commonly attributed to William Butler Yeats (1865-1939) Irish poet and politician###Education is not the %filling$ of a pail, but the lighting of a fire.",
-"William James (1842-1910) American philosopher###When you have to make a choice and<br>don't make it, that is in itself a %choice$.",
-"William Shakespeare (1564-1616) British poet and playwright###Though %death$ be poor, it ends a mortal woe.<br><br>{Richard II}",
-"Zig Ziglar (1926-2012) American motivational speaker###If you aim at nothing, you'll %hit$ it every time."
+"Wilson Mizner (1876-1933) American playwright###If you steal from one author it's plagiarism;<br>if you steal from %many$ it's research.",
+"Winston Churchill (1874-1965) British prime minister###We make a living by what we get, but we make a life by what we %give$.",
+"Woody Allen (Born 1935) American playwright and comedian###I'm not afraid of death;<br>I just don't want to be %there$ when it happens.",
+"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Don't promise when you're happy.<br>Don't reply when you're %angry$ <br>and don't decide when you're sad.",
+"William Shakespeare (1564-1616) British poet and playwright###Hell is empty, And all the %devils$ are here!<br><br>{The Tempest}"
 
 
 
