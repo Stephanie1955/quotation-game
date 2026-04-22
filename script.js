@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Wilson Mizner (1876-1933) American playwright###If you steal from one author it's plagiarism;<br>if you steal from %many$ it's research.",
-"Winston Churchill (1874-1965) British prime minister###We make a living by what we get, but we make a life by what we %give$.",
-"Woody Allen (Born 1935) American playwright and comedian###I'm not afraid of death;<br>I just don't want to be %there$ when it happens.",
-"Ziad K. Abdelnour (Born 1960) Lebanese born American financier and author###Don't promise when you're happy.<br>Don't reply when you're %angry$ <br>and don't decide when you're sad.",
-"William Shakespeare (1564-1616) British poet and playwright###Hell is empty, And all the %devils$ are here!<br><br>{The Tempest}"
+"Abigail Van Buren (1918-2013) American advice columnist###People who fight fire with fire usually end up with %ashes$.",
+"Adlai E. Stevenson (1900-1965) American politician###Man is a strange animal. He generally cannot read the<br>handwriting on the wall until his back is up %against$ it.",
+"Aesop (c. 620-560 BCE) Greek fabulist###A crust eaten in %peace$ is better than a banquet partaken in anxiety.",
+"Alex Dias Ribeiro (Born 1948) Brazilian Formula 1 race-car driver###Unhappy is he who depends on success to be %happy$.",
+"Popular saying###If you put someone on a pedestal<br>it just makes it easier for them to look %down$ on you.",
 
 
 
