@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Abigail Van Buren (1918-2013) American advice columnist###People who fight fire with fire usually end up with %ashes$.",
-"Adlai E. Stevenson (1900-1965) American politician###Man is a strange animal. He generally cannot read the<br>handwriting on the wall until his back is up %against$ it.",
-"Aesop (c. 620-560 BCE) Greek fabulist###A crust eaten in %peace$ is better than a banquet partaken in anxiety.",
-"Alex Dias Ribeiro (Born 1948) Brazilian Formula 1 race-car driver###Unhappy is he who depends on success to be %happy$.",
-"Popular saying###If you put someone on a pedestal<br>it just makes it easier for them to look %down$ on you.",
+"Alfred E. Neuman () Mascot of MAD Magazine###We are living in a world today where lemonade is made from artificial flavors<br>and furniture polish is made from real %lemons$.",
+"Andy Warhol (1928-1987) American artist###I never %read$; I just look at pictures.",
+"Anton Chekov (1860-1904) Russian physician and author###Love, friendship, respect, do not unite people as much as<br>a common %hatred$ for something.",
+"Babe Ruth (1895-1948) American baseball player###Yesterday's home runs don't %win$ today's games.",
+"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###He that is good for making excuses is seldom good for %anything$ else."
 
 
 
