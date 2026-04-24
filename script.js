@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Alfred E. Neuman () Mascot of MAD Magazine###We are living in a world today where lemonade is made from artificial flavors<br>and furniture polish is made from real %lemons$.",
-"Andy Warhol (1928-1987) American artist###I never %read$; I just look at pictures.",
-"Anton Chekov (1860-1904) Russian physician and author###Love, friendship, respect, do not unite people as much as<br>a common %hatred$ for something.",
-"Babe Ruth (1895-1948) American baseball player###Yesterday's home runs don't %win$ today's games.",
-"Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###He that is good for making excuses is seldom good for %anything$ else."
+"Bertrand Russell (1872-1970) British philosopher###Sometimes the hardest thing in life is to know which<br>bridge to %cross$ and which to burn.",
+"Blaise Pascal (1623-1662) French philosopher###I have made this letter longer than usual<br>only because I have not had time to make it %shorter$.",
+"C. S. Lewis (1898-1963) Irish novelist and poet###I sometimes wonder whether all pleasures are not substitutes for %joy$.",
+"Carveth Read (1848-1931) British philosopher and logician###It is better to be vaguely %right$ than exactly wrong.",
+"Victor Frankl (1905-1997) Austrian psychiatrist and Holocaust survivor###Happiness cannot be %pursued$; it must ensue.<br><br>{Man's Search For Meaning}"
 
 
 
