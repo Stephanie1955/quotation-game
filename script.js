@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Bertrand Russell (1872-1970) British philosopher###Sometimes the hardest thing in life is to know which<br>bridge to %cross$ and which to burn.",
-"Blaise Pascal (1623-1662) French philosopher###I have made this letter longer than usual<br>only because I have not had time to make it %shorter$.",
-"C. S. Lewis (1898-1963) Irish novelist and poet###I sometimes wonder whether all pleasures are not substitutes for %joy$.",
-"Carveth Read (1848-1931) British philosopher and logician###It is better to be vaguely %right$ than exactly wrong.",
-"Victor Frankl (1905-1997) Austrian psychiatrist and Holocaust survivor###Happiness cannot be %pursued$; it must ensue.<br><br>{Man's Search For Meaning}"
+"Dalai Lama aka Tenzin Gyatso (Born 1935) Tibetan spiritual leader###In the practice of tolerance, one's enemy is the best %teacher$.",
+"Diogenes the Cynic (c. 403-323 BCE) Greek Philosopher###He has the most who is most content with the %least$.",
+"E. F. Schumacher (1911-1977) German-born British economist###The system of nature, of which man is a part, tends to be self-balancing,<br>self-adjusting, self-cleansing. %Not$ so with technology.",
+"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Anarchism is founded on the observation that since few men are wise enough<br>to rule themselves, even %fewer$ are wise enough to rule others.",
+"Eric Hoffer (1902-1983) American philosopher###You can discover what your enemy %fears$ most<br>by observing the means he uses to frighten you."
 
 
 
