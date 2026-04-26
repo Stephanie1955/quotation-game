@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Dalai Lama aka Tenzin Gyatso (Born 1935) Tibetan spiritual leader###In the practice of tolerance, one's enemy is the best %teacher$.",
-"Diogenes the Cynic (c. 403-323 BCE) Greek Philosopher###He has the most who is most content with the %least$.",
-"E. F. Schumacher (1911-1977) German-born British economist###The system of nature, of which man is a part, tends to be self-balancing,<br>self-adjusting, self-cleansing. %Not$ so with technology.",
-"Edward Paul Abbey (1927-1989) American advocate of environmental issues###Anarchism is founded on the observation that since few men are wise enough<br>to rule themselves, even %fewer$ are wise enough to rule others.",
-"Eric Hoffer (1902-1983) American philosopher###You can discover what your enemy %fears$ most<br>by observing the means he uses to frighten you."
+"Ernest Shackleton (1874-1922) Irish polar explorer###I have marveled often at the thin %line$ that divides success from failure.",
+"Francois de La Rochefoucauld (1613-1680) French writer###If we had no faults of our own, we should not<br>take so much pleasure in noticing them in %others$.",
+"Alfred Adler (1870-1937) Austrian psychotherapist###Follow your %heart$ but take your brain with you.",
+"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###Happiness does not lie in %happiness$, but in the achievement of it.",
+"George Bernard Shaw (1856-1950) Irish playwright###England and America are two countries separated by a %common$ language."
 
 
 
