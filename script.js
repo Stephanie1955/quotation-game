@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Ernest Shackleton (1874-1922) Irish polar explorer###I have marveled often at the thin %line$ that divides success from failure.",
-"Francois de La Rochefoucauld (1613-1680) French writer###If we had no faults of our own, we should not<br>take so much pleasure in noticing them in %others$.",
-"Alfred Adler (1870-1937) Austrian psychotherapist###Follow your %heart$ but take your brain with you.",
-"Fyodor Dostoevsky (1821-1881) Russian novelist and philosopher###Happiness does not lie in %happiness$, but in the achievement of it.",
-"George Bernard Shaw (1856-1950) Irish playwright###England and America are two countries separated by a %common$ language."
+"George Orwell (1903-1950) English novelist and journalist###We may find in the long run that tinned food<br>is a %deadlier$ weapon than the machine-gun.<br><br>{The Road to Wigan Pier}",
+"Gilbert K. Chesterton (1874-1936) English poet###We are perishing for want of %wonder$, not for want of wonders.",
+"Ellen Glasgow (1873-1945) American author###The difference between a rut and a grave is the %dimensions$.",
+"Henry David Thoreau (1817-1862) American philosopher and naturalist###Tis healthy to be %sick$ sometimes.",
+"Francois de La Rochefoucauld (1613-1680) French writer###Why is it that our memory is good enough to retain the least<br>triviality that happens to us, and yet not good enough<br>to recollect how often we have told it to the %same$ person?"
 
 
 
