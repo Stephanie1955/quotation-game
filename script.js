@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"George Orwell (1903-1950) English novelist and journalist###We may find in the long run that tinned food<br>is a %deadlier$ weapon than the machine-gun.<br><br>{The Road to Wigan Pier}",
-"Gilbert K. Chesterton (1874-1936) English poet###We are perishing for want of %wonder$, not for want of wonders.",
-"Ellen Glasgow (1873-1945) American author###The difference between a rut and a grave is the %dimensions$.",
-"Henry David Thoreau (1817-1862) American philosopher and naturalist###Tis healthy to be %sick$ sometimes.",
-"Francois de La Rochefoucauld (1613-1680) French writer###Why is it that our memory is good enough to retain the least<br>triviality that happens to us, and yet not good enough<br>to recollect how often we have told it to the %same$ person?"
+"Herbert Spencer (1820-1903) English philosopher###Time: that which man is always trying to %kill$, but which ends in killing him.",
+"Isaac Asimov (1920-1992) American author and professor of biochemistry###Those people who think they know everything<br>are a great annoyance to those of %us$ who do.",
+"James Thurber (1894-1961) American author and cartoonist###You can fool too many of the people too %much$ of the time.",
+"Jean-Paul Sartre (1905-1980) French existential philosopher###Everything has been figured out, except %how$ to live.",
+"John Dryden (1631-1700) English poet###All human things are subject to decay,<br>And, when Fate summons, monarchs must %obey$.<br><br>{Mac Flecknoe}"
 
 
 
