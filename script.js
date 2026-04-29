@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Herbert Spencer (1820-1903) English philosopher###Time: that which man is always trying to %kill$, but which ends in killing him.",
-"Isaac Asimov (1920-1992) American author and professor of biochemistry###Those people who think they know everything<br>are a great annoyance to those of %us$ who do.",
-"James Thurber (1894-1961) American author and cartoonist###You can fool too many of the people too %much$ of the time.",
-"Jean-Paul Sartre (1905-1980) French existential philosopher###Everything has been figured out, except %how$ to live.",
-"John Dryden (1631-1700) English poet###All human things are subject to decay,<br>And, when Fate summons, monarchs must %obey$.<br><br>{Mac Flecknoe}"
+"John Stuart Mill (1806-1873) English philosopher###I have learned to seek my happiness by<br>limiting my desires, rather than in attempting to %satisfy$ them.",
+"John Wooden (1910-2010) American basketball coach###Failure is not fatal, but %failure$ to change might be.",
+"Jonathan Swift (1667-1745) Irish writer###A wise man should have money in his %head$, but not in his heart.",
+"Julia Sorel () Author###If you're never scared or embarrassed or hurt,<br>it means you never %take$ any chances.",
+"Lao-Tzu (Died 531 BCE) Chinese philosopher###A man with outward courage dares to die;<br>a man with inner courage dares to %live$."
 
 
 
