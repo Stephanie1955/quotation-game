@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"John Stuart Mill (1806-1873) English philosopher###I have learned to seek my happiness by<br>limiting my desires, rather than in attempting to %satisfy$ them.",
-"John Wooden (1910-2010) American basketball coach###Failure is not fatal, but %failure$ to change might be.",
-"Jonathan Swift (1667-1745) Irish writer###A wise man should have money in his %head$, but not in his heart.",
-"Julia Sorel () Author###If you're never scared or embarrassed or hurt,<br>it means you never %take$ any chances.",
-"Lao-Tzu (Died 531 BCE) Chinese philosopher###A man with outward courage dares to die;<br>a man with inner courage dares to %live$."
+"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###As long as you live, keep learning how to %live$.",
+"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The happiness of your %life$ depends upon the quality of your thoughts.<br><br>{Meditations}",
+"Popularly Attributed to Mark Twain (1835-1910) American author###Denial ain't just a %river$ in Egypt.",
+"Henry Robert Merrill (1921-1998) American song writer###I know a man rich as a king<br>Still, he won't give his neighbor a %thing$.<br><br>{A Rusty Old Halo}",
+"Michel de Montaigne (1533-1592) French essayist and philosopher###We can be knowledgeable with other men's knowledge,<br>but we cannot be wise with other men's %wisdom$."
 
 
 
