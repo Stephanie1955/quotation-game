@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Lucius Annaeus Seneca (5 BCE-65 CE) Roman statesman###As long as you live, keep learning how to %live$.",
-"Marcus Aurelius (121-180 CE) Roman emperor and stoic philosopher###The happiness of your %life$ depends upon the quality of your thoughts.<br><br>{Meditations}",
-"Popularly Attributed to Mark Twain (1835-1910) American author###Denial ain't just a %river$ in Egypt.",
-"Henry Robert Merrill (1921-1998) American song writer###I know a man rich as a king<br>Still, he won't give his neighbor a %thing$.<br><br>{A Rusty Old Halo}",
-"Michel de Montaigne (1533-1592) French essayist and philosopher###We can be knowledgeable with other men's knowledge,<br>but we cannot be wise with other men's %wisdom$."
+"Mokokoma Mokhonoana (1985-2023) South African philosopher###Civilization transformed man from a food gatherer to a %gatherer$ of<br>pieces of paper: diplomas, employment contracts, money, etc.",
+"Napoleon Bonaparte (1769-1821) French military and political leader###History is a set of lies that people have %agreed$ upon.",
+"Nikos Kazantzakis (1883-1957) Greek author and poet###The more devils we have within<br>us, the more chance we have to form %angels$.",
+"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Everything in moderation, %including$ moderation.",
+"Robert Leroy Johnson (1911-1938) American legendary guitarist###I made a pact with the devil, and the devil %always$ wins."
 
 
 
