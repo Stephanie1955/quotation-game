@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Mokokoma Mokhonoana (1985-2023) South African philosopher###Civilization transformed man from a food gatherer to a %gatherer$ of<br>pieces of paper: diplomas, employment contracts, money, etc.",
-"Napoleon Bonaparte (1769-1821) French military and political leader###History is a set of lies that people have %agreed$ upon.",
-"Nikos Kazantzakis (1883-1957) Greek author and poet###The more devils we have within<br>us, the more chance we have to form %angels$.",
-"Oscar Wilde (1854-1900) Irish writer, poet, and playwright###Everything in moderation, %including$ moderation.",
-"Robert Leroy Johnson (1911-1938) American legendary guitarist###I made a pact with the devil, and the devil %always$ wins."
+"Plato (circa 428-348 BCE) Greek philosopher###Democracy passes %into$ despotism.",
+"Swedish Proverb###Worry often gives a small thing a %big$ shadow.",
+"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###You cannot put the same %shoe$ on every foot.",
+"Ralph Waldo Emerson (1803-1882) American poet###The only person you are destined<br>to become is the person you %decide$ to be.",
+"Robert Baden-Powell (1857-1941) British army officer, founder of the Boy Scouts###Try and leave this world a little %better$ than you found it."
 
 
 
