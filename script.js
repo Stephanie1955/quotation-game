@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Plato (circa 428-348 BCE) Greek philosopher###Democracy passes %into$ despotism.",
-"Swedish Proverb###Worry often gives a small thing a %big$ shadow.",
-"Publilius Syrus (85-43 BCE) Syrian born Roman slave; writer###You cannot put the same %shoe$ on every foot.",
-"Ralph Waldo Emerson (1803-1882) American poet###The only person you are destined<br>to become is the person you %decide$ to be.",
-"Robert Baden-Powell (1857-1941) British army officer, founder of the Boy Scouts###Try and leave this world a little %better$ than you found it."
+"Robert Frost (1874-1963) American poet###In three words I can sum up everything<br>I've learned about life: it %goes$ on.",
+"Robert Louis Stevenson (1850-1894) Scottish writer###Books are good enough in their own way,<br>but they are a %poor$ substitute for life.",
+"Robert Schuller (1926-2015) American televangelist###What would you attempt to do if you knew you could not %fail$?", 
+"Saint Francis of Assisi (1182-1226) Italian saint###A single sunbeam is enough to drive %away$ many shadows.",
+"Samuel Johnson (1709-1784) English poet###He who praises everybody, praises %nobody$.<br><br>{The Rambler}"
 
 
 
