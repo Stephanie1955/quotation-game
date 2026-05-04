@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Robert Frost (1874-1963) American poet###In three words I can sum up everything<br>I've learned about life: it %goes$ on.",
-"Robert Louis Stevenson (1850-1894) Scottish writer###Books are good enough in their own way,<br>but they are a %poor$ substitute for life.",
-"Robert Schuller (1926-2015) American televangelist###What would you attempt to do if you knew you could not %fail$?", 
-"Saint Francis of Assisi (1182-1226) Italian saint###A single sunbeam is enough to drive %away$ many shadows.",
-"Samuel Johnson (1709-1784) English poet###He who praises everybody, praises %nobody$.<br><br>{The Rambler}"
+"Stendhal (Marie-Henri Beyle) (1783-1842) French writer###The more one pleases everybody, the %less$ one pleases profoundly.",
+"Sukant Ratnakar (Born 1968) Indian writer and management consultant###For a photographer - having an observant mind<br>is more important than having an %expensive$ camera.",
+"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###No one cares how much you<br>know, until they %know$ how much you care.",
+"Widely attributed to George S. Patton (1885-1945) American General###%Lead$ me, follow me, or get out of my way.",
+"Upton Sinclair (1878-1968) American writer###It is difficult to get a man to understand something<br>when his salary depends upon his %not$ understanding it."
 
 
 
