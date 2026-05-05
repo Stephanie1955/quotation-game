@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Stendhal (Marie-Henri Beyle) (1783-1842) French writer###The more one pleases everybody, the %less$ one pleases profoundly.",
-"Sukant Ratnakar (Born 1968) Indian writer and management consultant###For a photographer - having an observant mind<br>is more important than having an %expensive$ camera.",
-"Theodore (Teddy) Roosevelt (1858-1919) American president and naturalist###No one cares how much you<br>know, until they %know$ how much you care.",
-"Widely attributed to George S. Patton (1885-1945) American General###%Lead$ me, follow me, or get out of my way.",
-"Upton Sinclair (1878-1968) American writer###It is difficult to get a man to understand something<br>when his salary depends upon his %not$ understanding it."
+"Walt Whitman (1819-1892) American poet###Keep your face always toward the sunshine<br>- and %shadows$ will fall behind you.",
+"William Butler Yeats (1865-1939) Irish poet and politician###The best lack all conviction, while the %worst$ <br> Are full of passionate intensity.<br><br>{The Second Coming}",
+"William James (1842-1910) American philosopher###Most people never run far enough on<br>their first wind to find out they've got a %second$.",
+"William Shakespeare (1564-1616) British poet and playwright###Some rise by %sin$, and some by virtue fall.<br><br>{Measure for Measure}",
+"Zsa Zsa Gabor (1917-2016) Hungarian born American socialite###I'm a great housekeeper. Every time I get a divorce, I %keep$ the house."
 
 
 
