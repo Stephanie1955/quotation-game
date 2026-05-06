@@ -39,16 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Walt Whitman (1819-1892) American poet###Keep your face always toward the sunshine<br>- and %shadows$ will fall behind you.",
-"William Butler Yeats (1865-1939) Irish poet and politician###The best lack all conviction, while the %worst$ <br> Are full of passionate intensity.<br><br>{The Second Coming}",
-"William James (1842-1910) American philosopher###Most people never run far enough on<br>their first wind to find out they've got a %second$.",
-"William Shakespeare (1564-1616) British poet and playwright###Some rise by %sin$, and some by virtue fall.<br><br>{Measure for Measure}",
-"Zsa Zsa Gabor (1917-2016) Hungarian born American socialite###I'm a great housekeeper. Every time I get a divorce, I %keep$ the house."
-
-
-
-
-
+"Wilson Mizner (1876-1933) American playwright###Gambling - the sure way of getting %nothing$ for something.",
+"Popularly attributed to Winston Churchill (1874-1965) British prime minister###Success is stumbling from failure to failure with no %loss$ of enthusiasm.",
+"Xochitl Gonzalez (Born 1977) American writer###No one wants to be perceived as poor,<br>and no one rich ever feels %rich$ enough.<br><br>{What the Comfort Class Doesn't Get - The Atlantic.com}",
+"William Shakespeare (1564-1616) British poet and playwright###Wisdom and Goodness to the vile seem %vile$.<br><br>{King Lear}",
+"James Arthur Baldwin (1927-1987) American writer and civil rights activist### Anyone who has ever struggled with poverty knows how extremely %expensive$ it is to be poor."
 
 
 
@@ -210,7 +205,8 @@ async function runLoopWithPause() {
             if ((q + 1) === arrayOfQuotes.length) {
               const btn = document.querySelector("#nextIterationBtn");
               btn.style.display = 'none';
-              document.getElementById("ThanksForPlaying").innerHTML = "Thanks For Playing. Five new quotes coming tommorow!<br> Send comments to quotetalk@mail.com";
+              document.getElementById("ThanksForPlaying").innerHTML = "Send comments to quotetalk@mail.com";
+              /*document.getElementById("ThanksForPlaying").innerHTML = "Thanks For Playing. Five new quotes coming tommorow!<br> Send comments to quotetalk@mail.com";*/
             } // all quotes have been played 
 
             displayCongrats(fullQuoteWithTargetWord);
