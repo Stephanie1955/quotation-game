@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Wilson Mizner (1876-1933) American playwright###Gambling - the sure way of getting %nothing$ for something.",
-"Popularly attributed to Winston Churchill (1874-1965) British prime minister###Success is stumbling from failure to failure with no %loss$ of enthusiasm.",
-"Xochitl Gonzalez (Born 1977) American writer###No one wants to be perceived as poor,<br>and no one rich ever feels %rich$ enough.<br><br>{What the Comfort Class Doesn't Get - The Atlantic.com}",
-"William Shakespeare (1564-1616) British poet and playwright###Wisdom and Goodness to the vile seem %vile$.<br><br>{King Lear}",
-"James Arthur Baldwin (1927-1987) American writer and civil rights activist### Anyone who has ever struggled with poverty knows how extremely %expensive$ it is to be poor."
+"Wildly attributed to Albert Einstein (1879-1955) German-born American theoretical physicist###Only two things are infinite, the universe and<br>human stupidity, and I'm not sure about the %former$.",
+"Commonly attributed to Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###If you fail to plan, you are %planning$ to fail.",
+"Charles Bukowski (1920-1994) Prussian-born American poet###If you're losing your soul and you %know$ it,<br>then you've still got a soul left to lose.",
+"Tibetan proverb###If a problem can be solved, there is no use worrying about it.<br>If it can't be solved, worrying will do no %good$.",
+"Charles Dickens (1812-1870) English writer and social critic###No one is useless in this world who %lightens$ the burdens of another."
 
 
 
