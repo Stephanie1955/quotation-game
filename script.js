@@ -39,11 +39,11 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-"Wildly attributed to Albert Einstein (1879-1955) German-born American theoretical physicist###Only two things are infinite, the universe and<br>human stupidity, and I'm not sure about the %former$.",
-"Commonly attributed to Benjamin Franklin (1706-1790) American statesman, diplomat, and scientist###If you fail to plan, you are %planning$ to fail.",
-"Charles Bukowski (1920-1994) Prussian-born American poet###If you're losing your soul and you %know$ it,<br>then you've still got a soul left to lose.",
-"Tibetan proverb###If a problem can be solved, there is no use worrying about it.<br>If it can't be solved, worrying will do no %good$.",
-"Charles Dickens (1812-1870) English writer and social critic###No one is useless in this world who %lightens$ the burdens of another."
+"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###One of the advantages of being disorderly is that one is constantly making exciting %discoveries$.",
+"Adam Phillips (Born 1954) British psychoanalytic psychotherapist###Not knowing for certain what the %good$ life is,<br>we settle for the enviable life.",
+"Albert Einstein (1879-1955) German-born American theoretical physicist###It's not that I'm so %smart$. It's that I stay with problems longer.",
+"Attribution Unknown###%Everybody$ wants fairness, but nobody knows quite what it is.",
+"Brian Goldstone (Born 1980) American journalist###Wealth isn't trickling down; it's %pooled$ at the top.",
 
 
 
