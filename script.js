@@ -1184,7 +1184,7 @@ console.log("quoteLine is: " + quoteLine);
             if ((q + 1) === 5) { //arrayOfQuotes.length) {
               const btn = document.querySelector("#nextIterationBtn");
               btn.style.display = 'none';
-              document.getElementById("ThanksForPlaying").innerHTML = "Press Ctrl + R to get 5 more randomly selected quotes.<br>Send comments to quotetalk@mail.com";
+              document.getElementById("ThanksForPlaying").innerHTML = "Reload the page for 5 more randomly selected quotes.<br>quotetalk@mail.com";
               /*document.getElementById("ThanksForPlaying").innerHTML = "Thanks For Playing. Five new quotes coming tommorow!<br> Send comments to quotetalk@mail.com";*/
             } // 5 quotes have been played 
 
