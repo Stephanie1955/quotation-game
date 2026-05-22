@@ -39,8 +39,7 @@ nextIterationBtn.addEventListener('click', () => {
 });
 
 const arrayOfQuotes = [
-
-  "A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###Bores can be divided into two classes;<br>those who have their own particular subject,<br>and those who do not need a %subject$.",
+"A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###Bores can be divided into two classes;<br>those who have their own particular subject,<br>and those who do not need a %subject$.",
 "A. A. Milne (1882 - 1956) English writer, author of Winnie-the-Pooh###One of the advantages of being disorderly<br>is that one is constantly making exciting %discoveries$.",
 
 "Possibly Abby Buchanan Longstreet (1834-1899) American writer and socialite###I would challenge you to a %battle$ of wits,<br> but I see you are unarmed.",
@@ -1042,11 +1041,11 @@ async function runLoopWithPause() {
     document.getElementById("fullQuoteWithTargetWord").innerHTML = "";
     document.getElementById("congratsMsg").innerHTML = "";
     //console.log("loop completed");
-        randomInteger =  Math.floor(Math.random() * arrayOfQuotes.length); //random integer from array of quotes
-console.log("randomInteger is: " + randomInteger);        
+    randomInteger =  Math.floor(Math.random() * arrayOfQuotes.length); //random integer from array of quotes
+    //console.log("randomInteger is: " + randomInteger);        
     quoteLine = arrayOfQuotes[randomInteger]; //quoteLine is the string of the quote, author's bio, and target word with markers for start and end of each.
-console.log("quoteLine is: " + quoteLine);
- 
+    //console.log("quoteLine is: " + quoteLine);
+    
     //get author's bio
     let endOfBio = quoteLine.indexOf("###");//end marker of biography of author
     let authorsBio = quoteLine.substring(0, endOfBio);
@@ -1184,9 +1183,14 @@ console.log("quoteLine is: " + quoteLine);
             if ((q + 1) === 5) { //arrayOfQuotes.length) {
               const btn = document.querySelector("#nextIterationBtn");
               btn.style.display = 'none';
-              document.getElementById("ThanksForPlaying").innerHTML = "Reload the page for 5 more randomly selected quotes.<br>quotetalk@mail.com";
-              /*document.getElementById("ThanksForPlaying").innerHTML = "Thanks For Playing. Five new quotes coming tommorow!<br> Send comments to quotetalk@mail.com";*/
-            } // 5 quotes have been played 
+              document.querySelector('[data-keyboard]').style.display = 'none';
+              document.getElementById('gameCompletedSection').style.display = 'block';  
+
+              playAgainBtn.addEventListener('click', () => {
+                location.reload(); // Reload the page to start a new game
+              });
+            
+            } // all 5 quotes have been played w/ options to play again
 
             displayCongrats(fullQuoteWithTargetWord);
 
@@ -1205,7 +1209,7 @@ console.log("quoteLine is: " + quoteLine);
       resetKeyboard();
     }
     waitForButtonClick();
-  } //end of for loop q iterating thru every quote
+  } //end of for loop q iterating thru quotes
 
   //console.log("FOR LOOP END");
 
